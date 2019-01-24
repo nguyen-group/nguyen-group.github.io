@@ -1082,9 +1082,17 @@ ul li.filter{
     margin-top: 100px;
     background: no-repeat top center;
     position: relative;
-    height: none;
+    height: auto;
     width: none;
     margin-bottom: 80px;
+}
+
+.carousel .item {
+    height: auto;
+}
+
+.carousel .item img {
+    height:auto;
 }
 
 .carousel-control.left, .carousel-control.right {
