@@ -1082,7 +1082,7 @@ ul li.filter{
     margin-top: 100px;
     background: no-repeat top center;
     position: relative;
-    height: 100%;
+    height: none;
     width: none;
     margin-bottom: 80px;
 }
