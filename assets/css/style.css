@@ -1079,12 +1079,12 @@ ul li.filter{
 =========================================================================*/
 
 .carousel-inner img {
-    margin-top:100px;
-    background:no-repeat top center;
+    margin-top: 100px;
+    background: no-repeat top center;
     position: relative;
-    width:1000px;
-    height:450px;
-    margin-bottom:80px;
+    height: 100%;
+    width: none;
+    margin-bottom: 80px;
 }
 
 .carousel-control.left, .carousel-control.right {
