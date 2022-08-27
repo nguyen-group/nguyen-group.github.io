@@ -3,10 +3,10 @@
   <channel>
     <title>Interdisciplinary Materials Science</title>
     <description>We focus on the theory and simulation of quantum materials with energy applications, such as thermoelectricity, photovoltaics, artificial muscles, and others at FRIS, Tohoku University.</description>
-    <link>http://localhost:4000nguyen-group.github.io/</link>
-    <atom:link href="http://localhost:4000nguyen-group.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Aug 2022 19:49:25 +0900</pubDate>
-    <lastBuildDate>Sat, 27 Aug 2022 19:49:25 +0900</lastBuildDate>
+    <link>http://localhost:4000/nguyen-group.github.io/</link>
+    <atom:link href="http://localhost:4000/nguyen-group.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Aug 2022 19:53:39 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Aug 2022 19:53:39 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -15,12 +15,12 @@
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://www.jennystanford.com/9789814968379/quantum-espresso-course-for-solid-state-physics/&quot;&gt;Quantum ESPRESSO Course for Solid‑State Physics&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Jenny Stanford Publishing&lt;/em&gt;&lt;/strong&gt;, 361 pages (2022).&lt;/li&gt;
+  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://www.jennystanford.com/9789814968379/quantum-espresso-course-for-solid-state-physics/&quot;&gt;Quantum ESPRESSO Course for Solid‑State Physics&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Jenny Stanford Publishing&lt;/em&gt;&lt;/strong&gt;, 361 pages (2022).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 05 Aug 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000nguyen-group.github.io/energy-tree/</link>
-        <guid isPermaLink="true">http://localhost:4000nguyen-group.github.io/energy-tree/</guid>
+        <link>http://localhost:4000/nguyen-group.github.io/energy-tree/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/energy-tree/</guid>
         
         
         <category>research</category>
@@ -41,8 +41,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 04 Aug 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000nguyen-group.github.io/thermoelectricity/</link>
-        <guid isPermaLink="true">http://localhost:4000nguyen-group.github.io/thermoelectricity/</guid>
+        <link>http://localhost:4000/nguyen-group.github.io/thermoelectricity/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/thermoelectricity/</guid>
         
         
         <category>research</category>
@@ -55,14 +55,14 @@
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;*, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1088/1361-6463/aaa68f&quot;&gt;Two-dimensional MoS2 electrochemical actuator&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;J. Phys. D: Appl. Phys.&lt;/em&gt;&lt;/strong&gt; 51, 075306 (2018).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;*, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1016/j.carbon.2017.09.083&quot;&gt;High-performance three-dimensional carbon Archimedean lattices electromechanical actuators&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 125, 472-479 (2017).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;*, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1016/j.carbon.2017.03.036&quot;&gt;Charge-induced electrochemical actuation of armchair carbon nanotube bundles&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 118, 278-284 (2017).&lt;/li&gt;
+  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1088/1361-6463/aaa68f&quot;&gt;Two-dimensional MoS2 electrochemical actuator&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;J. Phys. D: Appl. Phys.&lt;/em&gt;&lt;/strong&gt; 51, 075306 (2018).&lt;/li&gt;
+  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1016/j.carbon.2017.09.083&quot;&gt;High-performance three-dimensional carbon Archimedean lattices electromechanical actuators&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 125, 472-479 (2017).&lt;/li&gt;
+  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1016/j.carbon.2017.03.036&quot;&gt;Charge-induced electrochemical actuation of armchair carbon nanotube bundles&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 118, 278-284 (2017).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 03 Aug 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000nguyen-group.github.io/artificial-muscles/</link>
-        <guid isPermaLink="true">http://localhost:4000nguyen-group.github.io/artificial-muscles/</guid>
+        <link>http://localhost:4000/nguyen-group.github.io/artificial-muscles/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/artificial-muscles/</guid>
         
         
         <category>research</category>
@@ -76,8 +76,8 @@
 &lt;p&gt;More information: N. T. Hung and R. Saito, &lt;a href=&quot;https://doi.org/10.1002/qute.202000115&quot;&gt;The origin of quantum effects in low‐dimensional thermoelectric materials&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Quantum Technol.&lt;/em&gt;&lt;/strong&gt; 4, 2000115 (2021).&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000nguyen-group.github.io/Low-dimensional-thermoelectric-materials/</link>
-        <guid isPermaLink="true">http://localhost:4000nguyen-group.github.io/Low-dimensional-thermoelectric-materials/</guid>
+        <link>http://localhost:4000/nguyen-group.github.io/Low-dimensional-thermoelectric-materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/Low-dimensional-thermoelectric-materials/</guid>
         
         
         <category>thermoelectricity</category>
@@ -93,8 +93,8 @@
 &lt;p&gt;More information: K. Zhang et al. &lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.014308&quot;&gt;Anomalous phonon-mode dependence in polarized Raman spectroscopy of the topological Weyl semimetal TaP&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/strong&gt; 101, 014308 (2020).&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Feb 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000nguyen-group.github.io/New-class-of-materials-shows-strange-electron-properties/</link>
-        <guid isPermaLink="true">http://localhost:4000nguyen-group.github.io/New-class-of-materials-shows-strange-electron-properties/</guid>
+        <link>http://localhost:4000/nguyen-group.github.io/New-class-of-materials-shows-strange-electron-properties/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/New-class-of-materials-shows-strange-electron-properties/</guid>
         
         
         <category>topological-materials</category>
@@ -110,8 +110,8 @@
 &lt;p&gt;More information: Nguyen T. Hung et al. &lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.036602&quot;&gt;Quantum Effects in the Thermoelectric Power Factor of Low-Dimensional Semiconductors&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Physical Review Letters&lt;/em&gt;&lt;/strong&gt; 117, 036602 (2016).&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Aug 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000nguyen-group.github.io/Theory-of-thermoelectric-properties-updated-after-23-years/</link>
-        <guid isPermaLink="true">http://localhost:4000nguyen-group.github.io/Theory-of-thermoelectric-properties-updated-after-23-years/</guid>
+        <link>http://localhost:4000/nguyen-group.github.io/Theory-of-thermoelectric-properties-updated-after-23-years/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/Theory-of-thermoelectric-properties-updated-after-23-years/</guid>
         
         
         <category>thermoelectricity</category>
