@@ -5,21 +5,17 @@
     <description>We focus on the theory and simulation of quantum materials with energy applications, such as thermoelectricity, photovoltaics, artificial muscles, and others at FRIS, Tohoku University.</description>
     <link>http://localhost:4000/nguyen-group.github.io/</link>
     <atom:link href="http://localhost:4000/nguyen-group.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Aug 2022 13:36:42 +0900</pubDate>
-    <lastBuildDate>Sat, 27 Aug 2022 13:36:42 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Aug 2022 14:43:59 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Aug 2022 14:43:59 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
         <title>Energy Tree</title>
-        <description>&lt;p&gt;Thermoelectric material, which directly converts waste heat to electricity, provides an ecofriendly power generator to reuse heat energy sources. New attempts have started for thermoelectricity of low‐dimensional materials since 1993 when the theory of confinement effect was presented by Hicks and Dresselhaus. Experimental works have been inspired by the theory of confinement to the use of low‐dimensional materials for improving thermoelectric efficiency for more than two decades. However, many people have tried that experimentally, and no one has been quite successful. Therefore, we want to know why and how to solve this issue. It is thus necessary to reevaluate the thermoelectric theory of the low-dimensional materials to find a new and general theory of the thermoelectric enhancement.&lt;/p&gt;
+        <description>&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming. With this approach, a material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery the high-performance and low-cost energy materials. This integrated approach will combine the DFT calculations and data-driven methods (i.e., high-throughput screening and machine learning). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy materials.&lt;/p&gt;
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito,&lt;a href=&quot;https://doi.org/10.1016/j.nanoen.2019.02.015&quot;&gt; Designing high-performance thermoelectrics in two-dimensional tetradymites&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Nano Energy&lt;/em&gt;&lt;/strong&gt; 58, 743-749 (2019).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevApplied.9.024019&quot;&gt;Universal curve of optimum thermoelectric figure of merit for bulk and low-dimensional semiconductors&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Appl.&lt;/em&gt;&lt;/strong&gt; 9, 024019 (2018).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1063/1.5001184&quot;&gt;Two-dimensional InSe as a potentialthermoelectric material&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Phys. Lett.&lt;/em&gt;&lt;/strong&gt; 111, 092107 (2017).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, E. H. Hasdeo, A. R. T. Nugraha, M. S. Dresselhaus and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1103/PhysRevLett.117.036602&quot;&gt;Quantum effects in the thermoelectric power factor of low-dimensional semiconductors&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Lett.&lt;/em&gt;&lt;/strong&gt; 117, 036602 (2016).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha, E. H. Hasdeo, M. S. &lt;a href=&quot;https://dx.doi.org/10.1103/PhysRevB.92.165426&quot;&gt;Dresselhaus and R. Saito, Diameter dependence of thermopower of semiconducting carbon nanotubes&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B&lt;/em&gt;&lt;/strong&gt; 92, 165426 (2015).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://www.jennystanford.com/9789814968379/quantum-espresso-course-for-solid-state-physics/&quot;&gt;Quantum ESPRESSO Course for Solid‑State Physics&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Jenny Stanford Publishing&lt;/em&gt;&lt;/strong&gt;, 361 pages (2022).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 05 Aug 2022 00:00:00 +0900</pubDate>
@@ -59,11 +55,9 @@
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito,&lt;a href=&quot;https://doi.org/10.1016/j.nanoen.2019.02.015&quot;&gt; Designing high-performance thermoelectrics in two-dimensional tetradymites&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Nano Energy&lt;/em&gt;&lt;/strong&gt; 58, 743-749 (2019).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevApplied.9.024019&quot;&gt;Universal curve of optimum thermoelectric figure of merit for bulk and low-dimensional semiconductors&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Appl.&lt;/em&gt;&lt;/strong&gt; 9, 024019 (2018).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1063/1.5001184&quot;&gt;Two-dimensional InSe as a potentialthermoelectric material&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Phys. Lett.&lt;/em&gt;&lt;/strong&gt; 111, 092107 (2017).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, E. H. Hasdeo, A. R. T. Nugraha, M. S. Dresselhaus and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1103/PhysRevLett.117.036602&quot;&gt;Quantum effects in the thermoelectric power factor of low-dimensional semiconductors&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Lett.&lt;/em&gt;&lt;/strong&gt; 117, 036602 (2016).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha, E. H. Hasdeo, M. S. &lt;a href=&quot;https://dx.doi.org/10.1103/PhysRevB.92.165426&quot;&gt;Dresselhaus and R. Saito, Diameter dependence of thermopower of semiconducting carbon nanotubes&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B&lt;/em&gt;&lt;/strong&gt; 92, 165426 (2015).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;*, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1088/1361-6463/aaa68f&quot;&gt;Two-dimensional MoS2 electrochemical actuator&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;J. Phys. D: Appl. Phys.&lt;/em&gt;&lt;/strong&gt; 51, 075306 (2018).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;*, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1016/j.carbon.2017.09.083&quot;&gt;High-performance three-dimensional carbon Archimedean lattices electromechanical actuators&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 125, 472-479 (2017).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;N. T. Hung&lt;/strong&gt;*, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1016/j.carbon.2017.03.036&quot;&gt;Charge-induced electrochemical actuation of armchair carbon nanotube bundles&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 118, 278-284 (2017).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 03 Aug 2022 00:00:00 +0900</pubDate>
@@ -76,15 +70,55 @@
       </item>
     
       <item>
-        <title>Topological materials</title>
+        <title>Low‐dimensional thermoelectric materials</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/qute.202170013&quot;&gt;Our review paper was selected as a back cover&lt;/a&gt; of Adv. Quantum Technol. The cover image depicts electrons moving from hot to cold temperature, which can generate electrical energy. The quantum effect occurs when the width of the system is smaller than the thermal de Broglie wavelength.&lt;/p&gt;
+
+&lt;p&gt;More information: N. T. Hung and R. Saito, &lt;a href=&quot;https://doi.org/10.1002/qute.202000115&quot;&gt;The origin of quantum effects in low‐dimensional thermoelectric materials&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Quantum Technol.&lt;/em&gt;&lt;/strong&gt; 4, 2000115 (2021).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/nguyen-group.github.io/Low-dimensional-thermoelectric-materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/Low-dimensional-thermoelectric-materials/</guid>
+        
+        
+        <category>thermoelectricity</category>
+        
+        <category>low-dimensional-materials</category>
+        
+      </item>
+    
+      <item>
+        <title>New class of materials shows strange electron properties</title>
         <description>&lt;p&gt;Our collaborative paper in Weyl semimetal was selected by Pennsylvania State University News with tiltel “&lt;a href=&quot;https://news.psu.edu/story/607876/2020/02/11/research/new-class-materials-shows-strange-electron-properties&quot;&gt;New class of materials shows strange electron properties&lt;/a&gt;”. Other social media coverage in &lt;a href=&quot;https://phys.org/news/2020-02-class-materials-strange-electron-properties.html&quot;&gt;Phys.org&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;More information: K. Zhang et al. &lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.014308&quot;&gt;Anomalous phonon-mode dependence in polarized Raman spectroscopy of the topological Weyl semimetal TaP&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/strong&gt; 101, 014308 (2020).&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Feb 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/nguyen-group.github.io/topological-materials/</link>
-        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/topological-materials/</guid>
+        <link>http://localhost:4000/nguyen-group.github.io/New-class-of-materials-shows-strange-electron-properties/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/New-class-of-materials-shows-strange-electron-properties/</guid>
         
+        
+        <category>topological-materials</category>
+        
+        <category>Weyl-semimetals</category>
+        
+      </item>
+    
+      <item>
+        <title>Theory of thermoelectric properties updated after 23 years</title>
+        <description>&lt;p&gt;News coverage on the “&lt;a href=&quot;https://www.tohoku.ac.jp/en/press/thermoelectric_properties_theory_updated.html&quot;&gt;Theory of thermoelectric properties updated after 23 years&lt;/a&gt;”. Other social media coverage in &lt;a href=&quot;https://phys.org/news/2016-08-theory-thermoelectric-properties-years.html&quot;&gt;Phys.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More information: Nguyen T. Hung et al. &lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.036602&quot;&gt;Quantum Effects in the Thermoelectric Power Factor of Low-Dimensional Semiconductors&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Physical Review Letters&lt;/em&gt;&lt;/strong&gt; 117, 036602 (2016).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Aug 2016 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/nguyen-group.github.io/Theory-of-thermoelectric-properties-updated-after-23-years/</link>
+        <guid isPermaLink="true">http://localhost:4000/nguyen-group.github.io/Theory-of-thermoelectric-properties-updated-after-23-years/</guid>
+        
+        
+        <category>thermoelectricity</category>
+        
+        <category>low-dimensional-materials</category>
+        
+        <category>quantum-effects</category>
         
       </item>
     

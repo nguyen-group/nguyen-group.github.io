@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/nguyen-group.github.io/topological-materials/</loc>
+<loc>http://localhost:4000/nguyen-group.github.io/Theory-of-thermoelectric-properties-updated-after-23-years/</loc>
+<lastmod>2016-08-23T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nguyen-group.github.io/New-class-of-materials-shows-strange-electron-properties/</loc>
 <lastmod>2020-02-11T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nguyen-group.github.io/Low-dimensional-thermoelectric-materials/</loc>
+<lastmod>2021-02-15T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/nguyen-group.github.io/artificial-muscles/</loc>
@@ -30,6 +38,21 @@
 </url>
 <url>
 <loc>http://localhost:4000/nguyen-group.github.io/publications</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nguyen-group.github.io/category/thermoelectricity/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nguyen-group.github.io/category/low-dimensional-materials/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nguyen-group.github.io/category/quantum-effects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nguyen-group.github.io/category/topological-materials/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nguyen-group.github.io/category/weyl-semimetals/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/nguyen-group.github.io/category/research/</loc>

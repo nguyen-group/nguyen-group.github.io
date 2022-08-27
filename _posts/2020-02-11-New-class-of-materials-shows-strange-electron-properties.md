@@ -1,8 +1,10 @@
 ---
-title: Topological materials
+title: New class of materials shows strange electron properties
 layout: post
 author: nguyen
-categories: []
+categories:
+- topological-materials
+- Weyl-semimetals
 image: assets/images/raman.png
 ---
 
