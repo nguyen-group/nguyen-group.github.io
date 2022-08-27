@@ -3,7 +3,7 @@ title: 'Interdisciplinary Materials Science'
 description: 'We focus on the theory and simulation of quantum materials with energy applications, such as thermoelectricity, photovoltaics, artificial muscles, and others at FRIS, Tohoku University.'
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/nguyen-group.github.io'
+baseurl: 'nguyen-group.github.io'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 include:
