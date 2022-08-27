@@ -1,0 +1,57 @@
+name: 'Interdisciplinary Materials Science'
+title: 'Interdisciplinary Materials Science'
+description: 'We focus on the theory and simulation of quantum materials with energy applications, such as thermoelectricity, photovoltaics, artificial muscles, and others at FRIS, Tohoku University.'
+logo: 'assets/images/favicon.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+include:
+  - _pages
+permalink: '/:title/'
+authors:
+  nguyen:
+    name: Nguyen Tuan Hung
+    display_name: N. T. Hung
+    gravatar: 69bfba362c993c163b38b0c09c529797
+    email: 'hung@live.jp'
+    web: 'https://nguyen-group.github.io/'
+    twitter: 'https://twitter.com/tuanhung52'
+    description: >-
+      Hi, I’m Hung, and I write blogs because I love nature and science. I hope
+      you like it.
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-admin
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+paginate: 6
+paginate_path: '/page:num/'
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+adsense: disabled
+adsense-data-ad-client: ca-pub-3412143450191416
+adsense-data-ad-slot: '1363087678'
+lazyimages: disabled
+exclude:
+  - changelog.md
+  - LICENSE.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+jekyll_admin:
+  hidden_links: null
+  homepage: ''
