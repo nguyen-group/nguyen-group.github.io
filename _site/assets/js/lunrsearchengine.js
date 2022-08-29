@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/nguyen-group.github.io/lectures",
     "title": "Lectures",
-    "body": "   First Principles Workshop An introduction and hands‑on tutorials with Quantum ESPRESSO:   26/2/2016, Tohoku University, Japan. For details, please visit the workshop website: https://nguyen-group. github. io/lectures/qe2016                          text for link!!!!!                          text for link!!!!!                              text for link!!!!!                          text for link!!!!!      "
+    "body": "   First Principles Workshop An introduction and hands‑on tutorials with Quantum ESPRESSO:   26/2/2016, Tohoku University, Japan. For details, please visit the workshop website: https://nguyen-group. github. io/lectures/qe2016                                                                 "
     }, {
     "id": 4,
     "url": "http://localhost:4000/nguyen-group.github.io/members",
