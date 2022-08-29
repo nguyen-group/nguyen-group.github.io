@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000https://nguyen-group.github.io/books",
     "title": "Books",
-    "body": "Textbooks: 	 	N. T. Hung, A. R. T. Nugraha and R. Saito, Quantum ESPRESSO Course for Solid‑State Physics, Jenny Stanford Publishing, 361 pages (2022). Book Chapters: 	 R. Saito, A. R. T. Nugraha, E. H. Hasdeo, N. T. Hung and W. Izumida, Electronic and optical properties of single wall carbon nanotubes, in Single‑Walled Carbon Nanotubes: Preparation, Property and Application, Ed. Y. Li and S. Maruyama,	Springer, Beijing, Top. Curr. Chem. 375, 1‑24 (2017). Buy the texbookThank you for your support! Amazon Routledge (T&amp;F) 	 Source files of the textbook "
+    "body": "Textbooks: N. T. Hung, A. R. T. Nugraha and R. Saito, Quantum ESPRESSO Course for Solid‑State Physics, Jenny Stanford Publishing, 361 pages (2022).  Book Chapters: R. Saito, A. R. T. Nugraha, E. H. Hasdeo, N. T. Hung and W. Izumida, Electronic and optical properties of single wall carbon nanotubes, in Single‑Walled Carbon Nanotubes: Preparation, Property and Application, Ed. Y. Li and S. Maruyama,	Springer, Beijing, Top. Curr. Chem. 375, 1‑24 (2017).  Buy the texbookThank you for your support! Amazon Routledge (T&amp;F) 	 Source files of the textbook "
     }, {
     "id": 2,
     "url": "http://localhost:4000https://nguyen-group.github.io/",
