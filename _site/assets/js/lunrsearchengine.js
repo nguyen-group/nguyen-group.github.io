@@ -17,8 +17,8 @@ var documents = [{
     }, {
     "id": 3,
     "url": "http://localhost:4000/nguyen-group.github.io/lectures",
-    "title": "Mediumish Template for Jekyll",
-    "body": "My lectures.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "title": "Lectures",
+    "body": "   First Principles Workshop An introduction and hands‑on tutorials with Quantum ESPRESSO:   26/2/2016, Tohoku University, Japan. For details, please visit the workshop website: https://nguyen-group. github. io/lectures/qe2016                          text for link!!!!!                          text for link!!!!!                              text for link!!!!!                          text for link!!!!!      "
     }, {
     "id": 4,
     "url": "http://localhost:4000/nguyen-group.github.io/members",
