@@ -26,7 +26,7 @@ permalink: "/lectures"
     </tr>
 </table>
 
-
+<br>
 
 #### Summer Meeting 2022: Interdisciplinary Materials Science
 >19-20/7/2022, Hanoi, Vietnam. For details, please visit the workshop website: [https://nguyen-group.github.io/lectures/ims2022](https://nguyen-group.github.io/lectures/ims2022)
