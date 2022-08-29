@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/nguyen-group.github.io/books",
     "title": "Books",
-    "body": "Textbooks: N. T. Hung, A. R. T. Nugraha and R. Saito, Quantum ESPRESSO Course for Solid‑State Physics, Jenny Stanford Publishing, 361 pages (2022).  Book Chapters: 	R. Saito, A. R. T. Nugraha, E. H. Hasdeo, N. T. Hung and W. Izumida, Electronic and optical properties of single wall carbon nanotubes, in Single‑Walled Carbon Nanotubes: Preparation, Property and Application, Ed. Y. Li and S. Maruyama,	Springer, Beijing, Top. Curr. Chem. 375, 1‑24 (2017). Buy the texbookThank you for your support! Amazon Routledge (T&amp;F) 	 Source files of the textbook "
+    "body": "Textbooks: 	 	N. T. Hung, A. R. T. Nugraha and R. Saito, Quantum ESPRESSO Course for Solid‑State Physics, Jenny Stanford Publishing, 361 pages (2022). Book Chapters: 	 R. Saito, A. R. T. Nugraha, E. H. Hasdeo, N. T. Hung and W. Izumida, Electronic and optical properties of single wall carbon nanotubes, in Single‑Walled Carbon Nanotubes: Preparation, Property and Application, Ed. Y. Li and S. Maruyama,	Springer, Beijing, Top. Curr. Chem. 375, 1‑24 (2017). Buy the texbookThank you for your support! Amazon Routledge (T&amp;F) 	 Source files of the textbook "
     }, {
     "id": 2,
     "url": "http://localhost:4000/nguyen-group.github.io/",
@@ -22,8 +22,8 @@ var documents = [{
     }, {
     "id": 4,
     "url": "http://localhost:4000/nguyen-group.github.io/members",
-    "title": "Mediumish Template for Jekyll",
-    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "title": "Members",
+    "body": "Principal Investigator: Nguyen Tuan Hung: Nguyen Tuan Hung received a Ph. D. with a Joint Program for Leading Graduate Schools from Tohoku University in March 2019 with a shortened period (two and a half years). Since April 2019, he has been an assistant professor at Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University. He has been an advanced visiting scholar at Chinese Academy of Sciences (2017) and a researcher internship at Toyota Motor Corporation (2018). In addition, he got the Aoba Society Prize for the Promotion of Science from Tohoku University (2017), Research Fellowships for Young Scientists from Japan Society for the Promotion of Science (2018), and Prominent Research Fellow from Tohoku University (2021). Contact: Email: nguyen@tohoku. ac. jp; or hung@live. jp Alumni: Dr. Pratama Fenda Rizky: Pratama Fenda Rizky received a Ph. D. from Tohoku University in September 2021. He joined the group as a post-doc from 2021 to 2022 and study the thermoelectric properties of the 3D materials. He now is working as a post-doc at Mathematics for Advanced Materials-OIL, AIST. "
     }, {
     "id": 5,
     "url": "http://localhost:4000/nguyen-group.github.io/publications",

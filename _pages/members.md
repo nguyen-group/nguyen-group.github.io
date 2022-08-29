@@ -1,34 +1,21 @@
 ---
-title: Mediumish Template for Jekyll
+title: Members
 layout: page
 permalink: "/members"
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+### Principal Investigator
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<img src="{{site.baseurl}}/assets/images/nguyen.jpg" alt="Nguyen" style="height: 350px"/>
+### Nguyen Tuan Hung
+Nguyen Tuan Hung received a Ph.D. with a Joint Program for Leading Graduate Schools from Tohoku University in March 2019 with a shortened period (two and a half years). Since April 2019, he has been an assistant professor at Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University. He has been an advanced visiting scholar at Chinese Academy of Sciences (2017) and a researcher internship at Toyota Motor Corporation (2018). In addition, he got the Aoba Society Prize for the Promotion of Science from Tohoku University (2017), Research Fellowships for Young Scientists from Japan Society for the Promotion of Science (2018), and Prominent Research Fellow from Tohoku University (2021).
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+### Contact
+Email: nguyen@tohoku.ac.jp; or hung@live.jp
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+### Alumni
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+<img src="{{site.baseurl}}/assets/images/pratama.png" alt="Pratama" style="height: 300px"/>
+### Dr. Pratama Fenda Rizky
+Pratama Fenda Rizky received a Ph.D. from Tohoku University in September 2021. He joined the group as a post-doc from 2021 to 2022 and study the thermoelectric properties of the 3D materials. He now is working as a post-doc at Mathematics for Advanced Materials-OIL, AIST.
