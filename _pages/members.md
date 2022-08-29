@@ -11,7 +11,7 @@ permalink: "/members"
 Nguyen Tuan Hung received a Ph.D. with a Joint Program for Leading Graduate Schools from Tohoku University in March 2019 with a shortened period (two and a half years). Since April 2019, he has been an assistant professor at Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University. He has been an advanced visiting scholar at Chinese Academy of Sciences (2017) and a researcher internship at Toyota Motor Corporation (2018). In addition, he got the Aoba Society Prize for the Promotion of Science from Tohoku University (2017), Research Fellowships for Young Scientists from Japan Society for the Promotion of Science (2018), and Prominent Research Fellow from Tohoku University (2021).
 
 ### Contact
-Email: nguyen@tohoku.ac.jp; or hung@live.jp
+Email: [nguyen@tohoku.ac.jp](mailto:nguyen@tohoku.ac.jp); or [hung@live.jp](mailto:hung@live.jp)
 
 
 ### Alumni
