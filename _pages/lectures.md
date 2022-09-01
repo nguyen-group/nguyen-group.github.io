@@ -5,7 +5,7 @@ permalink: "/lectures"
 ---
 
 #### First Principles Workshop: An introduction and hands‑on tutorials with Quantum ESPRESSO
->26/2/2016, Tohoku University, Japan. For details, please visit the workshop website: [https://nguyen-group.github.io/lectures/qe2016](https://nguyen-group.github.io/lectures/qe2016)
+>26/2/2016, Tohoku University, Japan. For details, please visit the workshop website: [https:sites.google.com/site/fpw2016md/](https:sites.google.com/site/fpw2016md/)
 
 <table width="800">
     <tr>

@@ -4,7 +4,7 @@ description: 'We focus on the theory and simulation of quantum materials with en
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://nguyen-group.github.io'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-70667326-1'
 disqus: 'demowebsite'
 include:
   - _pages

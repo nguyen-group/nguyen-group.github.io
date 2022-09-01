@@ -8,7 +8,7 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2022
-1. F. R. Pratama, R. Saito and **N. T. Hung**\*, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), 106, L081304 ***Phys. Rev. B: Lett.*** (2022).
+1. F. R. Pratama, R. Saito and **N. T. Hung**\*, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), ***Phys. Rev. B: Lett.*** 106, L081304 (2022).
 2. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu, [Exploring unusual temperature‑dependent optical
 properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
 3. **N. T. Hung**\*, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, [Enhanced thermoelectric performance by van Hove sin‑
