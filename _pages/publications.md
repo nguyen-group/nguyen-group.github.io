@@ -76,7 +76,7 @@ permalink: "/publications"
 (2022).
 {: reversed="reversed"}
 {:start="3"}
-### Popular aticles (in Vietnamese)
+### Popular articles (in Vietnamese)
 3. **N. T. Hung** and V. V. Thanh, [Thermal power and future applications in the automotive industry](https://vjol.info.vn/index.php/khcn/article/view/68899/58291), ***Vietnam J. Sci. Tech. Eng.*** 7A, 62-64 (2022).
 2. **N. T. Hung** and V. V. Thanh, [Artificial muscle: When materials overcome nature's evolution](https://vjol.info.vn/index.php/khcn/article/view/51816/42670), ***Vietnam J. Sci. Tech. Eng.*** 9A, 62-64 (2020).
 1. **N. T. Hung**, [Low-dimensional materials - Solution for thermoelectric development](https://vjol.info.vn/index.php/khcn/article/view/36278/29657), ***Vietnam J. Sci. Tech. Eng.*** 7A, 54-57 (2018).
