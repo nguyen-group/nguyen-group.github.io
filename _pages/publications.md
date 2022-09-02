@@ -9,8 +9,7 @@ permalink: "/publications"
 (*: corresponding author; †: equal contribution)
 ### 2022
 1. F. R. Pratama, R. Saito and **N. T. Hung**\*, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), ***Phys. Rev. B: Lett.*** 106, L081304 (2022).
-2. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu, [Exploring unusual temperature‑dependent optical
-properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
+2. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu, [Exploring unusual temperature‑dependent optical properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
 3. **N. T. Hung**\*, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, [Enhanced thermoelectric performance by van Hove singularities in the density of states of type‑II nodal‑line semimetals](https://doi.org/10.1103/PhysRevB.105.115142), ***Phys. Rev. B*** 105, 115142‑1‑5 (2022).
 4. L. X. Dien, T. Murayama, **N. T. Hung**, Q. D. Truong, H. D. Chinh, M. Yoshimura, M. Haruta and T. Ishida, [Efficient non-volatile organogold complex for TiO2-supported gold cluster catalysts: Preparation and catalytic activity for CO oxidation](https://doi.org/10.1016/j.jcat.2022.03.008), ***J. Catal.*** 408, 236‑244 (2022).
 5. S. Han†, Y. Zhao†, **N. T. Hung**†, B. Xu, R. Saito, J. Zhang and L. Tong, [Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light](https://doi.org/10.1021/acs.jpclett.1c03826), ***J. Phys. Chem. Lett.*** 13, 1241–1248 (2022). († Equal contribution)
@@ -70,13 +69,10 @@ properties of graphite single crystal by spectroscopic ellipsometry](https://doi
 {: reversed="reversed"}
 {:start="16"}
 ### Conference papers
-1. V. V. Thanh, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus
-Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
-2. L. X. Bach, V. V. Thanh, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑ dichalco‑
-genides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑
+1. V. V. Thanh, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
+2. L. X. Bach, V. V. Thanh, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑
 1119 (2022).
-3. N. V. Duy, V. V. Thanh, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene
-with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718
+3. N. V. Duy, V. V. Thanh, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718
 (2022).
 {: reversed="reversed"}
 {:start="3"}
