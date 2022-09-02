@@ -69,10 +69,16 @@ permalink: "/publications"
 {: reversed="reversed"}
 {:start="16"}
 ### Conference papers
-1. V. V. Thanh, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
+3. V. V. Thanh, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
 2. L. X. Bach, V. V. Thanh, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑
 1119 (2022).
-3. N. V. Duy, V. V. Thanh, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718
+1. N. V. Duy, V. V. Thanh, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718
 (2022).
+{: reversed="reversed"}
+{:start="3"}
+### Popular aticles (in Vietnamese)
+3. **N. T. Hung** and V. V. Thanh, [Thermal power and future applications in the automotive industry](https://vjol.info.vn/index.php/khcn/article/view/68899/58291), ***Vietnam J. Sci. Tech. Eng.*** 7A, 62-64 (2022).
+2. **N. T. Hung** and V. V. Thanh, [Artificial muscle: When materials overcome nature's evolution](https://vjol.info.vn/index.php/khcn/article/view/51816/42670), ***Vietnam J. Sci. Tech. Eng.*** 9A, 62-64 (2020).
+1. **N. T. Hung**, [Low-dimensional materials - Solution for thermoelectric development](https://vjol.info.vn/index.php/khcn/article/view/36278/29657), ***Vietnam J. Sci. Tech. Eng.*** 7A, 54-57 (2018).
 {: reversed="reversed"}
 {:start="3"}
