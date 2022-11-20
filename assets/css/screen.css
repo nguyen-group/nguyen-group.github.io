@@ -155,12 +155,18 @@ section.recent-posts {
     font-weight: 400;
 }
 
-.featured-box-img-cover {
+/*.featured-box-img-cover {
     width: 80%;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}*/
+.featured-box-img-cover {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
 }
 
 @media (max-width:991px) {
