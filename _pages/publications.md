@@ -56,26 +56,24 @@ permalink: "/publications"
 >Note: An article within the collection: [Millie Dresselhaus: Her living scientific legacy](https://journals.aps.org/prapplied/collections/mildred-dresselhaus).
 8. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Two-dimensional MoS2 electrochemical actuator](https://doi.org/10.1088/1361-6463/aaa68f), ***J. Phys. D: Appl. Phys.*** 51, 075306 (2018).
 9. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [High-performance three-dimensional carbon Archimedean lattices electromechanical actuators](https://doi.org/10.1016/j.carbon.2017.09.083), ***Carbon*** 125, 472-479 (2017).
-10. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Size effect in thermoelectric power factor of nondegenerate and degenerate low-dimensional semiconductors](https://doi.org/10.1016/j.matpr.2017.10.005), ***Mater. Today: Proc.*** 4, 12368-12373 (2017).
-11. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Two-dimensional InSe as a potential thermoelectric material](https://dx.doi.org/10.1063/1.5001184), ***Appl. Phys. Lett.*** 111, 092107 (2017).
-12. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Charge-induced electrochemical actuation of armchair carbon nanotube bundles](https://dx.doi.org/10.1016/j.carbon.2017.03.036), ***Carbon*** 118, 278-284 (2017).
-13. **N. T. Hung**\*, E. H. Hasdeo, A. R. T. Nugraha, M. S. Dresselhaus and R. Saito, [Quantum effects in the thermoelectric power factor of low-dimensional semiconductors](https://dx.doi.org/10.1103/PhysRevLett.117.036602), ***Phys. Rev. Lett.*** 117, 036602 (2016). 
+10. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Two-dimensional InSe as a potential thermoelectric material](https://dx.doi.org/10.1063/1.5001184), ***Appl. Phys. Lett.*** 111, 092107 (2017).
+11. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Charge-induced electrochemical actuation of armchair carbon nanotube bundles](https://dx.doi.org/10.1016/j.carbon.2017.03.036), ***Carbon*** 118, 278-284 (2017).
+12. **N. T. Hung**\*, E. H. Hasdeo, A. R. T. Nugraha, M. S. Dresselhaus and R. Saito, [Quantum effects in the thermoelectric power factor of low-dimensional semiconductors](https://dx.doi.org/10.1103/PhysRevLett.117.036602), ***Phys. Rev. Lett.*** 117, 036602 (2016). 
 >Note: Media coverage includes Tohoku University news (with the title “[Theory of thermoelectric properties updated after 23 years](https://www.tohoku.ac.jp/en/press/thermoelectric_properties_theory_updated.html)” on Aug. 23, 2016) and [Phys.org](https://phys.org/news/2016-08-theory-thermoelectric-properties-years.html).
-14. **N. T. Hung**\*, D. V. Truong, V. V. Thanh and R. Saito, [Intrinsic strength and failure behaviours of ultra-small single-walled carbon nanotubes](https://dx.doi.org/10.1016/j.commatsci.2015.12.036), ***Comput. Mater. Sci.*** 114, 167-171 (2016).
-15. **N. T. Hung**\*, A. R. T. Nugraha, E. H. Hasdeo, M. S. Dresselhaus and R. Saito, [Diameter dependence of thermopower of semiconducting carbon nanotubes](https://dx.doi.org/10.1103/PhysRevB.92.165426), ***Phys. Rev. B*** 92, 165426 (2015). 
+13. **N. T. Hung**\*, D. V. Truong, V. V. Thanh and R. Saito, [Intrinsic strength and failure behaviours of ultra-small single-walled carbon nanotubes](https://dx.doi.org/10.1016/j.commatsci.2015.12.036), ***Comput. Mater. Sci.*** 114, 167-171 (2016).
+14. **N. T. Hung**\*, A. R. T. Nugraha, E. H. Hasdeo, M. S. Dresselhaus and R. Saito, [Diameter dependence of thermopower of semiconducting carbon nanotubes](https://dx.doi.org/10.1103/PhysRevB.92.165426), ***Phys. Rev. B*** 92, 165426 (2015). 
 >Note:This paper is highlighted in News and Views section of Nature Energy (2016), "[Thermoelectrics: Carbon nanotubes get high](https://www.nature.com/articles/nenergy201637)".
-16. **N. T. Hung** and D. V. Truong, [Ab initio study of the structural transformations and pseudoelasticity in Cu nanowires](https://dx.doi.org/10.1016/j.susc.2015.05.004), ***Surf. Sci.*** 641, 1-5 (2015).
-17. D. V. Truong, **N. T. Hung**, T. Shimada and T. Kitamura, [Ab initio study of shear strain effects on ferroelectricity at PbTiO3 thin films](https://dx.doi.org/10.1016/j.susc.2012.04.024), ***Surf. Sci.*** 606, 1331-1339 (2012).
+15. **N. T. Hung** and D. V. Truong, [Ab initio study of the structural transformations and pseudoelasticity in Cu nanowires](https://dx.doi.org/10.1016/j.susc.2015.05.004), ***Surf. Sci.*** 641, 1-5 (2015).
+16. D. V. Truong, **N. T. Hung**, T. Shimada and T. Kitamura, [Ab initio study of shear strain effects on ferroelectricity at PbTiO3 thin films](https://dx.doi.org/10.1016/j.susc.2012.04.024), ***Surf. Sci.*** 606, 1331-1339 (2012).
 {: reversed="reversed"}
 {:start="16"}
 ### Conference papers
-3. V. V. Thanh, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
-2. L. X. Bach, V. V. Thanh, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑
-1119 (2022).
-1. N. V. Duy, V. V. Thanh, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718
-(2022).
+4. V. V. Thanh, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
+3. L. X. Bach, V. V. Thanh, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑1119 (2022).
+2. N. V. Duy, V. V. Thanh, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718 (2022).
+1. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Size effect in thermoelectric power factor of nondegenerate and degenerate low-dimensional semiconductors](https://doi.org/10.1016/j.matpr.2017.10.005), ***Mater. Today: Proc.*** 4, 12368-12373 (2017).
 {: reversed="reversed"}
-{:start="3"}
+{:start="4"}
 ### Popular articles (in Vietnamese)
 3. **N. T. Hung** and V. V. Thanh, [Thermal power and future applications in the automotive industry](https://vjol.info.vn/index.php/khcn/article/view/68899/58291), ***Vietnam J. Sci. Tech. Eng.*** 7A, 62-64 (2022).
 2. **N. T. Hung** and V. V. Thanh, [Artificial muscle: When materials overcome nature's evolution](https://vjol.info.vn/index.php/khcn/article/view/51816/42670), ***Vietnam J. Sci. Tech. Eng.*** 9A, 62-64 (2020).
