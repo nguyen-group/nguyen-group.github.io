@@ -8,7 +8,7 @@ permalink: "/books"
 <div class="col-md-8 pr-5">
 <h4>Textbooks</h4>
 
-<p><b>N. T. Hung</b>, A. R. T. Nugraha and R. Saito, <a href="https://www.jennystanford.com/9789814968379/quantum-espresso-course-for-solid-state-physics/">Quantum ESPRESSO Course for Solid‑State Physics</a>, Jenny Stanford Publishing, 361 pages (2022).</p>
+<p><b>N. T. Hung</b>, A. R. T. Nugraha and R. Saito, <a href="https://www.jennystanford.com/9789814968379/quantum-espresso-course-for-solid-state-physics/">Quantum ESPRESSO Course for Solid‑State Physics</a>, Jenny Stanford Publishing, 372 Pages 22 Color & 65 B/W Illustrations (2022).</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/book-dft-cover.png" alt="Book cover"/></p>
 

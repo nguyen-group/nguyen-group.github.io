@@ -15,7 +15,7 @@ permalink: "/publications"
 5. S. Han†, Y. Zhao†, **N. T. Hung**†, B. Xu, R. Saito, J. Zhang and L. Tong, [Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light](https://doi.org/10.1021/acs.jpclett.1c03826), ***J. Phys. Chem. Lett.*** 13, 1241–1248 (2022). († Equal contribution)
 6. V. V. Thanh, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Effects of strain and electric field on electronic and optical properties of monolayer γ-GeX (X = S, Se and Te)](https://doi.org/10.1016/j.apsusc.2021.152321), ***Appl. Surf. Sci.*** 582, 152321-1-10 (2022).
 {: reversed="reversed"}
-{:start="40"}
+{:start="39"}
 ### 2021
 1. W. V. Sinambela, S. A. Wella, F. S. Arsyad, **N. T. Hung** and A. R. T. Nugraha, [Electronic, optical, and thermoelectric properties of bulk and monolayer germanium tellurides](https://doi.org/10.3390/cryst11111290), ***Crystals*** 11, 1290‐1‐12 (2021).
 2. S. Wang, **N. T. Hung**, H. Tian, M. S. Islam and R. Saito, [Switching behavior of a heterostructure based on periodically doped graphene nanoribbon](https://doi.org/10.1103/PhysRevApplied.16.024030), ***Phys. Rev. Appl.*** 16, 024030 (2021).
