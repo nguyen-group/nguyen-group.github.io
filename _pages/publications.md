@@ -24,7 +24,7 @@ permalink: "/publications"
 >Note: An illustration of this review paper is selected as a [back cover](https://doi.org/10.1002/qute.202170013).
 5. V. V. Thanh, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Charge-induced high-performance actuation of borophene](https://doi.org/10.1088/1361-6463/abc8b5), ***J. Phys. D: Appl. Phys.*** 54, 105504-1-8 (2021).
 {: reversed="reversed"}
-{:start="34"}
+{:start="33"}
 ### 2020
 1. K. Zhang, T. Wang, X. Pang, F. Han, S. L. Shang, **N. T. Hung**, Z. K. Liu, M. Li, R. Saito and S. Huang, [Anisotropic Fano resonance in the Weyl semimetal candidate LaAlSi](https://doi.org/10.1103/PhysRevB.102.235162), ***Phys. Rev. B*** 102, 235162-1-8 (2020).
 2. S. D. N. Luu, A. R. Supka, V. H. Nguyen, D. V. N. Vo, **N. T. Hung**, K. T. Wojciechowski, M. Fornari and P. Vaqueiro, [Origin of low thermal conductivity in In4Se3](https://doi.org/10.1021/acsaem.0c02489), ***ACS Appl. Energy Mater.*** 3, 12549-12556 (2020).
@@ -34,7 +34,7 @@ permalink: "/publications"
 >Note: Media coverage includes Pennsylvania State University news (with the title “[New class of materials shows strange electron properties](https://www.psu.edu/news/research/story/new-class-materials-shows-strange-electron-properties/)” on Feb. 13, 2020) and [Phys.org](https://phys.org/news/2020-02-class-materials-strange-electron-properties.html).
 6. Q. D. Truong, L. C. Yin, **N. T. Hung**, D. N. Nguyen, Y. Gambe, K. Nayuki, Y. Sasaki, H. Kobayashi, R. Saito, P. D. Tran and I. Honma, [Anionic redox in a-(Mo3S11)n polymer cathode for all-solid-state Li-ion battery](https://doi.org/10.1016/j.electacta.2019.135218), ***Electrochim. Acta*** 332, 135218-1-8 (2020).
 {: reversed="reversed"}
-{:start="29"}
+{:start="28"}
 ### 2019
 1. **N. T. Hung**\*, L. C. Yin, P. D. Tran and R. Saito, [Simultaneous anionic and cationic redox in Mo3S11 polymer electrode of sodium-ion battery](https://doi.org/10.1021/acs.jpcc.9b09325), ***J. Phys. Chem. C*** 123, 30856−30862 (2019).
 2. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Thermoelectric properties of carbon nanotubes](https://doi.org/10.3390/en12234561), ***Energies*** 12, 4561 (2019). (Invited review)
@@ -44,7 +44,7 @@ permalink: "/publications"
 6. E. H. Hasdeo, L. P. A. Krisna, M. Y. Hanna, B. E. Gunara, **N. T. Hung** and A. R. T. Nugraha, [Optimal band gap for improved thermoelectric performance of two-dimensional Dirac materials](https://doi.org/10.1063/1.5100985), ***J. Appl. Phys.*** 126, 035109 (2019).
 7. M. Vila, **N. T. Hung**, S. Roche and R. Saito, [Tunable circular dichroism and valley polarization in the modified Haldane model](https://doi.org/10.1103/PhysRevB.99.161404), ***Phys. Rev. B: Rap. Comm.*** 99 161404R (2019).
 {: reversed="reversed"}
-{:start="23"}
+{:start="22"}
 ### Before PhD
 1. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Designing high-performance thermoelectrics in two-dimensional tetradymites](https://doi.org/10.1016/j.nanoen.2019.02.015), ***Nano Energy*** 58, 743-749 (2019).
 2. B. Dong, Z. Wang, **N. T. Hung**, A. R. Oganov, T. Yang, R. Saito and Z. Zhang, [New two-dimensional phase of tin chalcogenides: candidates for high-performance thermoelectric materials](https://doi.org/10.1103/PhysRevMaterials.3.013405), ***Phys. Rev. Mater.*** 3, 013405-1-9 (2019).
@@ -66,7 +66,7 @@ permalink: "/publications"
 15. **N. T. Hung** and D. V. Truong, [Ab initio study of the structural transformations and pseudoelasticity in Cu nanowires](https://dx.doi.org/10.1016/j.susc.2015.05.004), ***Surf. Sci.*** 641, 1-5 (2015).
 16. D. V. Truong, **N. T. Hung**, T. Shimada and T. Kitamura, [Ab initio study of shear strain effects on ferroelectricity at PbTiO3 thin films](https://dx.doi.org/10.1016/j.susc.2012.04.024), ***Surf. Sci.*** 606, 1331-1339 (2012).
 {: reversed="reversed"}
-{:start="16"}
+{:start="15"}
 ### Conference papers
 4. V. V. Thanh, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
 3. L. X. Bach, V. V. Thanh, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑1119 (2022).
