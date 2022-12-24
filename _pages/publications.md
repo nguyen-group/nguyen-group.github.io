@@ -7,6 +7,10 @@ permalink: "/publications"
 #### [Google Scholar](https://scholar.google.com/citations?user=7O6Qq_kAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56912954900)
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
+### 2023
+1. V. V. Thanh, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/...), ***ACS Appl. Energy Mater.*** Accepted (2023).
+{: reversed="reversed"}
+{:start="40"}
 ### 2022
 1. F. R. Pratama, R. Saito and **N. T. Hung**\*, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), ***Phys. Rev. B: Lett.*** 106, L081304 (2022).
 2. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu, [Exploring unusual temperature‑dependent optical properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
