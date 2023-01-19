@@ -10,7 +10,7 @@ permalink: "/publications"
 ### 2023
 40. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu, [Exploring optical properties of 2H- and 1T'-MoTe2 single
 crystals by spectroscopic ellipsometry](https://doi.org/xxx), ***Phys. Rev. Mater.*** in‑press (2023).
-39. V. V. Thanh, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** in‑press (2023).
+39. V. V. Thanh, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** in‑press (2023).
 {: reversed="reversed"}
 {:start="40"}
 ### 2022
