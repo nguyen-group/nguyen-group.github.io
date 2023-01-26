@@ -8,11 +8,11 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2023
-40. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu, [Exploring optical properties of 2H- and 1T'-MoTe2 single
-crystals by spectroscopic ellipsometry](https://doi.org/xxx), ***Phys. Rev. Mater.*** in‑press (2023).
+41. R. Natsui, H. Shimizu, Y. Nakanishi, L. Yusuke, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu,S. Okada, K. Suenaga, R. Saito,Y. Miyata, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires] (https://doi.org/xxx), ***ACS Nano*** in‑press (2023).
+40. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/xxx), ***Phys. Rev. Mater.*** in‑press (2023).
 39. V. V. Thanh, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** in‑press (2023).
 {: reversed="reversed"}
-{:start="40"}
+{:start="41"}
 ### 2022
 38. F. R. Pratama, R. Saito and **N. T. Hung**\*, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), ***Phys. Rev. B: Lett.*** 106, L081304 (2022).
 37. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu, [Exploring unusual temperature‑dependent optical properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
