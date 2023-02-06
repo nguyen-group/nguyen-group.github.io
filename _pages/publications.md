@@ -10,7 +10,7 @@ permalink: "/publications"
 ### 2023
 41. R. Natsui, H. Shimizu, Y. Nakanishi, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito and Y. Miyata, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/xxx), ***ACS Nano*** under-review (2023).
 40. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/xxx), ***Phys. Rev. Mater.*** in‑press (2023).
-39. V. V. Thanh, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** in‑press (2023).
+39. V. V. Thanh, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** 6, 910–919 (2023).
 {: reversed="reversed"}
 {:start="41"}
 ### 2022
@@ -18,8 +18,8 @@ permalink: "/publications"
 37. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu, [Exploring unusual temperature‑dependent optical properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
 36. **N. T. Hung**\*, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, [Enhanced thermoelectric performance by van Hove singularities in the density of states of type‑II nodal‑line semimetals](https://doi.org/10.1103/PhysRevB.105.115142), ***Phys. Rev. B*** 105, 115142‑1‑5 (2022).
 35. L. X. Dien, T. Murayama, **N. T. Hung**, Q. D. Truong, H. D. Chinh, M. Yoshimura, M. Haruta and T. Ishida, [Efficient non-volatile organogold complex for TiO2-supported gold cluster catalysts: Preparation and catalytic activity for CO oxidation](https://doi.org/10.1016/j.jcat.2022.03.008), ***J. Catal.*** 408, 236‑244 (2022).
-34. S. Han†, Y. Zhao†, **N. T. Hung**†, B. Xu, R. Saito, J. Zhang and L. Tong, [Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light](https://doi.org/10.1021/acs.jpclett.1c03826), ***J. Phys. Chem. Lett.*** 13, 1241–1248 (2022). († Equal contribution)
-33. V. V. Thanh, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Effects of strain and electric field on electronic and optical properties of monolayer γ-GeX (X = S, Se and Te)](https://doi.org/10.1016/j.apsusc.2021.152321), ***Appl. Surf. Sci.*** 582, 152321-1-10 (2022).
+34. V. V. Thanh, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Effects of strain and electric field on electronic and optical properties of monolayer γ-GeX (X = S, Se and Te)](https://doi.org/10.1016/j.apsusc.2021.152321), ***Appl. Surf. Sci.*** 582, 152321-1-10 (2022).
+33. S. Han†, Y. Zhao†, **N. T. Hung**†, B. Xu, R. Saito, J. Zhang and L. Tong, [Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light](https://doi.org/10.1021/acs.jpclett.1c03826), ***J. Phys. Chem. Lett.*** 13, 1241–1248 (2022). († Equal contribution)
 {: reversed="reversed"}
 {:start="38"}
 ### 2021
