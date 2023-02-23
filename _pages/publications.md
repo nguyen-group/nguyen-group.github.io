@@ -8,7 +8,7 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2023
-41. R. Natsui, H. Shimizu, Y. Nakanishi, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito and Y. Miyata, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/xxx), ***ACS Nano*** Accepted (2023).
+41. R. Natsui, H. Shimizu, Y. Nakanishi, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito and Y. Miyata, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/10.1021/acsnano.2c10997), ***ACS Nano*** Online (2023).
 40. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/xxx), ***Phys. Rev. Mater.*** Accepted (2023).
 39. V. V. Thanh, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** 6, 910–919 (2023).
 {: reversed="reversed"}
