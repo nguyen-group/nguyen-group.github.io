@@ -5,8 +5,8 @@
     <description>We focus on the theory and simulation of quantum materials, such as low-dimensional and topological materials, for energy-efficiency applications.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Apr 2023 22:59:02 +0900</pubDate>
-    <lastBuildDate>Wed, 12 Apr 2023 22:59:02 +0900</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2023 23:03:58 +0900</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2023 23:03:58 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -26,9 +26,9 @@
     
       <item>
         <title>Designing Quantum-materials for Energy Tree</title>
-        <description>&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming. With this approach, a material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery the high-performance and low-cost quantum-materials, such as 2D materials or topological materials, for energy-efficiency applications including thermoelectricity, photocatalysis, low-power electronic devices. We call this is “Energy Tree”.&lt;/p&gt;
+        <description>&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming, leading to material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery of high-performance and low-cost quantum materials, such as 2D or topological materials, for energy-efficiency applications, including thermoelectricity, photocatalysis, and low-power electronic devices. We call this “Energy Tree”.&lt;/p&gt;
 
-&lt;p&gt;The integrated approach will combine the DFT calculations and data-driven methods (i.e., high-throughput screening and machine learning). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy quantum-materials.&lt;/p&gt;
+&lt;p&gt;The integrated approach will combine the DFT calculations and data-driven methods (i.e., high-throughput screening and machine learning). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy quantum materials.&lt;/p&gt;
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;
@@ -49,7 +49,7 @@
     
       <item>
         <title>2D Materials with Optical Properties</title>
-        <description>&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, the optical properties play an importance rule. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, etc.&lt;/p&gt;
+        <description>&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon, and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, etc.&lt;/p&gt;
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;

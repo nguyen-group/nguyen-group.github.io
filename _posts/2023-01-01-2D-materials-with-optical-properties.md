@@ -9,7 +9,7 @@ hidden: true
 comments: false
 ---
 
-Two-dimensional (2D) materials are widely applied across many research areas including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, the optical properties play an importance rule. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, etc.
+Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon, and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, etc.
 
 ### Selected Publications
 1. D. P. Gulo, N. T. Hung, R. Sankar, R. Saito and H. L. Liu, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/10.1103/PhysRevMaterials.7.044001), ***Phys. Rev. Mater.*** 7, 044001-1-13 (2023).
