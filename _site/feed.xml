@@ -5,9 +5,45 @@
     <description>We focus on the theory and simulation of quantum materials, such as low-dimensional and topological materials, for energy-efficiency applications.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Apr 2023 19:53:00 +0900</pubDate>
-    <lastBuildDate>Wed, 12 Apr 2023 19:53:00 +0900</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2023 20:46:20 +0900</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2023 20:46:20 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Scientists thread rows of metal atoms into nanofiber bundles</title>
+        <description>&lt;p&gt;Our collaborative paper in van der Waals nanofibers of atomically thin W6Te6 wires was selected by Tokyo Metropolitan University news, EurekAlert!, etc. with the title &lt;a href=&quot;https://acs.altmetric.com/details/142843749/news&quot;&gt;“Scientists thread rows of metal atoms into nanofiber bundles”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More information: R. Natsui et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.2c10997&quot;&gt;Vapor-Phase Indium Intercalation in van der Waals Nanofibers of Atomically Thin W6Te6 Wires&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 5561–5569 (2023).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Apr 2023 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</link>
+        <guid isPermaLink="true">http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</guid>
+        
+        
+        <category>DFT calculations</category>
+        
+      </item>
+    
+      <item>
+        <title>An easy book to learn Quantum ESPRESSO for solid-state physics&quot;</title>
+        <description>&lt;p&gt;We published a textbook “Quantum ESPRESSO Course for Solid-State Physics” by Nguyen Tuan Hung, Ahmad R.T. Nugraha, Riichiro Saito.&lt;/p&gt;
+
+&lt;p&gt;This book is educationally designed for beginners in computational physics and materials science with many tutorials on Quantum ESPRESSO based on many tutorial courses in the world given by the authors. Therefore, it is very practical for students who aim to learn the first‐principles calculation. In particular, for the experimental students who wish to run the first‐principles calculation themselves to compare the experimental results of new materials directly.&lt;/p&gt;
+
+&lt;p&gt;See a preview at &lt;a href=&quot;https://books.google.com.tr/books?id=5pKdEAAAQBAJ&amp;amp;pg=PA#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;Google book&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Buy a full book at &lt;a href=&quot;https://amzn.asia/d/diorvaG&quot;&gt;Amazon&lt;/a&gt; or &lt;a href=&quot;https://www.routledge.com/Quantum-ESPRESSO-Course-for-Solid-State-Physics-A-Hands-On-Guide/Saito-Tuan-Hung-Tresna-Nugraha/p/book/9789814968379&quot;&gt;Routledge Taylor &amp;amp; Francis Group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source files of book can download at &lt;a href=&quot;https://github.com/nguyen-group/QE-SSP&quot;&gt;https://github.com/nguyen-group/QE-SSP&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Dec 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</link>
+        <guid isPermaLink="true">http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</guid>
+        
+        
+        <category>books</category>
+        
+      </item>
     
       <item>
         <title>Energy Tree</title>
@@ -66,6 +102,23 @@
         
         
         <category>research</category>
+        
+      </item>
+    
+      <item>
+        <title>Prominent Research Fellow of Tohoku University</title>
+        <description>&lt;p&gt;Nguyen Tuan Hung was selected as Prominent Research Fellow of Tohoku University.&lt;/p&gt;
+
+&lt;p&gt;The “Prominent Research Fellow of Tohoku University” is a newly established system that grants the title to assistant professors at Tohoku University who are challenging original research that opens up new fields, with the aim of enhancing the presence of outstanding young researchers, promoting an independent research environment, and contributing to the further promotion of education and research at Tohoku University and to society.&lt;/p&gt;
+
+&lt;p&gt;More information: &lt;a href=&quot;https://web.tohoku.ac.jp/dr/#box_24&quot;&gt;Tohoku University Meet our Rising Stars&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jun 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Prominent-Research-Fellow-of-Tohoku-University/</link>
+        <guid isPermaLink="true">http://localhost:4000/Prominent-Research-Fellow-of-Tohoku-University/</guid>
+        
+        
+        <category>awards</category>
         
       </item>
     

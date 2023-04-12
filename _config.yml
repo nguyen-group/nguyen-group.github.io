@@ -2,7 +2,7 @@ name: 'Interdisciplinary Quantum Materials'
 title: 'Interdisciplinary Quantum Materials'
 description: 'We focus on the theory and simulation of quantum materials, such as low-dimensional and topological materials, for energy-efficiency applications.'
 logo: 'assets/images/favicon.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 #baseurl: 'https://nguyen-group.github.io'
 lsi: false
 safe: true
