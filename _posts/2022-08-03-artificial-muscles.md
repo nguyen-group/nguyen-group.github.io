@@ -1,5 +1,5 @@
 ---
-title: Artificial muscles
+title: Artificial Muscles
 layout: post
 categories:
 - research
