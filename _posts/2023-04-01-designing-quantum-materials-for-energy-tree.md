@@ -15,5 +15,6 @@ The integrated approach will combine the DFT calculations and data-driven method
 
 ### Selected Publications
 1. V. V. Thanh, D. V. Truong and N. T. Hung, [Janus γ-Ge2SSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://pubs.acs.org/doi/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** 6, 910-919 (2023).
-2. N. T. Hung, A. R. T. Nugraha and R. Saito, [Quantum ESPRESSO Course for Solid‑State Physics](https://www.jennystanford.com/9789814968379/quantum-espresso-course-for-solid-state-physics/), ***Jenny Stanford Publishing***, 361 pages (2022).
-32. S. Wang, N. T. Hung, H. Tian, M. S. Islam and R. Saito, [Switching behavior of a heterostructure based on periodically doped graphene nanoribbon](https://doi.org/10.1103/PhysRevApplied.16.024030), ***Phys. Rev. Appl.*** 16, 024030 (2021).
+2. F. R. Pratama, R. Saito and N. T. Hung, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), ***Phys. Rev. B: Lett.*** 106, L081304 (2022).
+3. N. T. Hung, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, [Enhanced thermoelectric performance by van Hove singularities in the density of states of type‑II nodal‑line semimetals](https://doi.org/10.1103/PhysRevB.105.115142), ***Phys. Rev. B*** 105, 115142‑1‑5 (2022).
+4. S. Wang, N. T. Hung, H. Tian, M. S. Islam and R. Saito, [Switching behavior of a heterostructure based on periodically doped graphene nanoribbon](https://doi.org/10.1103/PhysRevApplied.16.024030), ***Phys. Rev. Appl.*** 16, 024030 (2021).

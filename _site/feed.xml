@@ -5,8 +5,8 @@
     <description>We focus on the theory and simulation of quantum materials, such as low-dimensional and topological materials, for energy-efficiency applications.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Apr 2023 22:37:37 +0900</pubDate>
-    <lastBuildDate>Wed, 12 Apr 2023 22:37:37 +0900</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2023 22:59:02 +0900</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2023 22:59:02 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -21,6 +21,50 @@
         
         
         <category>DFT calculations</category>
+        
+      </item>
+    
+      <item>
+        <title>Designing Quantum-materials for Energy Tree</title>
+        <description>&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming. With this approach, a material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery the high-performance and low-cost quantum-materials, such as 2D materials or topological materials, for energy-efficiency applications including thermoelectricity, photocatalysis, low-power electronic devices. We call this is “Energy Tree”.&lt;/p&gt;
+
+&lt;p&gt;The integrated approach will combine the DFT calculations and data-driven methods (i.e., high-throughput screening and machine learning). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy quantum-materials.&lt;/p&gt;
+
+&lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;V. V. Thanh, D. V. Truong and N. T. Hung, &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsaem.2c03316&quot;&gt;Janus γ-Ge2SSe monolayer as a high-performance material for photocatalysis and thermoelectricity&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Appl. Energy Mater.&lt;/em&gt;&lt;/strong&gt; 6, 910-919 (2023).&lt;/li&gt;
+  &lt;li&gt;F. R. Pratama, R. Saito and N. T. Hung, &lt;a href=&quot;https://doi.org/10.1103/PhysRevB.106.L081304&quot;&gt;Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B: Lett.&lt;/em&gt;&lt;/strong&gt; 106, L081304 (2022).&lt;/li&gt;
+  &lt;li&gt;N. T. Hung, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevB.105.115142&quot;&gt;Enhanced thermoelectric performance by van Hove singularities in the density of states of type‑II nodal‑line semimetals&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B&lt;/em&gt;&lt;/strong&gt; 105, 115142‑1‑5 (2022).&lt;/li&gt;
+  &lt;li&gt;S. Wang, N. T. Hung, H. Tian, M. S. Islam and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevApplied.16.024030&quot;&gt;Switching behavior of a heterostructure based on periodically doped graphene nanoribbon&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Appl.&lt;/em&gt;&lt;/strong&gt; 16, 024030 (2021).&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/designing-quantum-materials-for-energy-tree/</link>
+        <guid isPermaLink="true">http://localhost:4000/designing-quantum-materials-for-energy-tree/</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
+    
+      <item>
+        <title>2D Materials with Optical Properties</title>
+        <description>&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, the optical properties play an importance rule. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;D. P. Gulo, N. T. Hung, R. Sankar, R. Saito and H. L. Liu, &lt;a href=&quot;https://doi.org/10.1103/PhysRevMaterials.7.044001&quot;&gt;Exploring optical properties of 2H- and 1T’-MoTe2 single crystals by spectroscopic ellipsometry&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Mater.&lt;/em&gt;&lt;/strong&gt; 7, 044001-1-13 (2023).&lt;/li&gt;
+  &lt;li&gt;V. V. Thanh, D. V. Truong and N. T. Hung, &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsaem.2c03316&quot;&gt;Janus γ-Ge2SSe monolayer as a high-performance material for photocatalysis and thermoelectricity&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Appl. Energy Mater.&lt;/em&gt;&lt;/strong&gt; 6, 910-919 (2023).&lt;/li&gt;
+  &lt;li&gt;S. Han, Y. Zhao, N. T. Hung, B. Xu, R. Saito, J. Zhang and L. Tong, &lt;a href=&quot;https://doi.org/10.1021/acs.jpclett.1c03826&quot;&gt;Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;J. Phys. Chem. Lett.&lt;/em&gt;&lt;/strong&gt; 13, 1241–1248 (2022).&lt;/li&gt;
+  &lt;li&gt;V. V. Thanh, N. D. Van, D. V. Truong, R. Saito and N. T. Hung, &lt;a href=&quot;https://doi.org/10.1016/j.apsusc.2020.146730&quot;&gt;First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Surf. Sci.&lt;/em&gt;&lt;/strong&gt; 526, 146730-1-8 (2020).&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2D-materials-with-optical-properties/</link>
+        <guid isPermaLink="true">http://localhost:4000/2D-materials-with-optical-properties/</guid>
+        
+        
+        <category>research</category>
         
       </item>
     
@@ -42,28 +86,6 @@
         
         
         <category>books</category>
-        
-      </item>
-    
-      <item>
-        <title>Designing Quantum-materials for Energy Tree</title>
-        <description>&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming. With this approach, a material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery the high-performance and low-cost quantum-materials, such as 2D materials or topological materials, for energy-efficiency applications including thermoelectricity, photocatalysis, low-power electronic devices. We call this is “Energy Tree”.&lt;/p&gt;
-
-&lt;p&gt;The integrated approach will combine the DFT calculations and data-driven methods (i.e., high-throughput screening and machine learning). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy quantum-materials.&lt;/p&gt;
-
-&lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;V. V. Thanh, D. V. Truong and N. T. Hung, &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsaem.2c03316&quot;&gt;Janus γ-Ge2SSe monolayer as a high-performance material for photocatalysis and thermoelectricity&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Appl. Energy Mater.&lt;/em&gt;&lt;/strong&gt; 6, 910-919 (2023).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://www.jennystanford.com/9789814968379/quantum-espresso-course-for-solid-state-physics/&quot;&gt;Quantum ESPRESSO Course for Solid‑State Physics&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Jenny Stanford Publishing&lt;/em&gt;&lt;/strong&gt;, 361 pages (2022).&lt;/li&gt;
-  &lt;li&gt;S. Wang, N. T. Hung, H. Tian, M. S. Islam and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevApplied.16.024030&quot;&gt;Switching behavior of a heterostructure based on periodically doped graphene nanoribbon&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Appl.&lt;/em&gt;&lt;/strong&gt; 16, 024030 (2021).&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Fri, 05 Aug 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/designing-quantum-materials-for-energy-tree/</link>
-        <guid isPermaLink="true">http://localhost:4000/designing-quantum-materials-for-energy-tree/</guid>
-        
-        
-        <category>research</category>
         
       </item>
     
