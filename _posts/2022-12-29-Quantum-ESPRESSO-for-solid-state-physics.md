@@ -1,9 +1,10 @@
 ---
 title: An easy book to learn Quantum ESPRESSO for solid-state physics"
 layout: post
-author: nguyen
 categories:
 - books
+- DFT calculations
+- Quantum ESPRESSO
 image: assets/images/book-dft-cover.png
 ---
 

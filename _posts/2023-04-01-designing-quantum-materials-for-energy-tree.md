@@ -3,6 +3,8 @@ title: Designing Quantum-materials for Energy Tree
 layout: post
 categories:
 - research
+- DFT calculations
+- machine learning
 image: assets/images/energy.png
 featured: true
 hidden: true

@@ -1,10 +1,10 @@
 ---
 title: New class of materials shows strange electron properties
 layout: post
-author: nguyen
 categories:
 - topological-materials
-- Weyl-semimetals
+- 3D Weyl-semimetals
+- DFT calculations
 image: assets/images/raman.png
 ---
 

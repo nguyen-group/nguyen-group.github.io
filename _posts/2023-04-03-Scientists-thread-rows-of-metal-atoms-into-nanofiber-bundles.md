@@ -1,7 +1,6 @@
 ---
 title: Scientists thread rows of metal atoms into nanofiber bundles
 layout: post
-author: nguyen
 categories:
 - DFT calculations
 image: assets/images/wte-cover.png

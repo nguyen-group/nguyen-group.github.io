@@ -3,6 +3,7 @@ title: Artificial Muscles
 layout: post
 categories:
 - research
+- artificial muscles
 image: assets/images/muscles.png
 featured: true
 hidden: true

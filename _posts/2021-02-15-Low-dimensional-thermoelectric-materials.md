@@ -1,7 +1,6 @@
 ---
 title: Low‐dimensional thermoelectric materials
 layout: post
-author: nguyen
 categories:
 - thermoelectricity
 - low-dimensional-materials

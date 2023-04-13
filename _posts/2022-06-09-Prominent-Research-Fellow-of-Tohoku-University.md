@@ -1,7 +1,6 @@
 ---
 title: Prominent Research Fellow of Tohoku University
 layout: post
-author: nguyen
 categories:
 - awards
 image: assets/images/rising_stars.jpg

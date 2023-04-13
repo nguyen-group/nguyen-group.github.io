@@ -3,6 +3,8 @@ title: 2D Materials with Optical Properties
 layout: post
 categories:
 - research
+- low-dimensional-materials
+- DFT calculations
 image: assets/images/Janus-2D.jpg
 featured: true
 hidden: true

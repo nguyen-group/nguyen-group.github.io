@@ -1,7 +1,6 @@
 ---
 title: Theory of thermoelectric properties updated after 23 years
 layout: post
-author: nguyen
 categories:
 - thermoelectricity
 - low-dimensional-materials
