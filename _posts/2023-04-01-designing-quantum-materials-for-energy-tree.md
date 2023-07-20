@@ -1,5 +1,5 @@
 ---
-title: Designing Quantum-materials for Energy Tree
+title: Designing Quantum-Materials
 layout: post
 categories:
 - research
