@@ -4,7 +4,7 @@ layout: page
 permalink: "/lectures"
 ---
 
-#### Summer Meeting 2023: An Introduction First-Principles Calculations and Deep Learning for Engineers
+#### Summer Workshop 2023: An Introduction First-Principles Calculations and Deep Learning for Engineers
 28/7/2022, Hanoi University of Science and Technology, Hanoi, Vietnam. 
 >For details, please visit the workshop website: [https://nguyen-group.github.io/lectures/cms2023/](https://nguyen-group.github.io/lectures/cms2023/)
 
