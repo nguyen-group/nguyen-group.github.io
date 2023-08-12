@@ -8,6 +8,27 @@ permalink: "/lectures"
 28/7/2022, Hanoi University of Science and Technology, Hanoi, Vietnam. 
 >For details, please visit the workshop website: [https://nguyen-group.github.io/lectures/cms2023/](https://nguyen-group.github.io/lectures/cms2023/)
 
+<table width="800">
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/lectures/cms2023-1.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/lectures/cms2023-2.jpg" alt="" />
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/lectures/cms2023-3.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/lectures/cms2023-4.jpg" alt="" />
+        </td>
+    </tr>
+</table>
+
+<br>
+
 #### Summer Meeting 2022: Interdisciplinary Materials Science
 19-20/7/2022, Hanoi University of Science and Technology, Hanoi, Vietnam. 
 >For details, please visit the workshop website: [https://nguyen-group.github.io/lectures/ims2022](https://nguyen-group.github.io/lectures/ims2022)
