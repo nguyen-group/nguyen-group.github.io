@@ -8,7 +8,7 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2023
-43. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\*, and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/xxx), Accepted ***ACS Nano*** (2023) († Equal contribution).
+43. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\*, and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** (2023) in-press († Equal contribution).
 42. H. L. Liu\*, B. D. Annawati, **N. T. Hung**, D. P. Gulo, P. Solis-Fernandez, K. Kawahara, H. Ago and R. Saito, [Interference of excitons and surface plasmons in the optical absorption spectra of monolayer and bilayer graphene](https://doi.org/10.1103/PhysRevB.107.165421), ***Phys. Rev. B*** 107, 165421-1-10 (2023).
 41. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu\*, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/10.1103/PhysRevMaterials.7.044001), ***Phys. Rev. Mater.*** 7, 044001-1-13 (2023).
 40. R. Natsui, H. Shimizu, Y. Nakanishi\*, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito\* and Y. Miyata\*, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/10.1021/acsnano.2c10997), ***ACS Nano*** 17, 5561-5569 (2023).
