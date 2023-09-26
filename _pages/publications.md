@@ -10,7 +10,7 @@ permalink: "/publications"
 ### 2023
 44. S. Han, **N. T. Hung**, Y. Xie, R. Saito\*, J. Zhang and L. Tong\*, [Observing axial chirality of chiral single‐wall carbon nanotube by helicity‐dependent Raman spectra](https://doi.org/10.1021/acs.nanolett.3c01791), ***Nano Lett.*** (2023) in-press.
 43. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\*, and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** (2023) in-press († Equal contribution).
->Note: An illustration of this paper is selected as a [front cover](https://pubs.acs.org/xxx).
+>Note: An illustration of this paper is selected as a [front cover](https://pubs.acs.org/xxx). 
 42. H. L. Liu\*, B. D. Annawati, **N. T. Hung**, D. P. Gulo, P. Solis-Fernandez, K. Kawahara, H. Ago and R. Saito, [Interference of excitons and surface plasmons in the optical absorption spectra of monolayer and bilayer graphene](https://doi.org/10.1103/PhysRevB.107.165421), ***Phys. Rev. B*** 107, 165421-1-10 (2023).
 41. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu\*, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/10.1103/PhysRevMaterials.7.044001), ***Phys. Rev. Mater.*** 7, 044001-1-13 (2023).
 40. R. Natsui, H. Shimizu, Y. Nakanishi\*, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito\* and Y. Miyata\*, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/10.1021/acsnano.2c10997), ***ACS Nano*** 17, 5561-5569 (2023).
@@ -69,10 +69,10 @@ permalink: "/publications"
 7. **N. T. Hung**\*, A. R. T. Nugraha\* and R. Saito, [Two-dimensional InSe as a potential thermoelectric material](https://dx.doi.org/10.1063/1.5001184), ***Appl. Phys. Lett.*** 111, 092107 (2017).
 6. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Charge-induced electrochemical actuation of armchair carbon nanotube bundles](https://dx.doi.org/10.1016/j.carbon.2017.03.036), ***Carbon*** 118, 278-284 (2017).
 5. **N. T. Hung**\*, E. H. Hasdeo, A. R. T. Nugraha, M. S. Dresselhaus and R. Saito, [Quantum effects in the thermoelectric power factor of low-dimensional semiconductors](https://dx.doi.org/10.1103/PhysRevLett.117.036602), ***Phys. Rev. Lett.*** 117, 036602 (2016). 
->Note: Media coverage includes Tohoku University news (with the title “[Theory of thermoelectric properties updated after 23 years](https://www.tohoku.ac.jp/en/press/thermoelectric_properties_theory_updated.html)” on Aug. 23, 2016) and [Phys.org](https://phys.org/news/2016-08-theory-thermoelectric-properties-years.html).
+>Press release: “[Theory of thermoelectric properties updated after 23 years](https://www.tohoku.ac.jp/en/press/thermoelectric_properties_theory_updated.html)” on Aug. 23, 2016 by Tohoku Univeristy and Phys.org.
 4. **N. T. Hung**\*, D. V. Truong, V. V. Thanh and R. Saito, [Intrinsic strength and failure behaviours of ultra-small single-walled carbon nanotubes](https://dx.doi.org/10.1016/j.commatsci.2015.12.036), ***Comput. Mater. Sci.*** 114, 167-171 (2016).
 3. **N. T. Hung**\*, A. R. T. Nugraha\*, E. H. Hasdeo, M. S. Dresselhaus and R. Saito, [Diameter dependence of thermopower of semiconducting carbon nanotubes](https://dx.doi.org/10.1103/PhysRevB.92.165426), ***Phys. Rev. B*** 92, 165426 (2015). 
->Note:This paper is highlighted in News and Views section of Nature Energy (2016), "[Thermoelectrics: Carbon nanotubes get high](https://www.nature.com/articles/nenergy201637)".
+>This paper is highlighted in News and Views section of Nature Energy (2016), "[Thermoelectrics: Carbon nanotubes get high](https://www.nature.com/articles/nenergy201637)"
 2. **N. T. Hung** and D. V. Truong\*, [Ab initio study of the structural transformations and pseudoelasticity in Cu nanowires](https://dx.doi.org/10.1016/j.susc.2015.05.004), ***Surf. Sci.*** 641, 1-5 (2015).
 1. D. V. Truong\*, **N. T. Hung**, T. Shimada and T. Kitamura, [Ab initio study of shear strain effects on ferroelectricity at PbTiO3 thin films](https://dx.doi.org/10.1016/j.susc.2012.04.024), ***Surf. Sci.*** 606, 1331-1339 (2012).
 {: reversed="reversed"}
