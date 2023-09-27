@@ -10,15 +10,11 @@ permalink: "/publications"
 ### 2023
 44. S. Han, **N. T. Hung**, Y. Xie, R. Saito\*, J. Zhang and L. Tong\*, [Observing axial chirality of chiral single‐wall carbon nanotube by helicity‐dependent Raman spectra](https://doi.org/10.1021/acs.nanolett.3c01791), ***Nano Lett.*** (2023) in-press.
 43. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\*, and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** (2023) in-press († Equal contribution).
->Press release: “[Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers](https://www.tohoku.ac.jp/en/press/stacking_order_strain_boosts_second_harmonic_generation.html)” on Sep. 26, 2023 by Tohoku University. 
->Press release in Japaneses: "[東北大、ヤヌス型は通常のTMDよりも第2高調波が3倍以上増強することを確認](https://news.mynavi.jp/techplus/article/20230925-2778353/)"
->An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/xxx).
+>Press release: “[Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers](https://www.tohoku.ac.jp/en/press/stacking_order_strain_boosts_second_harmonic_generation.html)” on Sep. 26, 2023 by Tohoku University. An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/xxx).
 42. H. L. Liu\*, B. D. Annawati, **N. T. Hung**, D. P. Gulo, P. Solis-Fernandez, K. Kawahara, H. Ago and R. Saito, [Interference of excitons and surface plasmons in the optical absorption spectra of monolayer and bilayer graphene](https://doi.org/10.1103/PhysRevB.107.165421), ***Phys. Rev. B*** 107, 165421-1-10 (2023).
 41. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu\*, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/10.1103/PhysRevMaterials.7.044001), ***Phys. Rev. Mater.*** 7, 044001-1-13 (2023).
 40. R. Natsui, H. Shimizu, Y. Nakanishi\*, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito\* and Y. Miyata\*, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/10.1021/acsnano.2c10997), ***ACS Nano*** 17, 5561-5569 (2023).
->Press release: “[Scientists thread rows of metal atoms into nanofiber bundles](https://www.eurekalert.org/news-releases/981243)” on Mar. 4, 2023 by Tokyo Metropolitan University. 
->Press release in Japaneses: "[都立大など、二元系TMCナノファイバー内部への金属原子を挿入する技術を開発](https://news.mynavi.jp/techplus/article/20230306-2609449/)"
->An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/cms/10.1021/ancac3.2023.17.issue-6/asset/ancac3.2023.17.issue-6.xlargecover-3.jpg).
+>Press release: “[Scientists thread rows of metal atoms into nanofiber bundles](https://www.eurekalert.org/news-releases/981243)” on Mar. 4, 2023 by Tokyo Metropolitan University. An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/cms/10.1021/ancac3.2023.17.issue-6/asset/ancac3.2023.17.issue-6.xlargecover-3.jpg).
 39. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** 6, 910-919 (2023).
 {: reversed="reversed"}
 {:start="44"}
@@ -46,7 +42,7 @@ permalink: "/publications"
 25. V. V. Thanh\*, N. D. Van, D. V. Truong, R. Saito and **N. T. Hung**\*, [First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides](https://dx.doi.org/10.1016/j.apsusc.2020.146730), ***Appl. Surf. Sci.*** 526, 146730-1-8 (2020).
 24. **N. T. Hung**\*, A. R. T. Nugraha, T. Yang and R. Saito, [Confinement effect in thermoelectric properties of two-dimensional materials](https://dx.doi.org/10.1557/adv.2020.128), ***MRS Adv.*** 5, 469-479 (2020). (Invited review)
 23. K. Zhang, X. Pang, T. Wang, F. Han, S. L. Shang, **N. T. Hung**, A. R. T. Nugraha, Z. K. Liu, M. Li\*, R. Saito\* and S. Huang\*, [Anomalous phonon-mode dependence of polarization-resolved Raman spectroscopy in topological semimetal TaP](https://doi.org/10.1103/PhysRevB.101.014308), ***Phys. Rev. B*** 101, 014308-1-9 (2020).
->Press release: “[New class of materials shows strange electron properties](https://www.psu.edu/news/research/story/new-class-materials-shows-strange-electron-properties/)” on Feb. 13, 2020 by Pennsylvania State University and Phys.org.
+>Press release: “[New class of materials shows strange electron properties](https://www.psu.edu/news/research/story/new-class-materials-shows-strange-electron-properties/)” on Feb. 13, 2020 by Pennsylvania State University.
 22. Q. D. Truong\*, L. C. Yin, **N. T. Hung**, D. N. Nguyen, Y. Gambe, K. Nayuki, Y. Sasaki, H. Kobayashi, R. Saito, P. D. Tran and I. Honma, [Anionic redox in a-(Mo3S11)n polymer cathode for all-solid-state Li-ion battery](https://doi.org/10.1016/j.electacta.2019.135218), ***Electrochim. Acta*** 332, 135218-1-8 (2020).
 {: reversed="reversed"}
 {:start="27"}
@@ -72,7 +68,7 @@ permalink: "/publications"
 7. **N. T. Hung**\*, A. R. T. Nugraha\* and R. Saito, [Two-dimensional InSe as a potential thermoelectric material](https://dx.doi.org/10.1063/1.5001184), ***Appl. Phys. Lett.*** 111, 092107 (2017).
 6. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Charge-induced electrochemical actuation of armchair carbon nanotube bundles](https://dx.doi.org/10.1016/j.carbon.2017.03.036), ***Carbon*** 118, 278-284 (2017).
 5. **N. T. Hung**\*, E. H. Hasdeo, A. R. T. Nugraha, M. S. Dresselhaus and R. Saito, [Quantum effects in the thermoelectric power factor of low-dimensional semiconductors](https://dx.doi.org/10.1103/PhysRevLett.117.036602), ***Phys. Rev. Lett.*** 117, 036602 (2016). 
->Press release: “[Theory of thermoelectric properties updated after 23 years](https://www.tohoku.ac.jp/en/press/thermoelectric_properties_theory_updated.html)” on Aug. 23, 2016 by Tohoku Univeristy and Phys.org.
+>Press release: “[Theory of thermoelectric properties updated after 23 years](https://www.tohoku.ac.jp/en/press/thermoelectric_properties_theory_updated.html)” on Aug. 23, 2016 by Tohoku Univeristy.
 4. **N. T. Hung**\*, D. V. Truong, V. V. Thanh and R. Saito, [Intrinsic strength and failure behaviours of ultra-small single-walled carbon nanotubes](https://dx.doi.org/10.1016/j.commatsci.2015.12.036), ***Comput. Mater. Sci.*** 114, 167-171 (2016).
 3. **N. T. Hung**\*, A. R. T. Nugraha\*, E. H. Hasdeo, M. S. Dresselhaus and R. Saito, [Diameter dependence of thermopower of semiconducting carbon nanotubes](https://dx.doi.org/10.1103/PhysRevB.92.165426), ***Phys. Rev. B*** 92, 165426 (2015). 
 >This paper was highlighted in News and Views section of Nature Energy (2016), "[Thermoelectrics: Carbon nanotubes get high](https://www.nature.com/articles/nenergy201637)"
