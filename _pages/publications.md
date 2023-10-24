@@ -8,8 +8,6 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2023
-45. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/xxx), ***Comput. Phys. Commun.*** (2023) accepted.
->GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 44. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\*, and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** (2023) in-press († Equal contribution).
 >Press release: “[Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers](https://www.tohoku.ac.jp/en/press/stacking_order_strain_boosts_second_harmonic_generation.html)” on Sep. 26, 2023 by Tohoku University. An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/xxx).
 43. S. Han, **N. T. Hung**, Y. Xie, R. Saito\*, J. Zhang and L. Tong\*, [Observing axial chirality of chiral single‐wall carbon nanotube by helicity‐dependent Raman spectra](https://doi.org/10.1021/acs.nanolett.3c01791), ***Nano Lett.*** 23, 8454–8459 (2023).
