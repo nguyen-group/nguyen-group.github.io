@@ -5,17 +5,77 @@
     <description>We focus on the theory and simulation of quantum materials for energy-efficiency applications.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jul 2023 15:03:02 +0900</pubDate>
-    <lastBuildDate>Thu, 20 Jul 2023 15:03:02 +0900</lastBuildDate>
+    <pubDate>Tue, 24 Oct 2023 22:27:55 -0400</pubDate>
+    <lastBuildDate>Tue, 24 Oct 2023 22:27:55 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>An open-source program for computing the Raman spectra based on Quantum ESPRESSO</title>
+        <description>&lt;p&gt;We published an open-source code: &lt;a href=&quot;https://doi.org/10.1016/j.cpc.2023.108967&quot;&gt;“QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO”&lt;/a&gt; &lt;strong&gt;&lt;em&gt;Comput. Phys. Commun.&lt;/em&gt;&lt;/strong&gt; 295, 108967 (2024) by N. T. Hung, J. Huang, Y. Tatsumi, T. Yang, and R. Saito.&lt;/p&gt;
+
+&lt;p&gt;This code is designed for computing the first-order resonance Raman spectroscopy based on Quantum ESPRESSO.&lt;/p&gt;
+
+&lt;h4 id=&quot;features&quot;&gt;Features&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Electron-photon and electron-phonon matrix elements&lt;/li&gt;
+  &lt;li&gt;1st resonance Raman spectra&lt;/li&gt;
+  &lt;li&gt;Linearly-polarized light&lt;/li&gt;
+  &lt;li&gt;Circularly-polarized light and polar plot&lt;/li&gt;
+  &lt;li&gt;Complex Raman tensor&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The open-source code can download at &lt;a href=&quot;https://github.com/nguyen-group/QERaman&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Oct 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/QERaman-code/</link>
+        <guid isPermaLink="true">http://localhost:4000/QERaman-code/</guid>
+        
+        
+        <category>Raman spectra</category>
+        
+        <category>QERaman</category>
+        
+        <category>Quantum ESPRESSO</category>
+        
+      </item>
+    
+      <item>
+        <title>Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers</title>
+        <description>&lt;p&gt;Our work in the nonlinear optical responses of 2D materials was selected by Tohoku University news, etc. with the title &lt;a href=&quot;https://www.tohoku.ac.jp/en/press/stacking_order_strain_boosts_second_harmonic_generation.html&quot;&gt;“Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mynavi news in Japanese: &lt;a href=&quot;https://news.mynavi.jp/techplus/article/20230925-2778353/&quot;&gt;“東北大、ヤヌス型は通常のTMDよりも第2高調波が3倍以上増強することを確認”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nikken news in Japanese: &lt;a href=&quot;https://www.nikkei.com/article/DGXZRSP662370_S3A920C2000000/&quot;&gt;“東北大、米ライス大とMITと共同で”ヤヌス型”2次元物質が波長400nmのSHGを発生することを第一原理計算で検証”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.3c04436&quot;&gt;Nonlinear Optical Responses of Janus MoSSe/MoS2 Heterobilayers Optimized by Stacking Order and Strain&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 19877–19886 (2023).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</link>
+        <guid isPermaLink="true">http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</guid>
+        
+        
+        <category>Nonlinear optic</category>
+        
+        <category>2D material</category>
+        
+        <category>DFT calculations</category>
+        
+        <category>Quantum ESPRESSO</category>
+        
+      </item>
     
       <item>
         <title>Scientists thread rows of metal atoms into nanofiber bundles</title>
         <description>&lt;p&gt;Our collaborative paper in van der Waals nanofibers of atomically thin W6Te6 wires was selected by Tokyo Metropolitan University news, EurekAlert!, etc. with the title &lt;a href=&quot;https://acs.altmetric.com/details/142843749/news&quot;&gt;“Scientists thread rows of metal atoms into nanofiber bundles”&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;Mynavi news in Japanese: &lt;a href=&quot;https://news.mynavi.jp/techplus/article/20230306-2609449/&quot;&gt;“都立大など、二元系TMCナノファイバー内部への金属原子を挿入する技術を開発”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Shikoku news in Japanese: &lt;a href=&quot;https://www.shikoku-np.co.jp/prwire/detail.aspx?id=202303023533&quot;&gt;“東京都公立大学法人 無機ナノファイバーに金属原子を挿入する技術を開発”&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;More information: R. Natsui et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.2c10997&quot;&gt;Vapor-Phase Indium Intercalation in van der Waals Nanofibers of Atomically Thin W6Te6 Wires&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 5561–5569 (2023).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Apr 2023 00:00:00 +0900</pubDate>
+        <pubDate>Mon, 03 Apr 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</link>
         <guid isPermaLink="true">http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</guid>
         
@@ -38,7 +98,7 @@
   &lt;li&gt;S. Wang, N. T. Hung, H. Tian, M. S. Islam and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevApplied.16.024030&quot;&gt;Switching behavior of a heterostructure based on periodically doped graphene nanoribbon&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Appl.&lt;/em&gt;&lt;/strong&gt; 16, 024030 (2021).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/designing-quantum-materials-for-energy-tree/</link>
         <guid isPermaLink="true">http://localhost:4000/designing-quantum-materials-for-energy-tree/</guid>
         
@@ -63,7 +123,7 @@
   &lt;li&gt;V. V. Thanh, N. D. Van, D. V. Truong, R. Saito and N. T. Hung, &lt;a href=&quot;https://doi.org/10.1016/j.apsusc.2020.146730&quot;&gt;First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Surf. Sci.&lt;/em&gt;&lt;/strong&gt; 526, 146730-1-8 (2020).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2D-materials-with-optical-properties/</link>
         <guid isPermaLink="true">http://localhost:4000/2D-materials-with-optical-properties/</guid>
         
@@ -88,7 +148,7 @@
 
 &lt;p&gt;Source files of book can download at &lt;a href=&quot;https://github.com/nguyen-group/QE-SSP&quot;&gt;https://github.com/nguyen-group/QE-SSP&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Dec 2022 00:00:00 +0900</pubDate>
+        <pubDate>Thu, 29 Dec 2022 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</link>
         <guid isPermaLink="true">http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</guid>
         
@@ -114,7 +174,7 @@
   &lt;li&gt;N. T. Hung, A. R. T. Nugraha, E. H. Hasdeo, M. S. &lt;a href=&quot;https://dx.doi.org/10.1103/PhysRevB.92.165426&quot;&gt;Dresselhaus and R. Saito, Diameter dependence of thermopower of semiconducting carbon nanotubes&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B&lt;/em&gt;&lt;/strong&gt; 92, 165426 (2015).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Thu, 04 Aug 2022 00:00:00 +0900</pubDate>
+        <pubDate>Thu, 04 Aug 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/thermoelectricity/</link>
         <guid isPermaLink="true">http://localhost:4000/thermoelectricity/</guid>
         
@@ -134,7 +194,7 @@
   &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1016/j.carbon.2017.03.036&quot;&gt;Charge-induced electrochemical actuation of armchair carbon nanotube bundles&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 118, 278-284 (2017).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Wed, 03 Aug 2022 00:00:00 +0900</pubDate>
+        <pubDate>Wed, 03 Aug 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/artificial-muscles/</link>
         <guid isPermaLink="true">http://localhost:4000/artificial-muscles/</guid>
         
@@ -153,7 +213,7 @@
 
 &lt;p&gt;More information: &lt;a href=&quot;https://web.tohoku.ac.jp/dr/#box_24&quot;&gt;Tohoku University Meet our Rising Stars&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 09 Jun 2022 00:00:00 +0900</pubDate>
+        <pubDate>Thu, 09 Jun 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/Prominent-Research-Fellow-of-Tohoku-University/</link>
         <guid isPermaLink="true">http://localhost:4000/Prominent-Research-Fellow-of-Tohoku-University/</guid>
         
@@ -168,7 +228,7 @@
 
 &lt;p&gt;More information: N. T. Hung and R. Saito, &lt;a href=&quot;https://doi.org/10.1002/qute.202000115&quot;&gt;The origin of quantum effects in low‐dimensional thermoelectric materials&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Quantum Technol.&lt;/em&gt;&lt;/strong&gt; 4, 2000115 (2021).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 15 Feb 2021 00:00:00 +0900</pubDate>
+        <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/Low-dimensional-thermoelectric-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/Low-dimensional-thermoelectric-materials/</guid>
         
@@ -176,48 +236,6 @@
         <category>thermoelectricity</category>
         
         <category>low-dimensional-materials</category>
-        
-      </item>
-    
-      <item>
-        <title>New class of materials shows strange electron properties</title>
-        <description>&lt;p&gt;Our collaborative paper in Weyl semimetal was selected by Pennsylvania State University News with tiltel “&lt;a href=&quot;https://news.psu.edu/story/607876/2020/02/11/research/new-class-materials-shows-strange-electron-properties&quot;&gt;New class of materials shows strange electron properties&lt;/a&gt;”. Other social media coverage in &lt;a href=&quot;https://phys.org/news/2020-02-class-materials-strange-electron-properties.html&quot;&gt;Phys.org&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;More information: K. Zhang et al. &lt;a href=&quot;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.014308&quot;&gt;Anomalous phonon-mode dependence in polarized Raman spectroscopy of the topological Weyl semimetal TaP&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/strong&gt; 101, 014308 (2020).&lt;/p&gt;
-</description>
-        <pubDate>Tue, 11 Feb 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/New-class-of-materials-shows-strange-electron-properties/</link>
-        <guid isPermaLink="true">http://localhost:4000/New-class-of-materials-shows-strange-electron-properties/</guid>
-        
-        
-        <category>topological-materials</category>
-        
-        <category>3D Weyl-semimetals</category>
-        
-        <category>DFT calculations</category>
-        
-      </item>
-    
-      <item>
-        <title>Theory of thermoelectric properties updated after 23 years</title>
-        <description>&lt;p&gt;News coverage on the “&lt;a href=&quot;https://www.tohoku.ac.jp/en/press/thermoelectric_properties_theory_updated.html&quot;&gt;Theory of thermoelectric properties updated after 23 years&lt;/a&gt;”. Other social media coverage in &lt;a href=&quot;https://phys.org/news/2016-08-theory-thermoelectric-properties-years.html&quot;&gt;Phys.org&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The theory of thermoelectricity for low dimensional semiconductors has recently been updated by Nguyen et al (2016) from Tohoku University, 23 years after it was first published by Hicks and Dresselhaus. Since the Hicks-Dresselhaus publication in 1993, the researchers have focused the low dimensional materials (2D or 1D) for searching the high thermoelectric material according to their theory of the confinement effect on 1D and 2D thermoelectricity, which was successful. However, they notice that some 1D nanowire or 2D materials do not show enhancement of the thermoelectric power even though the confinement length L is sufficiently small.&lt;/p&gt;
-
-&lt;p&gt;The new paper by Nguyen points out that “thermal de Broglie wavelength” is an important parameter to the enhancement of thermoelectricity. Thermoelectric power is enhanced only when the confinement length is smaller than the thermal de Broglie wavelength. This theory gives a precise direction of the material research for better thermoelectric materials in the future.&lt;/p&gt;
-
-&lt;p&gt;More information: Nguyen T. Hung et al. &lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.036602&quot;&gt;Quantum Effects in the Thermoelectric Power Factor of Low-Dimensional Semiconductors&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Physical Review Letters&lt;/em&gt;&lt;/strong&gt; 117, 036602 (2016).&lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 Aug 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/Theory-of-thermoelectric-properties-updated-after-23-years/</link>
-        <guid isPermaLink="true">http://localhost:4000/Theory-of-thermoelectric-properties-updated-after-23-years/</guid>
-        
-        
-        <category>thermoelectricity</category>
-        
-        <category>low-dimensional-materials</category>
-        
-        <category>quantum-effects</category>
         
       </item>
     
