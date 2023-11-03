@@ -8,12 +8,13 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
-45. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967 (2024).
+46. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967 (2024).
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 {: reversed="reversed"}
-{:start="45"}
+{:start="46"}
 ### 2023
-44. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\*, and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** 17, 19877–19886 (2023) († Equal contribution).
+45. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/...), ***J. Phys. Chem. Lett.*** accepted (2023).
+44. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\* and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** 17, 19877–19886 (2023) († Equal contribution).
 >Press release: “[Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers](https://www.tohoku.ac.jp/en/press/stacking_order_strain_boosts_second_harmonic_generation.html)” on Sep. 26, 2023 by Tohoku University. An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/cms/10.1021/ancac3.2023.17.issue-20/asset/ancac3.2023.17.issue-20.xlargecover-2.jpg).
 43. S. Han, **N. T. Hung**, Y. Xie, R. Saito\*, J. Zhang and L. Tong\*, [Observing axial chirality of chiral single‐wall carbon nanotube by helicity‐dependent Raman spectra](https://doi.org/10.1021/acs.nanolett.3c01791), ***Nano Lett.*** 23, 8454–8459 (2023).
 42. H. L. Liu\*, B. D. Annawati, **N. T. Hung**, D. P. Gulo, P. Solis-Fernandez, K. Kawahara, H. Ago and R. Saito, [Interference of excitons and surface plasmons in the optical absorption spectra of monolayer and bilayer graphene](https://doi.org/10.1103/PhysRevB.107.165421), ***Phys. Rev. B*** 107, 165421-1-10 (2023).
