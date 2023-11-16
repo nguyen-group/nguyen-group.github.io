@@ -71,8 +71,7 @@ permalink: "/publications"
 >This paper belonging to the collection: [Millie Dresselhaus: Her living scientific legacy](https://journals.aps.org/prapplied/collections/mildred-dresselhaus).
 10. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Two-dimensional MoS2 electrochemical actuator](https://doi.org/10.1088/1361-6463/aaa68f), ***J. Phys. D: Appl. Phys.*** 51, 075306 (2018).
 9. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [High-performance three-dimensional carbon Archimedean lattices electromechanical actuators](https://doi.org/10.1016/j.carbon.2017.09.083), ***Carbon*** 125, 472-479 (2017).
-7. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Size effect in thermoelectric power factor of nondegenerate and degenerate low-dimensional semiconductors](https://doi.org/10.1016/j.matpr.2017.10.005), ***Mater. Today: Proc.*** 4, 12368-12373 (2017).
-{: reversed="reversed"}
+8. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Size effect in thermoelectric power factor of nondegenerate and degenerate low-dimensional semiconductors](https://doi.org/10.1016/j.matpr.2017.10.005), ***Mater. Today: Proc.*** 4, 12368-12373 (2017).
 7. **N. T. Hung**\*, A. R. T. Nugraha\* and R. Saito, [Two-dimensional InSe as a potential thermoelectric material](https://dx.doi.org/10.1063/1.5001184), ***Appl. Phys. Lett.*** 111, 092107 (2017).
 6. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Charge-induced electrochemical actuation of armchair carbon nanotube bundles](https://dx.doi.org/10.1016/j.carbon.2017.03.036), ***Carbon*** 118, 278-284 (2017).
 5. **N. T. Hung**\*, E. H. Hasdeo, A. R. T. Nugraha, M. S. Dresselhaus and R. Saito, [Quantum effects in the thermoelectric power factor of low-dimensional semiconductors](https://dx.doi.org/10.1103/PhysRevLett.117.036602), ***Phys. Rev. Lett.*** 117, 036602 (2016). 
@@ -89,6 +88,7 @@ permalink: "/publications"
 3. L. X. Bach, V. V. Thanh\*, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑1119 (2022).
 2. N. V. Duy, V. V. Thanh\*, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718 (2022).
 1. V. V. Thanh\*, **N. T. Hung**, T. T. Quang and D. V. Truong, [Determining ideal strength and electronic properties of Ge/Si core-shell nanowires](http://doi.org/10.7736/KSPE.2019.36.8.699), ***J. Korean Soc. Precis. Eng.*** 36, 1-6 (2019).
+{: reversed="reversed"}
 {:start="4"}
 ### Popular articles (in Vietnamese)
 3. **N. T. Hung**\* and V. V. Thanh, [Thermal power and future applications in the automotive industry](https://vjol.info.vn/index.php/khcn/article/view/68899/58291), ***Vietnam J. Sci. Tech. Eng.*** 7A, 62-64 (2022).
