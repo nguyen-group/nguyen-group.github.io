@@ -8,10 +8,11 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
+48. **N. T. Hung**\*, [The role of spin-orbit interaction in low thermal conductivity of Mg3Bi2](https://doi.org/xxx), ***Appl. Phys. Lett.*** Accepted (2024).
 47. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967 (2024).
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 {: reversed="reversed"}
-{:start="47"}
+{:start="48"}
 ### 2023
 46. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263–10270 (2023).
 45. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\* and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** 17, 19877–19886 (2023) († Equal contribution).
