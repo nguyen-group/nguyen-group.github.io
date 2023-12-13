@@ -8,69 +8,70 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
-48. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967 (2024).
+49. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967 (2024).
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 {: reversed="reversed"}
-{:start="48"}
+{:start="49"}
 ### 2023
-47. **N. T. Hung**\*, [The role of spin-orbit interaction in low thermal conductivity of Mg3Bi2](https://doi.org/10.1063/5.0183615), ***Appl. Phys. Lett.*** 123, xxx (2023).
-46. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263–10270 (2023).
-45. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\* and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** 17, 19877–19886 (2023) († Equal contribution).
+48. **N. T. Hung**\*, [The role of spin-orbit interaction in low thermal conductivity of Mg3Bi2](https://doi.org/10.1063/5.0183615), ***Appl. Phys. Lett.*** 123, xxx (2023).
+47. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263–10270 (2023).
+46. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\* and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** 17, 19877–19886 (2023) († Equal contribution).
 >Press release: “[Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers](https://www.tohoku.ac.jp/en/press/stacking_order_strain_boosts_second_harmonic_generation.html)” on Sep. 26, 2023 by Tohoku University. An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/cms/10.1021/ancac3.2023.17.issue-20/asset/ancac3.2023.17.issue-20.xlargecover-2.jpg).
-44. S. Han, **N. T. Hung**, Y. Xie, R. Saito\*, J. Zhang and L. Tong\*, [Observing axial chirality of chiral single‐wall carbon nanotube by helicity‐dependent Raman spectra](https://doi.org/10.1021/acs.nanolett.3c01791), ***Nano Lett.*** 23, 8454–8459 (2023).
-43. H. L. Liu\*, B. D. Annawati, **N. T. Hung**, D. P. Gulo, P. Solis-Fernandez, K. Kawahara, H. Ago and R. Saito, [Interference of excitons and surface plasmons in the optical absorption spectra of monolayer and bilayer graphene](https://doi.org/10.1103/PhysRevB.107.165421), ***Phys. Rev. B*** 107, 165421-1-10 (2023).
-42. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu\*, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/10.1103/PhysRevMaterials.7.044001), ***Phys. Rev. Mater.*** 7, 044001-1-13 (2023).
-41. R. Natsui, H. Shimizu, Y. Nakanishi\*, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito\* and Y. Miyata\*, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/10.1021/acsnano.2c10997), ***ACS Nano*** 17, 5561-5569 (2023).
+45. S. Han, **N. T. Hung**, Y. Xie, R. Saito\*, J. Zhang and L. Tong\*, [Observing axial chirality of chiral single‐wall carbon nanotube by helicity‐dependent Raman spectra](https://doi.org/10.1021/acs.nanolett.3c01791), ***Nano Lett.*** 23, 8454–8459 (2023).
+44. H. L. Liu\*, B. D. Annawati, **N. T. Hung**, D. P. Gulo, P. Solis-Fernandez, K. Kawahara, H. Ago and R. Saito, [Interference of excitons and surface plasmons in the optical absorption spectra of monolayer and bilayer graphene](https://doi.org/10.1103/PhysRevB.107.165421), ***Phys. Rev. B*** 107, 165421-1-10 (2023).
+43. D. P. Gulo, **N. T. Hung**, R. Sankar, R. Saito and H. L. Liu\*, [Exploring optical properties of 2H- and 1T'-MoTe2 single crystals by spectroscopic ellipsometry](https://doi.org/10.1103/PhysRevMaterials.7.044001), ***Phys. Rev. Mater.*** 7, 044001-1-13 (2023).
+42. R. Natsui, H. Shimizu, Y. Nakanishi\*, Z. Liu, A. Shimamura, **N. T. Hung**, Y. C. Lin, T. Endo, J. Pu, I. Kikuchi, T. Takenobu, S. Okada, K. Suenaga, R. Saito\* and Y. Miyata\*, [Vapor-phase indium intercalation in van der Waals nanofibers of atomically thin W6Te6 wires](https://doi.org/10.1021/acsnano.2c10997), ***ACS Nano*** 17, 5561-5569 (2023).
 >Press release: “[Scientists thread rows of metal atoms into nanofiber bundles](https://www.eurekalert.org/news-releases/981243)” on Mar. 4, 2023 by Tokyo Metropolitan University. An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/cms/10.1021/ancac3.2023.17.issue-6/asset/ancac3.2023.17.issue-6.xlargecover-3.jpg).
-40. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** 6, 910-919 (2023).
+41. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus γ-GeSSe monolayer as a high-performance material for photocatalysis and thermoelectricity](https://doi.org/10.1021/acsaem.2c03316), ***ACS Appl. Energy Mater.*** 6, 910-919 (2023).
 {: reversed="reversed"}
-{:start="47"}
+{:start="48"}
 ### 2022
-39. F. R. Pratama\*, R. Saito and **N. T. Hung**\*, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), ***Phys. Rev. B: Lett.*** 106, L081304 (2022).
-38. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu\*, [Exploring unusual temperature‑dependent optical properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
-37. **N. T. Hung**\*, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, [Enhanced thermoelectric performance by van Hove singularities in the density of states of type‑II nodal‑line semimetals](https://doi.org/10.1103/PhysRevB.105.115142), ***Phys. Rev. B*** 105, 115142‑1‑5 (2022).
-36. L. X. Dien\*, T. Murayama, **N. T. Hung**, Q. D. Truong, H. D. Chinh, M. Yoshimura, M. Haruta and T. Ishida\*, [Efficient non-volatile organogold complex for TiO2-supported gold cluster catalysts: Preparation and catalytic activity for CO oxidation](https://doi.org/10.1016/j.jcat.2022.03.008), ***J. Catal.*** 408, 236‑244 (2022).
-35. V. V. Thanh\*, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Effects of strain and electric field on electronic and optical properties of monolayer γ-GeX (X = S, Se and Te)](https://doi.org/10.1016/j.apsusc.2021.152321), ***Appl. Surf. Sci.*** 582, 152321-1-10 (2022).
-34. S. Han†, Y. Zhao†, **N. T. Hung**†, B. Xu, R. Saito\*, J. Zhang and L. Tong\*, [Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light](https://doi.org/10.1021/acs.jpclett.1c03826), ***J. Phys. Chem. Lett.*** 13, 1241–1248 (2022). († Equal contribution)
+40. F. R. Pratama\*, R. Saito and **N. T. Hung**\*, [Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals](https://doi.org/10.1103/PhysRevB.106.L081304), ***Phys. Rev. B: Lett.*** 106, L081304 (2022).
+39. D. P. Gulo, **N. T. Hung**, T. J. Yang, G. J. Shu, R. Saito and H. L. Liu\*, [Exploring unusual temperature‑dependent optical properties of graphite single crystal by spectroscopic ellipsometry](https://doi.org/10.1016/j.carbon.2022.06.032), ***Carbon*** 197, 485‑493 (2022).
+38. **N. T. Hung**\*, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, [Enhanced thermoelectric performance by van Hove singularities in the density of states of type‑II nodal‑line semimetals](https://doi.org/10.1103/PhysRevB.105.115142), ***Phys. Rev. B*** 105, 115142‑1‑5 (2022).
+37. L. X. Dien\*, T. Murayama, **N. T. Hung**, Q. D. Truong, H. D. Chinh, M. Yoshimura, M. Haruta and T. Ishida\*, [Efficient non-volatile organogold complex for TiO2-supported gold cluster catalysts: Preparation and catalytic activity for CO oxidation](https://doi.org/10.1016/j.jcat.2022.03.008), ***J. Catal.*** 408, 236‑244 (2022).
+36. V. V. Thanh\*, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Effects of strain and electric field on electronic and optical properties of monolayer γ-GeX (X = S, Se and Te)](https://doi.org/10.1016/j.apsusc.2021.152321), ***Appl. Surf. Sci.*** 582, 152321-1-10 (2022).
+35. S. Han†, Y. Zhao†, **N. T. Hung**†, B. Xu, R. Saito\*, J. Zhang and L. Tong\*, [Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light](https://doi.org/10.1021/acs.jpclett.1c03826), ***J. Phys. Chem. Lett.*** 13, 1241–1248 (2022). († Equal contribution)
 {: reversed="reversed"}
-{:start="39"}
+{:start="40"}
 ### 2021
-33. W. V. Sinambela, S. A. Wella, F. S. Arsyad, **N. T. Hung** and A. R. T. Nugraha\*, [Electronic, optical, and thermoelectric properties of bulk and monolayer germanium tellurides](https://doi.org/10.3390/cryst11111290), ***Crystals*** 11, 1290‐1‐12 (2021).
-32. S. Wang\*, **N. T. Hung**, H. Tian, M. S. Islam and R. Saito, [Switching behavior of a heterostructure based on periodically doped graphene nanoribbon](https://doi.org/10.1103/PhysRevApplied.16.024030), ***Phys. Rev. Appl.*** 16, 024030 (2021).
-31. R. Saito\*, M. S. Ukhtary, S. Wang and **N. T. Hung**, [Selection rule for Raman spectra of two‐dimensional materials using circularly‐polarized vortex light](https://doi.org/10.1039/D1CP02209A), ***Phys. Chem. Chem. Phys.*** 23, 17271-17278 (2021).
-30. **N. T. Hung**\* and R. Saito, [The origin of quantum effects in low-dimensional thermoelectric materials](https://doi.org/10.1002/qute.202000115), ***Adv. Quantum Technol.*** 4, 2000115 (2021) (Invited review)
+34. W. V. Sinambela, S. A. Wella, F. S. Arsyad, **N. T. Hung** and A. R. T. Nugraha\*, [Electronic, optical, and thermoelectric properties of bulk and monolayer germanium tellurides](https://doi.org/10.3390/cryst11111290), ***Crystals*** 11, 1290‐1‐12 (2021).
+33. S. Wang\*, **N. T. Hung**, H. Tian, M. S. Islam and R. Saito, [Switching behavior of a heterostructure based on periodically doped graphene nanoribbon](https://doi.org/10.1103/PhysRevApplied.16.024030), ***Phys. Rev. Appl.*** 16, 024030 (2021).
+32. R. Saito\*, M. S. Ukhtary, S. Wang and **N. T. Hung**, [Selection rule for Raman spectra of two‐dimensional materials using circularly‐polarized vortex light](https://doi.org/10.1039/D1CP02209A), ***Phys. Chem. Chem. Phys.*** 23, 17271-17278 (2021).
+31. **N. T. Hung**\* and R. Saito, [The origin of quantum effects in low-dimensional thermoelectric materials](https://doi.org/10.1002/qute.202000115), ***Adv. Quantum Technol.*** 4, 2000115 (2021) (Invited review)
 >An illustration of this review paper was selected as a [back cover](https://doi.org/10.1002/qute.202170013).
-29. V. V. Thanh\*, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Charge-induced high-performance actuation of borophene](https://doi.org/10.1088/1361-6463/abc8b5), ***J. Phys. D: Appl. Phys.*** 54, 105504-1-8 (2021).
+30. V. V. Thanh\*, N. D. Van, D. V. Truong and **N. T. Hung**\*, [Charge-induced high-performance actuation of borophene](https://doi.org/10.1088/1361-6463/abc8b5), ***J. Phys. D: Appl. Phys.*** 54, 105504-1-8 (2021).
 {: reversed="reversed"}
-{:start="33"}
+{:start="34"}
 ### 2020
-28. K. Zhang, T. Wang, X. Pang, F. Han, S. L. Shang, **N. T. Hung**, Z. K. Liu, M. Li\*, R. Saito\* and S. Huang\*, [Anisotropic Fano resonance in the Weyl semimetal candidate LaAlSi](https://doi.org/10.1103/PhysRevB.102.235162), ***Phys. Rev. B*** 102, 235162-1-8 (2020).
-27. S. D. N. Luu\*, A. R. Supka, V. H. Nguyen, D. V. N. Vo, **N. T. Hung**, K. T. Wojciechowski, M. Fornari and P. Vaqueiro\*, [Origin of low thermal conductivity in In4Se3](https://doi.org/10.1021/acsaem.0c02489), ***ACS Appl. Energy Mater.*** 3, 12549-12556 (2020).
-26. V. V. Thanh\*, N. D. Van, D. V. Truong, R. Saito and **N. T. Hung**\*, [First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides](https://dx.doi.org/10.1016/j.apsusc.2020.146730), ***Appl. Surf. Sci.*** 526, 146730-1-8 (2020).
-25. **N. T. Hung**\*, A. R. T. Nugraha, T. Yang and R. Saito, [Confinement effect in thermoelectric properties of two-dimensional materials](https://dx.doi.org/10.1557/adv.2020.128), ***MRS Adv.*** 5, 469-479 (2020). (Invited review)
-24. K. Zhang, X. Pang, T. Wang, F. Han, S. L. Shang, **N. T. Hung**, A. R. T. Nugraha, Z. K. Liu, M. Li\*, R. Saito\* and S. Huang\*, [Anomalous phonon-mode dependence of polarization-resolved Raman spectroscopy in topological semimetal TaP](https://doi.org/10.1103/PhysRevB.101.014308), ***Phys. Rev. B*** 101, 014308-1-9 (2020).
+29. K. Zhang, T. Wang, X. Pang, F. Han, S. L. Shang, **N. T. Hung**, Z. K. Liu, M. Li\*, R. Saito\* and S. Huang\*, [Anisotropic Fano resonance in the Weyl semimetal candidate LaAlSi](https://doi.org/10.1103/PhysRevB.102.235162), ***Phys. Rev. B*** 102, 235162-1-8 (2020).
+28. S. D. N. Luu\*, A. R. Supka, V. H. Nguyen, D. V. N. Vo, **N. T. Hung**, K. T. Wojciechowski, M. Fornari and P. Vaqueiro\*, [Origin of low thermal conductivity in In4Se3](https://doi.org/10.1021/acsaem.0c02489), ***ACS Appl. Energy Mater.*** 3, 12549-12556 (2020).
+27. V. V. Thanh\*, N. D. Van, D. V. Truong, R. Saito and **N. T. Hung**\*, [First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides](https://dx.doi.org/10.1016/j.apsusc.2020.146730), ***Appl. Surf. Sci.*** 526, 146730-1-8 (2020).
+26. **N. T. Hung**\*, A. R. T. Nugraha, T. Yang and R. Saito, [Confinement effect in thermoelectric properties of two-dimensional materials](https://dx.doi.org/10.1557/adv.2020.128), ***MRS Adv.*** 5, 469-479 (2020). (Invited review)
+25. K. Zhang, X. Pang, T. Wang, F. Han, S. L. Shang, **N. T. Hung**, A. R. T. Nugraha, Z. K. Liu, M. Li\*, R. Saito\* and S. Huang\*, [Anomalous phonon-mode dependence of polarization-resolved Raman spectroscopy in topological semimetal TaP](https://doi.org/10.1103/PhysRevB.101.014308), ***Phys. Rev. B*** 101, 014308-1-9 (2020).
 >Press release: “[New class of materials shows strange electron properties](https://www.psu.edu/news/research/story/new-class-materials-shows-strange-electron-properties/)” on Feb. 13, 2020 by Pennsylvania State University.
-23. Q. D. Truong\*, L. C. Yin, **N. T. Hung**, D. N. Nguyen, Y. Gambe, K. Nayuki, Y. Sasaki, H. Kobayashi, R. Saito, P. D. Tran and I. Honma, [Anionic redox in a-(Mo3S11)n polymer cathode for all-solid-state Li-ion battery](https://doi.org/10.1016/j.electacta.2019.135218), ***Electrochim. Acta*** 332, 135218-1-8 (2020).
+24. Q. D. Truong\*, L. C. Yin, **N. T. Hung**, D. N. Nguyen, Y. Gambe, K. Nayuki, Y. Sasaki, H. Kobayashi, R. Saito, P. D. Tran and I. Honma, [Anionic redox in a-(Mo3S11)n polymer cathode for all-solid-state Li-ion battery](https://doi.org/10.1016/j.electacta.2019.135218), ***Electrochim. Acta*** 332, 135218-1-8 (2020).
 {: reversed="reversed"}
-{:start="28"}
+{:start="29"}
 ### 2019
-22. **N. T. Hung**\*, L. C. Yin, P. D. Tran and R. Saito, [Simultaneous anionic and cationic redox in Mo3S11 polymer electrode of sodium-ion battery](https://doi.org/10.1021/acs.jpcc.9b09325), ***J. Phys. Chem. C*** 123, 30856−30862 (2019).
-21. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Thermoelectric properties of carbon nanotubes](https://doi.org/10.3390/en12234561), ***Energies*** 12, 4561 (2019). (Invited review)
-20. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Charge-induced electromechanical actuation of two- dimensional hexagonal and pentagonal materials](https://doi.org/10.1039/C9CP03129D), ***Phys. Chem. Chem. Phys.*** 21, 22377-22384 (2019).
-19. S. Li, Y. Xia, M. Amachra, **N. T. Hung**, Z. Wang\*, S. P. Ong\* and R. J. Xie\*, [Data-driven discovery of full-visible-spectrum phosphor](https://doi.org/10.1021/acs.chemmater.9b02505), ***Chem. Mater.*** 31, 6286−6294 (2019).
-18. E. H. Hasdeo\*, L. P. A. Krisna, M. Y. Hanna, B. E. Gunara, **N. T. Hung** and A. R. T. Nugraha\*, [Optimal band gap for improved thermoelectric performance of two-dimensional Dirac materials](https://doi.org/10.1063/1.5100985), ***J. Appl. Phys.*** 126, 035109 (2019).
-17. M. Vila, **N. T. Hung**, S. Roche and R. Saito, [Tunable circular dichroism and valley polarization in the modified Haldane model](https://doi.org/10.1103/PhysRevB.99.161404), ***Phys. Rev. B: Rap. Comm.*** 99 161404R (2019).
+23. **N. T. Hung**\*, L. C. Yin, P. D. Tran and R. Saito, [Simultaneous anionic and cationic redox in Mo3S11 polymer electrode of sodium-ion battery](https://doi.org/10.1021/acs.jpcc.9b09325), ***J. Phys. Chem. C*** 123, 30856−30862 (2019).
+22. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Thermoelectric properties of carbon nanotubes](https://doi.org/10.3390/en12234561), ***Energies*** 12, 4561 (2019). (Invited review)
+21. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Charge-induced electromechanical actuation of two- dimensional hexagonal and pentagonal materials](https://doi.org/10.1039/C9CP03129D), ***Phys. Chem. Chem. Phys.*** 21, 22377-22384 (2019).
+20. S. Li, Y. Xia, M. Amachra, **N. T. Hung**, Z. Wang\*, S. P. Ong\* and R. J. Xie\*, [Data-driven discovery of full-visible-spectrum phosphor](https://doi.org/10.1021/acs.chemmater.9b02505), ***Chem. Mater.*** 31, 6286−6294 (2019).
+19. E. H. Hasdeo\*, L. P. A. Krisna, M. Y. Hanna, B. E. Gunara, **N. T. Hung** and A. R. T. Nugraha\*, [Optimal band gap for improved thermoelectric performance of two-dimensional Dirac materials](https://doi.org/10.1063/1.5100985), ***J. Appl. Phys.*** 126, 035109 (2019).
+18. M. Vila, **N. T. Hung**, S. Roche and R. Saito, [Tunable circular dichroism and valley polarization in the modified Haldane model](https://doi.org/10.1103/PhysRevB.99.161404), ***Phys. Rev. B: Rap. Comm.*** 99 161404R (2019).
 {: reversed="reversed"}
-{:start="22"}
+{:start="23"}
 ### Before PhD
-16. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Designing high-performance thermoelectrics in two-dimensional tetradymites](https://doi.org/10.1016/j.nanoen.2019.02.015), ***Nano Energy*** 58, 743-749 (2019).
-15. B. Dong, Z. Wang\*, **N. T. Hung**, A. R. Oganov, T. Yang\*, R. Saito and Z. Zhang, [New two-dimensional phase of tin chalcogenides: candidates for high-performance thermoelectric materials](https://doi.org/10.1103/PhysRevMaterials.3.013405), ***Phys. Rev. Mater.*** 3, 013405-1-9 (2019).
-14. **N. T. Hung**\*, A. R. T. Nugraha, T. Yang, Z. Zhang and R. Saito, [Thermoelectric performance of monolayer InSe improved by convergence of multivalley bands](https://doi.org/10.1063/1.5040752), ***J. Appl. Phys.*** 125, 082502 (2019). 
-13. V. V. Thanh\*, **N. T. Hung**\* and D. V. Truong, [Charge-induced electromechanical actuation of Mo- and W-dichalcogenide monolayers](http://dx.doi.org/10.1039/C8RA08248K), ***RSC Adv.*** 8, 38667-38672 (2018).
-12. Q. D. Truong†, **N. T. Hung**†, Y. Nakayasu, K. Nayuki, Y. Sasaki, D. M. Kempaiah, L. C. Yin, T. Tomai, R. Saito and I. Honma\*, [Inversion domain boundaries in MoSe2 layers](https://doi.org/10.1039/C8RA07205A), ***RSC Adv.*** 8, 33391–33397 (2018). († Equal contribution)
-11. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Universal curve of optimum thermoelectric figure of merit for bulk and low-dimensional semiconductors](https://doi.org/10.1103/PhysRevApplied.9.024019), ***Phys. Rev. Appl.*** 9, 024019 (2018). 
+17. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Designing high-performance thermoelectrics in two-dimensional tetradymites](https://doi.org/10.1016/j.nanoen.2019.02.015), ***Nano Energy*** 58, 743-749 (2019).
+16. B. Dong, Z. Wang\*, **N. T. Hung**, A. R. Oganov, T. Yang\*, R. Saito and Z. Zhang, [New two-dimensional phase of tin chalcogenides: candidates for high-performance thermoelectric materials](https://doi.org/10.1103/PhysRevMaterials.3.013405), ***Phys. Rev. Mater.*** 3, 013405-1-9 (2019).
+15. **N. T. Hung**\*, A. R. T. Nugraha, T. Yang, Z. Zhang and R. Saito, [Thermoelectric performance of monolayer InSe improved by convergence of multivalley bands](https://doi.org/10.1063/1.5040752), ***J. Appl. Phys.*** 125, 082502 (2019). 
+14. V. V. Thanh\*, **N. T. Hung**\* and D. V. Truong, [Charge-induced electromechanical actuation of Mo- and W-dichalcogenide monolayers](http://dx.doi.org/10.1039/C8RA08248K), ***RSC Adv.*** 8, 38667-38672 (2018).
+13. Q. D. Truong†, **N. T. Hung**†, Y. Nakayasu, K. Nayuki, Y. Sasaki, D. M. Kempaiah, L. C. Yin, T. Tomai, R. Saito and I. Honma\*, [Inversion domain boundaries in MoSe2 layers](https://doi.org/10.1039/C8RA07205A), ***RSC Adv.*** 8, 33391–33397 (2018). († Equal contribution)
+12. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Universal curve of optimum thermoelectric figure of merit for bulk and low-dimensional semiconductors](https://doi.org/10.1103/PhysRevApplied.9.024019), ***Phys. Rev. Appl.*** 9, 024019 (2018). 
 >This paper belonging to the collection: [Millie Dresselhaus: Her living scientific legacy](https://journals.aps.org/prapplied/collections/mildred-dresselhaus).
-10. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Two-dimensional MoS2 electrochemical actuator](https://doi.org/10.1088/1361-6463/aaa68f), ***J. Phys. D: Appl. Phys.*** 51, 075306 (2018).
+11. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Two-dimensional MoS2 electrochemical actuator](https://doi.org/10.1088/1361-6463/aaa68f), ***J. Phys. D: Appl. Phys.*** 51, 075306 (2018).
+10. R. Saito\*, A. R. T. Nugraha, E. H. Hasdeo, **N. T. Hung** and W. Izumida,  [Electronic and optical properties of single wall carbon nanotubes](https://doi.org/10.1007/s41061-016-0095-2), ***Top. Curr. Chem.*** 375, 1‑24 (2017). (Invited review)
 9. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [High-performance three-dimensional carbon Archimedean lattices electromechanical actuators](https://doi.org/10.1016/j.carbon.2017.09.083), ***Carbon*** 125, 472-479 (2017).
 8. **N. T. Hung**\*, A. R. T. Nugraha and R. Saito, [Size effect in thermoelectric power factor of nondegenerate and degenerate low-dimensional semiconductors](https://doi.org/10.1016/j.matpr.2017.10.005), ***Mater. Today: Proc.*** 4, 12368-12373 (2017).
 7. **N. T. Hung**\*, A. R. T. Nugraha\* and R. Saito, [Two-dimensional InSe as a potential thermoelectric material](https://dx.doi.org/10.1063/1.5001184), ***Appl. Phys. Lett.*** 111, 092107 (2017).
@@ -83,7 +84,7 @@ permalink: "/publications"
 2. **N. T. Hung** and D. V. Truong\*, [Ab initio study of the structural transformations and pseudoelasticity in Cu nanowires](https://dx.doi.org/10.1016/j.susc.2015.05.004), ***Surf. Sci.*** 641, 1-5 (2015).
 1. D. V. Truong\*, **N. T. Hung**, T. Shimada and T. Kitamura, [Ab initio study of shear strain effects on ferroelectricity at PbTiO3 thin films](https://dx.doi.org/10.1016/j.susc.2012.04.024), ***Surf. Sci.*** 606, 1331-1339 (2012).
 {: reversed="reversed"}
-{:start="16"}
+{:start="17"}
 ### Conference papers
 4. V. V. Thanh\*, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
 3. L. X. Bach, V. V. Thanh\*, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑1119 (2022).
