@@ -8,10 +8,11 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
+50. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus 2D B2P6: A promising anisotropic thermoelectric material with high power factor](https://doi.org/xxx), ***Surf. Interfaces*** accepted (2024).
 49. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967 (2024).
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 {: reversed="reversed"}
-{:start="49"}
+{:start="50"}
 ### 2023
 48. **N. T. Hung**\*, [The role of spin-orbit interaction in low thermal conductivity of Mg3Bi2](https://doi.org/10.1063/5.0183615), ***Appl. Phys. Lett.*** 123, 252109-1-5 (2023).
 47. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263–10270 (2023).
