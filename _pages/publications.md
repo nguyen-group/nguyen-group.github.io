@@ -8,8 +8,8 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
-52. R. Saito\*, **N. T. Hung**\*, T. Yang, J. Huang, H. L. Liu\*, D. P. Gulo, S. Han, L. Tong\*, [Deep-ultraviolet and helicity-dependent Raman spectroscopy for carbon nanotubes and 2D materials](https://doi.org/10.1002/smll.202308558), ***Small*** accepted (2024). (Invited review)
-51. S. N. Kajale, T. Nguyen, **N. T. Hung**, M. Li and D. Sarkar\*, [Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature](https://doi.org/xxx), ***Sci. Adv.*** accepted (2024).
+52. S. N. Kajale, T. Nguyen, **N. T. Hung**, M. Li and D. Sarkar\*, [Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature](https://doi.org/xxx), ***Sci. Adv.*** accepted (2024).
+51. R. Saito\*, **N. T. Hung**\*, T. Yang, J. Huang, H. L. Liu\*, D. P. Gulo, S. Han, L. Tong\*, [Deep-ultraviolet and helicity-dependent Raman spectroscopy for carbon nanotubes and 2D materials](https://doi.org/10.1002/smll.202308558), ***Small*** 2308558-1-17 (2024). (Invited review)
 50. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967-1-9 (2024).
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 49. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus 2D B2P6: A promising anisotropic thermoelectric material with high power factor](https://doi.org/10.1016/j.surfin.2023.103829), ***Surf. Interfaces*** 44, 103829-1-8 (2024).
