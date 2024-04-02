@@ -8,13 +8,14 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
+53. **N. T. Hung**\*, N. Thanh, V. V. Thanh, S. Wang, R. Saito\* and M. Li\*,  [Symmetry breaking in 2D materials for optimizing second-harmonic generation](https://doi.org/xxx), ***J. Phys. D: Appl. Phys.*** (2024) (Invited review).
 52. S. N. Kajale, T. Nguyen, **N. T. Hung**, M. Li and D. Sarkar\*, [Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature](https://doi.org/10.1126/sciadv.adk8669), ***Sci. Adv.*** 10, eadk8669-1-7 (2024).
 51. R. Saito\*, **N. T. Hung**\*, T. Yang, J. Huang, H. L. Liu\*, D. P. Gulo, S. Han, L. Tong\*, [Deep-ultraviolet and helicity-dependent Raman spectroscopy for carbon nanotubes and 2D materials](https://doi.org/10.1002/smll.202308558), ***Small*** 2308558-1-17 (2024). (Invited review)
 50. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967-1-9 (2024).
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 49. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus 2D B2P6: A promising anisotropic thermoelectric material with high power factor](https://doi.org/10.1016/j.surfin.2023.103829), ***Surf. Interfaces*** 44, 103829-1-8 (2024).
 {: reversed="reversed"}
-{:start="52"}
+{:start="53"}
 ### 2023
 48. **N. T. Hung**\*, [The role of spin-orbit interaction in low thermal conductivity of Mg3Bi2](https://doi.org/10.1063/5.0183615), ***Appl. Phys. Lett.*** 123, 252109-1-5 (2023).
 47. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263–10270 (2023).
