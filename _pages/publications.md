@@ -10,6 +10,7 @@ permalink: "/publications"
 ### 2024
 53. **N. T. Hung**\*, N. Thanh, V. V. Thanh, S. Wang, R. Saito\* and M. Li\*,  [Symmetry breaking in 2D materials for optimizing second-harmonic generation](https://doi.org/xxx), ***J. Phys. D: Appl. Phys.*** accepted (2024) (Invited review).
 52. S. N. Kajale, T. Nguyen, **N. T. Hung**, M. Li and D. Sarkar\*, [Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature](https://doi.org/10.1126/sciadv.adk8669), ***Sci. Adv.*** 10, eadk8669-1-7 (2024).
+>This paper was highlighted in the newsletter: "[Van der Waals magnet integration for energy-efficient spintronics](https://doi.org/10.1038/s44287-024-00048-3)" on Apr. 08, 2024, by Nature Reviews Electrical Engineering.
 51. R. Saito\*, **N. T. Hung**\*, T. Yang, J. Huang, H. L. Liu\*, D. P. Gulo, S. Han, L. Tong\*, [Deep-ultraviolet and helicity-dependent Raman spectroscopy for carbon nanotubes and 2D materials](https://doi.org/10.1002/smll.202308558), ***Small*** 2308558-1-17 (2024). (Invited review)
 50. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967-1-9 (2024).
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
@@ -90,12 +91,13 @@ permalink: "/publications"
 {: reversed="reversed"}
 {:start="17"}
 ### Conference papers
+5. V. V. Thanh\*, D. V. Truong and **N. T. Hung**, [Ab initio calculations of ideal strength and electronic property of hydrogenated biphenylene monolayer](https://doi.org/10.1007/978-3-031-39090-6_47), *in Proceedings of the 3rd Annual International Conference on Material, Machines and Methods for Sustainable Development (MMMS2022)*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 415-421 (2024).
 4. V. V. Thanh\*, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn‑dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981‑989 (2022).
 3. L. X. Bach, V. V. Thanh\*, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn‑dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113‑1119 (2022).
 2. N. V. Duy, V. V. Thanh\*, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED‑Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710‑718 (2022).
 1. V. V. Thanh\*, **N. T. Hung**, T. T. Quang and D. V. Truong, [Determining ideal strength and electronic properties of Ge/Si core-shell nanowires](http://doi.org/10.7736/KSPE.2019.36.8.699), ***J. Korean Soc. Precis. Eng.*** 36, 1-6 (2019).
 {: reversed="reversed"}
-{:start="4"}
+{:start="5"}
 ### Popular articles (in Vietnamese)
 3. **N. T. Hung**\* and V. V. Thanh, [Thermal power and future applications in the automotive industry](https://vjol.info.vn/index.php/khcn/article/view/68899/58291), ***Vietnam J. Sci. Tech. Eng.*** 7A, 62-64 (2022).
 2. **N. T. Hung**\* and V. V. Thanh, [Artificial muscle: When materials overcome nature's evolution](https://vjol.info.vn/index.php/khcn/article/view/51816/42670), ***Vietnam J. Sci. Tech. Eng.*** 9A, 62-64 (2020).
