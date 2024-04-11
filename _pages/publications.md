@@ -8,7 +8,7 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
-53. **N. T. Hung**\*, N. Thanh, V. V. Thanh, S. Wang, R. Saito\* and M. Li\*,  [Symmetry breaking in 2D materials for optimizing second-harmonic generation](https://doi.org/xxx), ***J. Phys. D: Appl. Phys.*** accepted (2024) (Invited review).
+53. **N. T. Hung**\*, N. Thanh, V. V. Thanh, S. Wang, R. Saito\* and M. Li\*,  [Symmetry breaking in 2D materials for optimizing second-harmonic generation](https://doi.org/xxx), ***J. Phys. D: Appl. Phys.*** accepted (2024). (Invited review)
 52. S. N. Kajale, T. Nguyen, **N. T. Hung**, M. Li and D. Sarkar\*, [Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature](https://doi.org/10.1126/sciadv.adk8669), ***Sci. Adv.*** 10, eadk8669-1-7 (2024).
 >This paper was highlighted in the newsletter: "[Van der Waals magnet integration for energy-efficient spintronics](https://doi.org/10.1038/s44287-024-00048-3)" on Apr. 08, 2024, by Nature Reviews Electrical Engineering.
 51. R. Saito\*, **N. T. Hung**\*, T. Yang, J. Huang, H. L. Liu\*, D. P. Gulo, S. Han, L. Tong\*, [Deep-ultraviolet and helicity-dependent Raman spectroscopy for carbon nanotubes and 2D materials](https://doi.org/10.1002/smll.202308558), ***Small*** 2308558-1-17 (2024). (Invited review)
