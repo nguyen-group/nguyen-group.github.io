@@ -9,13 +9,13 @@ permalink: "/codes"
 
 An ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structures.
 
-***Input***: Crystal structure data (e.g. cif file)  
-
-***Output***: Complex dielectric function, absorption coefficient, complex refractive index, and reflectance.
-
-***Machine learning***: Equivariant graph neural networks.
-
-***Applications***: Screening photovoltaic and quantum materials.
+>***Input***: Crystal structure data (e.g. cif file)  
+>
+>***Output***: Complex dielectric function, absorption coefficient, complex refractive index, and reflectance.
+>
+>***Machine learning***: Equivariant graph neural networks.
+>
+>***Applications***: Screening photovoltaic and quantum materials.
 
 Published paper: **N. T. Hung**, R. Okabe, A. Chotrattanapituk and M. Li, [Ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://arxiv.org/abs/2406.16654), arXiv:2406.16654
 
