@@ -9,7 +9,7 @@ permalink: "/publications"
 (*: corresponding author; †: equal contribution)
 ### 2024
 55. M. Mandal\*, A. Chotrattanapituk, K. Woller, L. Wu, H. Xu, **N. T. Hung**, N. Mao, R. Okabe, A. Boonkird, T. Nguyen, N. C. Drucker, X. M. Chen, T. Momiki, J. Li, J. Kong, Y. Zhu\* and M. Li\*, [Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation](https://doi.org/10.1063/5.0181361), ***Appl. Phys. Rev.*** 11, 021429-1-8 (2024).
-> Press release: “[A new approach to fine-tuning quantum materials](https://web.mit.edu/nse/news/2024/tuning-quantum-materials.html)” on Jul. 17, 2024, by MIT.. This paper was selected as a featured article. 
+> Press release: “[A new approach to fine-tuning quantum materials](https://web.mit.edu/nse/news/2024/tuning-quantum-materials.html)” on Jul. 17, 2024, by MIT. This paper was selected as a featured article. 
 54. H. L. Liu\*, H. W. Chen, **N. T. Hung**, Y. C. Chen, H. J. Liu, C. T. Chen, Y. L. Chueh, Y. H. Chu, and R. Saito, [Temperature-dependent indirect gaps for two-dimensional bismuth oxychalcogenides probed by spectroscopic ellipsometry](https://doi.org/10.1088/2053-1583/ad50ad), ***2D Mater.*** 11, 035029-1-11 (2024).
 53. **N. T. Hung**\*, N. Thanh, V. V. Thanh, S. Wang, R. Saito\* and M. Li\*,  [Symmetry breaking in 2D materials for optimizing second-harmonic generation](https://doi.org/10.1088/1361-6463/ad4a80), ***J. Phys. D: Appl. Phys.*** 57, 333002-1-16 (2024). (Invited review)
 52. S. N. Kajale, T. Nguyen, **N. T. Hung**, M. Li and D. Sarkar\*, [Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature](https://doi.org/10.1126/sciadv.adk8669), ***Sci. Adv.*** 10, eadk8669-1-7 (2024).
