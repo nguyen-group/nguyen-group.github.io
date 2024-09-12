@@ -8,7 +8,7 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
-56. **N. T. Hung**\*, R. Okabe,  A. Chotrattanapituk and M. Li\*, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** accepted (2024).
+56. **N. T. Hung**\*, R. Okabe,  A. Chotrattanapituk and M. Li\*, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** 2409175-1-11 (2024).
 
 55. M. Mandal\*, A. Chotrattanapituk, K. Woller, L. Wu, H. Xu, **N. T. Hung**, N. Mao, R. Okabe, A. Boonkird, T. Nguyen, N. C. Drucker, X. M. Chen, T. Momiki, J. Li, J. Kong, Y. Zhu\* and M. Li\*, [Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation](https://doi.org/10.1063/5.0181361), ***Appl. Phys. Rev.*** 11, 021429-1-8 (2024).
 > Press release: “[A new approach to fine-tuning quantum materials](https://web.mit.edu/nse/news/2024/tuning-quantum-materials.html)” on Jul. 17, 2024, by MIT. This paper was selected as a featured article. 
