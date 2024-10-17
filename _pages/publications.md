@@ -8,7 +8,7 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
-57. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non van-der-Waals Mo$_5$N$_6$](https://doi.org/xxx), ***ACS Nano*** accepted (2024).
+57. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non van-der-Waals Mo5N6](https://doi.org/xxx), ***ACS Nano*** accepted (2024).
 56. **N. T. Hung**\*, R. Okabe,  A. Chotrattanapituk and M. Li\*, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** 2409175-1-11 (2024).
 >Press release: “[AI Speeds Up the Discovery of Energy and Quantum Materials](https://www.tohoku.ac.jp/en/press/ai_speeds_up_discovery_of_energy_and_quantum_materials.html)” on Oct. 7, 2023 by Tohoku University. An illustration of this paper was also selected as a [frontispiece](https://doi.org/10.1002/adma.202409175).
 55. M. Mandal\*, A. Chotrattanapituk, K. Woller, L. Wu, H. Xu, **N. T. Hung**, N. Mao, R. Okabe, A. Boonkird, T. Nguyen, N. C. Drucker, X. M. Chen, T. Momiki, J. Li, J. Kong, Y. Zhu\* and M. Li\*, [Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation](https://doi.org/10.1063/5.0181361), ***Appl. Phys. Rev.*** 11, 021429-1-8 (2024).
@@ -25,7 +25,7 @@ permalink: "/publications"
 {:start="57"}
 ### 2023
 48. **N. T. Hung**\*, [The role of spin-orbit interaction in low thermal conductivity of Mg3Bi2](https://doi.org/10.1063/5.0183615), ***Appl. Phys. Lett.*** 123, 252109-1-5 (2023).
-47. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263–10270 (2023).
+47. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263-10270 (2023).
 46. **N. T. Hung**\*†, K. Zhang†, V. V. Thanh, Y. Guo, A. A. Puretzky, D. B. Geohegan, J. Kong, S. Huang\* and R. Saito\*, [Nonlinear optical responses of Janus MoSSe/MoS2 heterobilayers optimized by stacking order and strain](https://doi.org/10.1021/acsnano.3c04436), ***ACS Nano*** 17, 19877–19886 (2023) († Equal contribution).
 >Press release: “[Stacking order and strain boosts second-harmonic generation with 2D Janus hetero-bilayers](https://www.tohoku.ac.jp/en/press/stacking_order_strain_boosts_second_harmonic_generation.html)” on Sep. 26, 2023 by Tohoku University. An illustration of this paper was also selected as a [front cover](https://pubs.acs.org/cms/10.1021/ancac3.2023.17.issue-20/asset/ancac3.2023.17.issue-20.xlargecover-2.jpg).
 45. S. Han, **N. T. Hung**, Y. Xie, R. Saito\*, J. Zhang and L. Tong\*, [Observing axial chirality of chiral single‐wall carbon nanotube by helicity‐dependent Raman spectra](https://doi.org/10.1021/acs.nanolett.3c01791), ***Nano Lett.*** 23, 8454–8459 (2023).
