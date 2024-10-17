@@ -8,7 +8,9 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2024
+57. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non van-der-Waals Mo$_5$N$_6$](https://doi.org/xxx), ***ACS Nano*** accepted (2024).
 56. **N. T. Hung**\*, R. Okabe,  A. Chotrattanapituk and M. Li\*, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** 2409175-1-11 (2024).
+>Press release: “[AI Speeds Up the Discovery of Energy and Quantum Materials](https://www.tohoku.ac.jp/en/press/ai_speeds_up_discovery_of_energy_and_quantum_materials.html)” on Oct. 7, 2023 by Tohoku University. An illustration of this paper was also selected as a [frontispiece](https://doi.org/10.1002/adma.202409175).
 55. M. Mandal\*, A. Chotrattanapituk, K. Woller, L. Wu, H. Xu, **N. T. Hung**, N. Mao, R. Okabe, A. Boonkird, T. Nguyen, N. C. Drucker, X. M. Chen, T. Momiki, J. Li, J. Kong, Y. Zhu\* and M. Li\*, [Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation](https://doi.org/10.1063/5.0181361), ***Appl. Phys. Rev.*** 11, 021429-1-8 (2024).
 > Press release: “[A new approach to fine-tuning quantum materials](https://news.mit.edu/2024/new-approach-fine-tuning-quantum-materials-0812)” on Jul. 17, 2024, by MIT. This paper was selected as a featured article. 
 54. H. L. Liu\*, H. W. Chen, **N. T. Hung**, Y. C. Chen, H. J. Liu, C. T. Chen, Y. L. Chueh, Y. H. Chu, and R. Saito, [Temperature-dependent indirect gaps for two-dimensional bismuth oxychalcogenides probed by spectroscopic ellipsometry](https://doi.org/10.1088/2053-1583/ad50ad), ***2D Mater.*** 11, 035029-1-11 (2024).
@@ -20,7 +22,7 @@ permalink: "/publications"
 >GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 49. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus 2D B2P6: A promising anisotropic thermoelectric material with high power factor](https://doi.org/10.1016/j.surfin.2023.103829), ***Surf. Interfaces*** 44, 103829-1-8 (2024).
 {: reversed="reversed"}
-{:start="56"}
+{:start="57"}
 ### 2023
 48. **N. T. Hung**\*, [The role of spin-orbit interaction in low thermal conductivity of Mg3Bi2](https://doi.org/10.1063/5.0183615), ***Appl. Phys. Lett.*** 123, 252109-1-5 (2023).
 47. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, S. Maruyama, Y. M. Chang, R. Saito and H. L. Liu\*, [Interacting phonons between layers in Raman spectra of carbon nanotubes inside boron-nitride nanotubes](https://doi.org/10.1021/acs.jpclett.3c02528), ***J. Phys. Chem. Lett.*** 14, 10263–10270 (2023).
