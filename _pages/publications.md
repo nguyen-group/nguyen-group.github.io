@@ -9,7 +9,7 @@ permalink: "/publications"
 (*: corresponding author; †: equal contribution)
 ### 2024
 57. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non-van der Waals Mo5N6](https://doi.org/10.1021/acsnano.4c06250), ***ACS Nano*** accepted (2024).
-56. **N. T. Hung**\*, R. Okabe,  A. Chotrattanapituk and M. Li\*, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** 2409175-1-11 (2024).
+56. **N. T. Hung**\*, R. Okabe,  A. Chotrattanapituk and M. Li\*, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** 36, 2409175-1-11 (2024).
 >Press release: “[AI speeds up the discovery of energy and quantum materials](https://www.tohoku.ac.jp/en/press/ai_speeds_up_discovery_of_energy_and_quantum_materials.html)” on Oct. 7, 2023 by Tohoku University. An illustration of this paper was also selected as a [frontispiece](https://doi.org/10.1002/adma.202470369).
 55. M. Mandal\*, A. Chotrattanapituk, K. Woller, L. Wu, H. Xu, **N. T. Hung**, N. Mao, R. Okabe, A. Boonkird, T. Nguyen, N. C. Drucker, X. M. Chen, T. Momiki, J. Li, J. Kong, Y. Zhu\* and M. Li\*, [Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation](https://doi.org/10.1063/5.0181361), ***Appl. Phys. Rev.*** 11, 021429-1-8 (2024).
 > Press release: “[A new approach to fine-tuning quantum materials](https://news.mit.edu/2024/new-approach-fine-tuning-quantum-materials-0812)” on Jul. 17, 2024, by MIT. This paper was selected as a featured article. 
