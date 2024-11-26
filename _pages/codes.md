@@ -17,7 +17,7 @@ An ensemble-embedding graph neural network for direct prediction of optical spec
 >
 >***Applications***: Screening photovoltaic and quantum materials.
 
-Published paper: **N. T. Hung**, R. Okabe, A. Chotrattanapituk and M. Li, [Ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://arxiv.org/abs/2406.16654), arXiv:2406.16654
+Published paper: **N. T. Hung**, R. Okabe, A. Chotrattanapituk and M. Li, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** 36, 2409175-1-11 (2024).
 
 <p><a target="_blank" href="https://github.com/nguyen-group/GNNOpt" class="btn btn-success">Source files of the GNNOpt at <i class="fab fa-github"></i></a></p>
 
