@@ -9,7 +9,7 @@ permalink: "/publications"
 (*: corresponding author; †: equal contribution)
 ### 2025
 60. H. Gao, D. Zhou, L. Ping, Z. Wang, **N. T. Hung**, J. Cao, M. Geiwitz, G. Natale, Y. C. Lin, K. S. Burch, R. Saito, M. Terrones and X. Ling\*, [Downscaling of non van der Waals semimetalic W5N6 with resistivity preservation](https://doi.org/xxx), ***ACS Nano*** accepted (2025).
-59. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, T. Yang\* and Z. Zhang, [DUV double-resonant Raman spectra and interference effect in graphene: first-principles calculations](https://doi.org/xxx), ***J. Raman Spectrosc.*** accepted (2025).
+59. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, T. Yang\* and Z. Zhang, [DUV double-resonant Raman spectra and interference effect in graphene: first-principles calculations](https://doi.org/10.1002/jrs.6768), ***J. Raman Spectrosc.*** accepted (2025).
 {: reversed="reversed"}
 {:start="60"}
 ### 2024
