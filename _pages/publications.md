@@ -8,7 +8,7 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2025
-61. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, H. Takehara, A. Taguchi, T. Taniguchi, S. Maruyama, Y. M. Chang, R. Saito\* and H. L. Liu\*, [Quenching of defect-induced photoluminescence in a boron-nitride and carbon hetero-nanotube](https://doi.org/xxx), ***J. Phys. Chem. Lett.*** accepted (2025)
+61. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, H. Takehara, A. Taguchi, T. Taniguchi, S. Maruyama, Y. M. Chang, R. Saito\* and H. L. Liu\*, [Quenching of defect-induced photoluminescence in a boron-nitride and carbon hetero-nanotube](https://doi.org/10.1021/acs.jpclett.4c03681), ***J. Phys. Chem. Lett.*** 16, 1711-1719  (2025)
 60. H. Gao, D. Zhou, L. Ping, Z. Wang, **N. T. Hung**, J. Cao, M. Geiwitz, G. Natale, Y. C. Lin, K. S. Burch, R. Saito, M. Terrones and X. Ling\*, [Downscaling of non-van der Waals semimetalic W5N6 with resistivity preservation](https://doi.org/10.1021/acsnano.4c12155), ***ACS Nano*** 19, 3362-3371 (2025).
 59. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, T. Yang\* and Z. Zhang, [DUV double-resonant Raman spectra and interference effect in graphene: first-principles calculations](https://doi.org/10.1002/jrs.6768), ***J. Raman Spectrosc.*** 0, 1-8, (2025).
 {: reversed="reversed"}
