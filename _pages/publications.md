@@ -8,11 +8,12 @@ permalink: "/publications"
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### 2025
+62. W. Mu, N. Muhammad, B. Dong, **N. T. Hung**\*, H. Guo\*, R. Saito, W. Gong, T. Yang\* and Z. Zhang, [Enhanced thermoelectric properties of the topological phase of monolayer HfC](https://doi.org/10.1088/1674-1056/adbd17), ***Chin. Phys. B*** accepted (2025)
 61. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, H. Takehara, A. Taguchi, T. Taniguchi, S. Maruyama, Y. M. Chang, R. Saito\* and H. L. Liu\*, [Quenching of defect-induced photoluminescence in a boron-nitride and carbon hetero-nanotube](https://doi.org/10.1021/acs.jpclett.4c03681), ***J. Phys. Chem. Lett.*** 16, 1711-1719  (2025)
 60. H. Gao, D. Zhou, L. Ping, Z. Wang, **N. T. Hung**, J. Cao, M. Geiwitz, G. Natale, Y. C. Lin, K. S. Burch, R. Saito, M. Terrones and X. Ling\*, [Downscaling of non-van der Waals semimetalic W5N6 with resistivity preservation](https://doi.org/10.1021/acsnano.4c12155), ***ACS Nano*** 19, 3362-3371 (2025).
 59. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, T. Yang\* and Z. Zhang, [DUV double-resonant Raman spectra and interference effect in graphene: first-principles calculations](https://doi.org/10.1002/jrs.6768), ***J. Raman Spectrosc.*** 0, 1-8, (2025).
 {: reversed="reversed"}
-{:start="61"}
+{:start="62"}
 ### 2024
 58. R. Liu, L. Li, Y. Zhang, J. Huang\*, M. Lin, **N. T. Hung**, Z. Wang, Z. Zhang, R. Saito, P. Tan\* and T. Yang\*, [Helicity selection rule of double resonance Raman spectra for monolayer MoSe2](https://doi.org/10.1103/PhysRevB.110.245422), ***Phys. Rev. B*** 110, 245422-1-9 (2024).
 57. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non-van der Waals Mo5N6](https://doi.org/10.1021/acsnano.4c06250), ***ACS Nano*** 18, 32458-32467 (2024).
