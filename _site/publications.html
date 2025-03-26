@@ -159,6 +159,47 @@
 
     <div class="article-post">
     <h4 id="google-scholar-and-scopus"><a href="https://scholar.google.com/citations?user=7O6Qq_kAAAAJ&amp;hl=en">Google Scholar</a> and <a href="https://www.scopus.com/authid/detail.uri?authorId=56912954900">Scopus</a></h4>
+
+<head>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+</head>
+<div id="container" style="height: 400px; width: 600px;"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const data = [
+        { year: 2015, papers: 2, citations: 0 },
+        { year: 2016, papers: 2, citations: 7 },
+        { year: 2017, papers: 5, citations: 23 },
+        { year: 2018, papers: 4, citations: 42 },
+        { year: 2019, papers: 10, citations: 101 },
+        { year: 2020, papers: 7, citations: 131 },
+        { year: 2021, papers: 4, citations: 171 },
+        { year: 2022, papers: 9, citations: 281 },
+        { year: 2023, papers: 9, citations: 264 },
+        { year: 2024, papers: 12, citations: 299 },
+        { year: 2025, papers: 4, citations: 121 }
+    ];
+
+    const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
+    
+    Highcharts.chart('container', {
+        chart: { zoomType: 'xy' },
+        title: { text: 'Total Citations: 1,441 &  H-index: 18 (Scopus)' },
+        xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
+        yAxis: [
+            { title: { text: 'Papers' }, opposite: true },
+            { title: { text: 'Citations' }, opposite: false }
+        ],
+        tooltip: { shared: true, split: false, enabled: true },
+        series: [
+            { name: 'Papers', type: 'column', data: seriesData('papers'), color: 'gray' },
+            { name: 'Citations', type: 'line', data: seriesData('citations'), yAxis: 1, marker: { enabled: true }, color: 'green', lineWidth: 2 }
+        ]
+    });
+});
+</script>
+
 <h3 id="papers-in-peer-reviewed-journal">Papers in Peer-Reviewed Journal</h3>
 <p>(*: corresponding author; †: equal contribution)</p>
 <h3 id="2025">2025</h3>
