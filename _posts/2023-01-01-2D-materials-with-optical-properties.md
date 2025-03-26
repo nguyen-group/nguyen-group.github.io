@@ -1,5 +1,5 @@
 ---
-title: Photonics in 2D-Materials
+title: Photonics in Materials
 layout: post
 categories:
 - research
@@ -10,6 +10,10 @@ featured: true
 hidden: true
 comments: false
 ---
+
+Keywords: Raman spectra, Photovoltaics, Photocatalytic water splitting, Second harmonic generation, Excitons effect
+
+### Linear and nonliner optical responds of 2D materials
 
 Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon, and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, nonlinear second harmonic generation (SHG), etc.
 

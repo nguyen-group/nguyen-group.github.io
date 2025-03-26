@@ -5,8 +5,8 @@
     <description>We focus on the solid-state theory, quantum simulation, and machine learning for quantum materials.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Mar 2025 02:45:23 +0900</pubDate>
-    <lastBuildDate>Thu, 27 Mar 2025 02:45:23 +0900</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 03:13:46 +0900</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 03:13:46 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -161,8 +161,16 @@
       </item>
     
       <item>
-        <title>AI for Quantum-Materials</title>
-        <description>&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming, leading to material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery of high-performance and low-cost quantum materials, such as 2D or topological materials, for energy-efficiency applications, including thermoelectricity, photocatalysis, and low-power electronic devices. We call this “Energy Tree”.&lt;/p&gt;
+        <title>AI/ML for Materials</title>
+        <description>&lt;p&gt;&lt;strong&gt;Keywords: Graph neutral network, Diffusion model, High-throughput calculation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;AI and Machine Learning (ML) are revolutionizing materials science, enabling faster discovery, design, and optimization of materials with desired properties, by leveraging data-driven approaches to predict properties and identify optimal compositions and structures&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;ai-driven-materials-design&quot;&gt;AI-driven materials design&lt;/h3&gt;
+
+&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming, leading to material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery of high-performance and low-cost quantum materials, such as 2D or topological materials, for energy-efficiency applications, including thermoelectricity, photocatalysis, and low-power electronic devices. We call this “Energy Tree”.&lt;/p&gt;
 
 &lt;p&gt;The integrated approach will combine the DFT calculations with high-throughput and artificial intelligence/machine learning (AI/ML). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy quantum materials.&lt;/p&gt;
 
@@ -186,8 +194,12 @@
       </item>
     
       <item>
-        <title>Photonics in 2D-Materials</title>
-        <description>&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon, and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, nonlinear second harmonic generation (SHG), etc.&lt;/p&gt;
+        <title>Photonics in Materials</title>
+        <description>&lt;p&gt;Keywords: Raman spectra, Photovoltaics, Photocatalytic water splitting, Second harmonic generation, Excitons effect&lt;/p&gt;
+
+&lt;h3 id=&quot;linear-and-nonliner-optical-responds-of-2d-materials&quot;&gt;Linear and nonliner optical responds of 2D materials&lt;/h3&gt;
+
+&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon, and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, nonlinear second harmonic generation (SHG), etc.&lt;/p&gt;
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;

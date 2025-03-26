@@ -1,5 +1,5 @@
 ---
-title: AI for Quantum-Materials
+title: AI/ML for Materials
 layout: post
 categories:
 - research
@@ -10,6 +10,12 @@ featured: true
 hidden: true
 comments: false
 ---
+
+**Keywords: Graph neutral network, Diffusion model, High-throughput calculation**
+
+> AI and Machine Learning (ML) are revolutionizing materials science, enabling faster discovery, design, and optimization of materials with desired properties, by leveraging data-driven approaches to predict properties and identify optimal compositions and structures
+
+### AI-driven materials design
 
 Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming, leading to material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery of high-performance and low-cost quantum materials, such as 2D or topological materials, for energy-efficiency applications, including thermoelectricity, photocatalysis, and low-power electronic devices. We call this "Energy Tree". 
 
