@@ -1,5 +1,5 @@
 ---
-title: An easy book to learn Quantum ESPRESSO for solid-state physics"
+title: An easy book to learn Quantum ESPRESSO for solid-state physics
 layout: post
 categories:
 - books

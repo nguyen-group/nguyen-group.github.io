@@ -87,7 +87,7 @@ var documents = [{
     }, {
     "id": 17,
     "url": "http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/",
-    "title": "An easy book to learn Quantum ESPRESSO for solid-state physics"",
+    "title": "An easy book to learn Quantum ESPRESSO for solid-state physics",
     "body": "2022/12/29 - We published a textbook “Quantum ESPRESSO Course for Solid-State Physics” by Nguyen Tuan Hung, Ahmad R. T. Nugraha, Riichiro Saito. This book is educationally designed for beginners in computational physics and materials science with many tutorials on Quantum ESPRESSO based on many tutorial courses in the world given by the authors. Therefore, it is very practical for students who aim to learn the first‐principles calculation. In particular, for the experimental students who wish to run the first‐principles calculation themselves to compare the experimental results of new materials directly. See a preview at Google book. Buy a full book at Amazon or Routledge Taylor &amp; Francis Group Source files of book can download at https://github. com/nguyen-group/QE-SSP "
     }, {
     "id": 18,
