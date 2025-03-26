@@ -2,12 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interdisciplinary Quantum Materials</title>
-    <description>We focus on the theory and simulation of quantum materials for energy-efficiency applications.</description>
+    <description>We focus on the solid-state theory, quantum simulation, and machine learning for quantum materials.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Nov 2023 14:37:04 -0500</pubDate>
-    <lastBuildDate>Thu, 16 Nov 2023 14:37:04 -0500</lastBuildDate>
-    <generator>Jekyll v3.9.2</generator>
+    <pubDate>Wed, 26 Mar 2025 20:31:19 +0900</pubDate>
+    <lastBuildDate>Wed, 26 Mar 2025 20:31:19 +0900</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>AI speeds up the discovery of energy and quantum materials</title>
+        <description>&lt;p&gt;Our work in the AI for optical prediction and quantum material was selected by Tohoku University news, etc. with the title &lt;a href=&quot;https://www.tohoku.ac.jp/en/press/ai_speeds_up_discovery_of_energy_and_quantum_materials.html&quot;&gt;“AI speeds up the discovery of energy and quantum materials”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nikken news in Japanese: &lt;a href=&quot;https://www.nikkei.com/article/DGXZRSP680093_V11C24A0000000/&quot;&gt;“東北大、材料発見を大幅にスピードアップできるAIモデルを開発”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/adma.202409175&quot;&gt;Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structures&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Mat.&lt;/em&gt;&lt;/strong&gt; 2409175-1-11 (2024).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Oct 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/AI-speeds-up-the-discovery-of-energy-and-quantum-materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/AI-speeds-up-the-discovery-of-energy-and-quantum-materials/</guid>
+        
+        
+        <category>Graph neural network</category>
+        
+        <category>Quantum materials</category>
+        
+        <category>DFT calculations</category>
+        
+        <category>Optic</category>
+        
+      </item>
+    
+      <item>
+        <title>A new approach to fine-tuning quantum materials</title>
+        <description>&lt;p&gt;Our collaborative paper in quantum materials was selected by MIT news, Phys.org, etc. with the title &lt;a href=&quot;https://news.mit.edu/2024/new-approach-fine-tuning-quantum-materials-0812&quot;&gt;“A new approach to fine-tuning quantum materials”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This paper was selected as a featured article.&lt;/p&gt;
+
+&lt;p&gt;More information: M. Mandal et al. &lt;a href=&quot;https://pubs.aip.org/aip/apr/article/11/2/021429/3299347/Precise-Fermi-level-engineering-in-a-topological&quot;&gt;Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Phys. Rev.&lt;/em&gt;&lt;/strong&gt; 11, 021429-1-8 (2024).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Jun 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/A-new-approach-to-fine-tuning-quantum-materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/A-new-approach-to-fine-tuning-quantum-materials/</guid>
+        
+        
+        <category>Quantum materials</category>
+        
+      </item>
+    
+      <item>
+        <title>Propelling atomically layered magnets toward green computers</title>
+        <description>&lt;p&gt;Our collaborative paper in 2D magnetic materials for energy-efficient spintronics was selected by MIT news, Phys.org, etc. with the title &lt;a href=&quot;https://news.mit.edu/2024/propelling-atomically-layered-magnets-toward-green-computers-0404&quot;&gt;“Propelling atomically layered magnets toward green computers”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This paper was also highlighted in the newsletter: &lt;a href=&quot;https://doi.org/10.1038/s44287-024-00048-3&quot;&gt;“Van der Waals magnet integration for energy-efficient spintronics”&lt;/a&gt; by Nature Reviews Electrical Engineering.&lt;/p&gt;
+
+&lt;p&gt;More information: S. N. Kajale et al. &lt;a href=&quot;https://doi.org/10.1126/sciadv.adk8669&quot;&gt;Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Sci. Adv.&lt;/em&gt;&lt;/strong&gt; 10, eadk8669-1-7 (2024).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Apr 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Propelling-atomically-layered-magnets-toward-green-computers/</link>
+        <guid isPermaLink="true">http://localhost:4000/Propelling-atomically-layered-magnets-toward-green-computers/</guid>
+        
+        
+        <category>2D materials</category>
+        
+      </item>
     
       <item>
         <title>An open-source program for computing the Raman spectra based on Quantum ESPRESSO</title>
@@ -27,7 +84,7 @@
 
 &lt;p&gt;The open-source code can download at &lt;a href=&quot;https://github.com/nguyen-group/QERaman&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Oct 2023 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/QERaman-code/</link>
         <guid isPermaLink="true">http://localhost:4000/QERaman-code/</guid>
         
@@ -50,7 +107,7 @@
 
 &lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.3c04436&quot;&gt;Nonlinear Optical Responses of Janus MoSSe/MoS2 Heterobilayers Optimized by Stacking Order and Strain&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 19877–19886 (2023).&lt;/p&gt;
 </description>
-        <pubDate>Tue, 26 Sep 2023 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 26 Sep 2023 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</link>
         <guid isPermaLink="true">http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</guid>
         
@@ -75,7 +132,7 @@
 
 &lt;p&gt;More information: R. Natsui et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.2c10997&quot;&gt;Vapor-Phase Indium Intercalation in van der Waals Nanofibers of Atomically Thin W6Te6 Wires&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 5561–5569 (2023).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Apr 2023 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 03 Apr 2023 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</link>
         <guid isPermaLink="true">http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</guid>
         
@@ -85,20 +142,18 @@
       </item>
     
       <item>
-        <title>Designing Quantum-Materials</title>
+        <title>AI for Quantum-Materials</title>
         <description>&lt;p&gt;Historically, materials discovery has mostly relied on the Edisonian trial and error approach. However, such a traditional process becomes increasingly time-consuming, leading to material from laboratory to market can take many years and is very expensive. Thus, this project aims to accelerate the exploration, design, and discovery of high-performance and low-cost quantum materials, such as 2D or topological materials, for energy-efficiency applications, including thermoelectricity, photocatalysis, and low-power electronic devices. We call this “Energy Tree”.&lt;/p&gt;
 
-&lt;p&gt;The integrated approach will combine the DFT calculations and data-driven methods (i.e., high-throughput screening and machine learning). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy quantum materials.&lt;/p&gt;
+&lt;p&gt;The integrated approach will combine the DFT calculations with high-throughput and artificial intelligence/machine learning (AI/ML). Compared to traditional materials discovery, the integrated approach has the potential to substantially reduce the experimental efforts needed to identify promising materials with target functionalities for the new energy quantum materials.&lt;/p&gt;
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;V. V. Thanh, D. V. Truong and N. T. Hung, &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsaem.2c03316&quot;&gt;Janus γ-Ge2SSe monolayer as a high-performance material for photocatalysis and thermoelectricity&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Appl. Energy Mater.&lt;/em&gt;&lt;/strong&gt; 6, 910-919 (2023).&lt;/li&gt;
-  &lt;li&gt;F. R. Pratama, R. Saito and N. T. Hung, &lt;a href=&quot;https://doi.org/10.1103/PhysRevB.106.L081304&quot;&gt;Magneto-Seebeck coefficient of the Fermi liquid in three-dimensional Dirac and Weyl semimetals&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B: Lett.&lt;/em&gt;&lt;/strong&gt; 106, L081304 (2022).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha, J. M. Adhidewata and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevB.105.115142&quot;&gt;Enhanced thermoelectric performance by van Hove singularities in the density of states of type‑II nodal‑line semimetals&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B&lt;/em&gt;&lt;/strong&gt; 105, 115142‑1‑5 (2022).&lt;/li&gt;
-  &lt;li&gt;S. Wang, N. T. Hung, H. Tian, M. S. Islam and R. Saito, &lt;a href=&quot;https://doi.org/10.1103/PhysRevApplied.16.024030&quot;&gt;Switching behavior of a heterostructure based on periodically doped graphene nanoribbon&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Appl.&lt;/em&gt;&lt;/strong&gt; 16, 024030 (2021).&lt;/li&gt;
+  &lt;li&gt;N. T. Hung, R. Okabe,  A. Chotrattanapituk and M. Li, &lt;a href=&quot;https://doi.org/10.1002/adma.202409175&quot;&gt;Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Mat.&lt;/em&gt;&lt;/strong&gt; 2409175-1-11 (2024).&lt;/li&gt;
+  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1201/9781003290964&quot;&gt;Quantum ESPRESSO Course for Solid‑State Physics&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Jenny Stanford Publishing&lt;/em&gt;&lt;/strong&gt;, New York, 372 Pages, (2022).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/designing-quantum-materials-for-energy-tree/</link>
         <guid isPermaLink="true">http://localhost:4000/designing-quantum-materials-for-energy-tree/</guid>
         
@@ -123,7 +178,7 @@
   &lt;li&gt;V. V. Thanh, N. D. Van, D. V. Truong, R. Saito and N. T. Hung, &lt;a href=&quot;https://doi.org/10.1016/j.apsusc.2020.146730&quot;&gt;First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Surf. Sci.&lt;/em&gt;&lt;/strong&gt; 526, 146730-1-8 (2020).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sun, 01 Jan 2023 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/2D-materials-with-optical-properties/</link>
         <guid isPermaLink="true">http://localhost:4000/2D-materials-with-optical-properties/</guid>
         
@@ -148,7 +203,7 @@
 
 &lt;p&gt;Source files of book can download at &lt;a href=&quot;https://github.com/nguyen-group/QE-SSP&quot;&gt;https://github.com/nguyen-group/QE-SSP&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Dec 2022 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 29 Dec 2022 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</link>
         <guid isPermaLink="true">http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</guid>
         
@@ -174,68 +229,12 @@
   &lt;li&gt;N. T. Hung, A. R. T. Nugraha, E. H. Hasdeo, M. S. &lt;a href=&quot;https://dx.doi.org/10.1103/PhysRevB.92.165426&quot;&gt;Dresselhaus and R. Saito, Diameter dependence of thermopower of semiconducting carbon nanotubes&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. B&lt;/em&gt;&lt;/strong&gt; 92, 165426 (2015).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Thu, 04 Aug 2022 00:00:00 -0400</pubDate>
+        <pubDate>Thu, 04 Aug 2022 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/thermoelectricity/</link>
         <guid isPermaLink="true">http://localhost:4000/thermoelectricity/</guid>
         
         
         <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Artificial Muscles</title>
-        <description>&lt;p&gt;An artificial muscle is a novel actuator based on a variety of polymers or composites that change their shape when excited electrically. A composite of carbon nanotubes is known to be one of the strongest and stiffest materials, and it can reversibly contract and expand in volume under an applied voltage, similar to the natural muscle. Almost two decades ago, Baughman group built an ultra-strong artificial muscle from carbon nanotube bundles with electrochemical charging, in which the artificial muscle could be about 100 times stronger than the natural muscle in terms of force generated per unit area. We now try to understand the physical basis of actuator materials by the density functional theory (DFT) and also try to design new actuator materials.&lt;/p&gt;
-
-&lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1088/1361-6463/aaa68f&quot;&gt;Two-dimensional MoS2 electrochemical actuator&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;J. Phys. D: Appl. Phys.&lt;/em&gt;&lt;/strong&gt; 51, 075306 (2018).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1016/j.carbon.2017.09.083&quot;&gt;High-performance three-dimensional carbon Archimedean lattices electromechanical actuators&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 125, 472-479 (2017).&lt;/li&gt;
-  &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://dx.doi.org/10.1016/j.carbon.2017.03.036&quot;&gt;Charge-induced electrochemical actuation of armchair carbon nanotube bundles&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Carbon&lt;/em&gt;&lt;/strong&gt; 118, 278-284 (2017).&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Wed, 03 Aug 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/artificial-muscles/</link>
-        <guid isPermaLink="true">http://localhost:4000/artificial-muscles/</guid>
-        
-        
-        <category>research</category>
-        
-        <category>artificial muscles</category>
-        
-      </item>
-    
-      <item>
-        <title>Prominent Research Fellow of Tohoku University</title>
-        <description>&lt;p&gt;Nguyen Tuan Hung was selected as Prominent Research Fellow of Tohoku University.&lt;/p&gt;
-
-&lt;p&gt;The “Prominent Research Fellow of Tohoku University” is a newly established system that grants the title to assistant professors at Tohoku University who are challenging original research that opens up new fields, with the aim of enhancing the presence of outstanding young researchers, promoting an independent research environment, and contributing to the further promotion of education and research at Tohoku University and to society.&lt;/p&gt;
-
-&lt;p&gt;More information: &lt;a href=&quot;https://web.tohoku.ac.jp/dr/#box_24&quot;&gt;Tohoku University Meet our Rising Stars&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Jun 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/Prominent-Research-Fellow-of-Tohoku-University/</link>
-        <guid isPermaLink="true">http://localhost:4000/Prominent-Research-Fellow-of-Tohoku-University/</guid>
-        
-        
-        <category>awards</category>
-        
-      </item>
-    
-      <item>
-        <title>Low‐dimensional thermoelectric materials</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/qute.202170013&quot;&gt;Our review paper was selected as a back cover&lt;/a&gt; of Adv. Quantum Technol. The cover image depicts electrons moving from hot to cold temperature, which can generate electrical energy. The quantum effect occurs when the width of the system is smaller than the thermal de Broglie wavelength.&lt;/p&gt;
-
-&lt;p&gt;More information: N. T. Hung and R. Saito, &lt;a href=&quot;https://doi.org/10.1002/qute.202000115&quot;&gt;The origin of quantum effects in low‐dimensional thermoelectric materials&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Quantum Technol.&lt;/em&gt;&lt;/strong&gt; 4, 2000115 (2021).&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/Low-dimensional-thermoelectric-materials/</link>
-        <guid isPermaLink="true">http://localhost:4000/Low-dimensional-thermoelectric-materials/</guid>
-        
-        
-        <category>thermoelectricity</category>
-        
-        <category>low-dimensional-materials</category>
         
       </item>
     
