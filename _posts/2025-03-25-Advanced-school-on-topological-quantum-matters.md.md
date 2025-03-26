@@ -1,5 +1,5 @@
 ---
-title: Advanced School On Topological Quantum Matters.md
+title: Advanced School On Topological Quantum Matters
 image: assets/images/quy_nhon_2025.jpg
 categories:
 - topological-materials
