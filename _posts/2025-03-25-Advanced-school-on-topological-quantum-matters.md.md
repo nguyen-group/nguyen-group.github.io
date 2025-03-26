@@ -1,12 +1,11 @@
-
 ---
-title: Advanced school on topological quantum matters
-layout: post
-categories:
-- Topological materials
-- Quantum materials
-- DFT calculations
+title: Advanced School On Topological Quantum Matters.md
 image: assets/images/quy_nhon_2025.jpg
+categories:
+- topological-materials
+- Quantum materials
+- machine learning
+layout: post
 ---
 
 We organize and are lecturers for a summer school ["Advanced School on Topological Quantum Matters"](https://icisequynhon.com/conferences/2025/toposchool2025/index.html) at Quy Nhon, Vietnam on June 30 - July 5, 2025. This school aimed at advanced doctoral students, postdoctoral fellows, and early career researchers. It is the first school on strongly correlated topological quantum matter in Vietnam. The School will include introductory and advanced lectures on the following topics: Topological Band Theory, Topological Quantum Matters, Quantum Field Theory Approaches, Generalized Symmetries, and Artificial Intelligence. The schedule will leave ample room for discussions.
