@@ -5,8 +5,8 @@
     <description>We focus on the solid-state theory, simulation, and machine learning for quantum materials.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Mar 2025 02:43:55 +0900</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2025 02:43:55 +0900</lastBuildDate>
+    <pubDate>Fri, 28 Mar 2025 02:45:32 +0900</pubDate>
+    <lastBuildDate>Fri, 28 Mar 2025 02:45:32 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -195,11 +195,15 @@
     
       <item>
         <title>Photonics in Materials</title>
-        <description>&lt;p&gt;Keywords: Raman spectra, Photovoltaics, Photocatalytic water splitting, Second harmonic generation, Excitons effect&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Keywords: Raman spectra, Photovoltaics, Photocatalysis, Second harmonic generation, Excitons effect&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;linear-and-nonliner-optical-responds-of-2d-materials&quot;&gt;Linear and nonliner optical responds of 2D materials&lt;/h3&gt;
+&lt;h3 id=&quot;linear-and-nonlinear-optical-response-of-2d-materials&quot;&gt;Linear and nonlinear optical response of 2D materials&lt;/h3&gt;
 
-&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. For example, from the Raman spectra, we can understand the symmetry of phonon, electron-phonon, and electron-photon interaction. In this project, we study the relevant fields of photonics of the 2D materials by the first-principles calculations, including the Raman spectra, excitons effect, photovoltaics, nonlinear second harmonic generation (SHG), etc.&lt;/p&gt;
+&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. In this topic, we study the relevant fields of photonics of the 2D materials and heterostructures by the first-principles calculations, including the linear response, nonlinear response, excitons effect, nonlinear second harmonic generation (SHG), etc, for the applications on photovoltaics, water splitting, laser technology.&lt;/p&gt;
+
+&lt;h3 id=&quot;resonance-raman-spectroscopy&quot;&gt;Resonance Raman spectroscopy&lt;/h3&gt;
+
+&lt;p&gt;Resonance Raman spectroscopy is a powerful tool for characterizing 2D materials, providing insights into their electronic and vibrational properties, especially when the incident laser energy matches the material’s electronic transitions, revealing features like double resonance Raman processes and allowing for the study of electron-photon, electron-defect, and electron-phonon interactions. For example, the resonance Raman spectroscopy can reveal information about the G and 2D bands in graphene, which are related to the vibrational modes of the material. However, Raman calculations at the first-principles level are challenging due to the complexity of the interactions. We are pioneering in this field. We are pioneering in this area. We have developed two first-principle resonant Raman computational codes, &lt;a href=&quot;https://github.com/nguyen-group/QERaman&quot;&gt;QERaman&lt;/a&gt; and &lt;a href=&quot;http://qr2-code.com/&quot;&gt;QR2-code&lt;/a&gt; to calculate the single- and double-resonance Raman spectra, respectively. In this topic, our goal is to search for new physics behind Raman spectra.&lt;/p&gt;
 
 &lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
 &lt;ol&gt;
