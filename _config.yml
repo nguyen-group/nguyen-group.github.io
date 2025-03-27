@@ -1,8 +1,8 @@
-name: 'Interdisciplinary Quantum Materials'
-title: 'Interdisciplinary Quantum Materials'
-description: 'We focus on the solid-state theory, quantum simulation, and machine learning for quantum materials.'
-logo: 'assets/images/favicon.png'
-favicon: 'assets/images/favicon.png'
+name: 'Interdisciplinary Materials Group at Tohoku University'
+title: 'Interdisciplinary Materials Group at Tohoku University'
+description: 'We focus on the solid-state theory, simulation, and machine learning for quantum materials.'
+logo: 'assets/images/tohoku_logo.png'
+favicon: 'assets/images/TU_logo.png'
 #baseurl: 'https://nguyen-group.github.io'
 lsi: false
 safe: true

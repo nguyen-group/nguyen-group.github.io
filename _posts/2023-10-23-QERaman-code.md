@@ -1,5 +1,5 @@
 ---
-title: An open-source program for computing the Raman spectra based on Quantum ESPRESSO
+title: An open-source program for computing the Raman spectra
 layout: post
 categories:
 - Raman spectra
