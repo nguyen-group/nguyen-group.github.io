@@ -11,7 +11,7 @@ hidden: true
 comments: false
 ---
 
-Keywords: Raman spectra, Photovoltaics, Photocatalysis, Second harmonic generation, Excitons effect
+**Keywords: Raman spectra, Photovoltaics, Photocatalysis, Second harmonic generation, Excitons effect**
 
 ### Linear and nonlinear optical response of 2D materials
 
