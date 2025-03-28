@@ -5,8 +5,8 @@
     <description>We focus on solid-state theory, simulation, and machine learning for quantum materials.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Mar 2025 12:29:33 +0900</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2025 12:29:33 +0900</lastBuildDate>
+    <pubDate>Fri, 28 Mar 2025 12:36:08 +0900</pubDate>
+    <lastBuildDate>Fri, 28 Mar 2025 12:36:08 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -165,7 +165,7 @@
         <description>&lt;p&gt;&lt;strong&gt;Keywords: Graph neutral network, Diffusion model, High-throughput calculation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;AI and Machine Learning (ML) are revolutionizing materials science, enabling faster discovery, design, and optimization of materials with desired properties, by leveraging data-driven approaches to predict properties and identify optimal compositions and structures&lt;/p&gt;
+  &lt;p&gt;AI and Machine Learning (ML) are revolutionizing materials science, enabling faster discovery, design, and optimization of materials with desired properties, by leveraging data-driven approaches to predict properties and identify optimal compositions and structures.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;ai-driven-materials-design&quot;&gt;AI-driven materials design&lt;/h3&gt;
@@ -181,8 +181,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/designing-quantum-materials-for-energy-tree/</link>
-        <guid isPermaLink="true">http://localhost:4000/designing-quantum-materials-for-energy-tree/</guid>
+        <link>http://localhost:4000/AI-ML-for-materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/AI-ML-for-materials/</guid>
         
         
         <category>research</category>
@@ -214,8 +214,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2D-materials-with-optical-properties/</link>
-        <guid isPermaLink="true">http://localhost:4000/2D-materials-with-optical-properties/</guid>
+        <link>http://localhost:4000/photonics-in-materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/photonics-in-materials/</guid>
         
         
         <category>research</category>

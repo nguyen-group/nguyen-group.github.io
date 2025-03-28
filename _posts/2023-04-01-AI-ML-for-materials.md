@@ -13,7 +13,7 @@ comments: false
 
 **Keywords: Graph neutral network, Diffusion model, High-throughput calculation**
 
-> AI and Machine Learning (ML) are revolutionizing materials science, enabling faster discovery, design, and optimization of materials with desired properties, by leveraging data-driven approaches to predict properties and identify optimal compositions and structures
+> AI and Machine Learning (ML) are revolutionizing materials science, enabling faster discovery, design, and optimization of materials with desired properties, by leveraging data-driven approaches to predict properties and identify optimal compositions and structures.
 
 ### AI-driven materials design
 
