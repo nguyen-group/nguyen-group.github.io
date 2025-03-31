@@ -56,8 +56,7 @@ permalink: "/lectures"
 
 #### First Principles Workshop: An introduction and hands‑on tutorials with Quantum ESPRESSO
 26/2/2016, Tohoku University, Sendai, Japan. 
->For details, please visit the workshop website: [This is an external link to genome.gov](https://www.genome.gov/)
-<a href="https:sites.google.com/site/fpw2016md/">https:sites.google.com/site/fpw2016md/</a>
+>For details, please visit the workshop website: [https:sites.google.com/site/fpw2016md/](https://sites.google.com/site/fpw2016md/)
 
 <table width="800">
     <tr>
