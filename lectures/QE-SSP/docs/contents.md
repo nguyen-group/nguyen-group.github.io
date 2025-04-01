@@ -1,4 +1,4 @@
-# Course Contents
+# Contents
 
 1. **Introduction**    
     * Overview 

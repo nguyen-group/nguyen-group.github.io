@@ -12,14 +12,19 @@ theme:
       toggle:
         icon: fontawesome/solid/moon
         name: Switch to dark mode
+  features:
+    - navigation.sections # Shows sections in navigation
+    - navigation.indexes  # Shows section indexes in ToC
+    - toc.integrate       # Integrates with content
+    - toc.follow         # Highlights current section
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
 
 nav:
-  - Overview: overview.md
+  - Overview: index.md
   - Course Details:
-    - Course Contents: contents.md
+    - Contents: contents.md
     - Resources: resources.md
   - Lectures:
     - Introduction: lecture1.ipynb
