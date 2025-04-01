@@ -49,6 +49,18 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
+### Preprints
+66. C. L. Fu†, M. Cheng†, **N. T. Hung**†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, AI‑driven
+defect engineering for advanced thermoelectric materials, ***arXiv:2503.19148*** submitted.
+65. M. Cheng†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, AI‑driven approaches for
+materials design and discovery, ***arXiv:2502.02905*** submitted.
+64. R. Okabe⋆, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R.
+J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, Structural constraint integration in generative model for discovery of
+quantum material candidates, ***arXiv:2407.04557*** submitted.
+63. N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu\* and **N. T. Hung**\*, Rational design 2D heterobilayers
+transition‑metal dichalcogenide and their Janus for efficient water splitting, ***arXiv:2411.03396*** submitted.
+{: reversed="reversed"}
+{:start="66"}
 ### 2025
 62. W. Mu, N. Muhammad, B. Dong, **N. T. Hung**\*, H. Guo\*, R. Saito, W. Gong, T. Yang\* and Z. Zhang, [Enhanced thermoelectric properties of the topological phase of monolayer HfC](https://doi.org/10.1088/1674-1056/adbd17), ***Chin. Phys. B*** accepted (2025)
 61. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, H. Takehara, A. Taguchi, T. Taniguchi, S. Maruyama, Y. M. Chang, R. Saito\* and H. L. Liu\*, [Quenching of defect-induced photoluminescence in a boron-nitride and carbon hetero-nanotube](https://doi.org/10.1021/acs.jpclett.4c03681), ***J. Phys. Chem. Lett.*** 16, 1711-1719  (2025)
