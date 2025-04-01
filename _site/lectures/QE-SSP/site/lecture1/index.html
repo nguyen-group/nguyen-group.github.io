@@ -467,9 +467,27 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#what-is-dft" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is DFT?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#functional" class="md-nav__link">
     <span class="md-ellipsis">
       Functional
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#functionals-in-dft" class="md-nav__link">
+    <span class="md-ellipsis">
+      Functionals in DFT
     </span>
   </a>
   
@@ -481,29 +499,35 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#hohenberg-kohn-theorem-1" class="md-nav__link">
+  <a href="#hohenberg-kohn-theorem" class="md-nav__link">
     <span class="md-ellipsis">
-      Hohenberg-Kohn Theorem 1
+      Hohenberg-Kohn Theorem
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#hohenberg-kohn-theorem-2" class="md-nav__link">
+  <a href="#kohn-sham-equation" class="md-nav__link">
     <span class="md-ellipsis">
-      Hohenberg-Kohn Theorem 2
+      Kohn-Sham equation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Kohn-Sham equation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#self-consistent-solution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Self-Consistent Solution
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#kohn-sham-hypothesis" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kohn-Sham hypothesis
-    </span>
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -541,47 +565,53 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#algorithmic-implementation" class="md-nav__link">
+  <a href="#quantum-espresso" class="md-nav__link">
     <span class="md-ellipsis">
-      Algorithmic implementation
+      Quantum ESPRESSO
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Quantum ESPRESSO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#installing-qe-on-ubuntu" class="md-nav__link">
+    <span class="md-ellipsis">
+      Installing QE on Ubuntu
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#plane-wave-expansion" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#installing-qe-on-windows" class="md-nav__link">
     <span class="md-ellipsis">
-      Plane-wave expansion
+      Installing QE on Windows
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#variational-principle" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#installing-qe-on-macos" class="md-nav__link">
     <span class="md-ellipsis">
-      Variational Principle
+      Installing QE on MacOS
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#bloch-theorem" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#obtaining-example-files-for-this-course" class="md-nav__link">
     <span class="md-ellipsis">
-      Bloch theorem
+      Obtaining example files for this course
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#resources" class="md-nav__link">
-    <span class="md-ellipsis">
-      Resources
-    </span>
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -591,30 +621,6 @@
       🚨 Exercise 1
     </span>
   </a>
-  
-    <nav class="md-nav" aria-label="🚨 Exercise 1">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#your-details" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your details
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#problem" class="md-nav__link">
-    <span class="md-ellipsis">
-      Problem
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -1125,18 +1131,17 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="getting-started">👋 Getting started<a class="anchor-link" href="#getting-started">¶</a></h2><p>Welcome to our first lecture!</p>
-<h3 id="functional">Functional<a class="anchor-link" href="#functional">¶</a></h3><p>A functional is a function whose argument is itself a function. $f(x)$ is a
-function of the variable $x$ while $F[f]$ is a functional of the function $f$.
+<h3 id="what-is-dft">What is DFT?<a class="anchor-link" href="#what-is-dft">¶</a></h3><p>Density Functional Theory (DFT) is a computational quantum mechanical method used to calculate the ground state of the electronic structure of many-body systems, particularly atoms, molecules, and solids. Unlike traditional quantum mechanics methods, which solve the Schrödinger equation for the many-electron wavefunction, DFT simplifies the problem by focusing on the electron density (in 3 dimensions) rather than the wavefunction (in $3N$ dimensions for $N$ electrons).</p>
+<h3 id="functional">Functional<a class="anchor-link" href="#functional">¶</a></h3><p>A functional is a function whose argument is itself a function. $f(x)$ is a function of the variable $x$ while $F[f]$ is a functional of the function $f$.
 $$
 y = f(x)
 $$
-$f$ is a function, it takes a number $x$ as input and output $y$ is also a
-number.
+$f$ is a function, it takes a number $x$ as input and output $y$ is also a number.
 $$
 y = F[f(x)]
 $$
-$F$ is a functional it takes function $f(x)$ as input and output $y$ is a
-number.</p>
+$F$ is a functional it takes function $f(x)$ as input and output $y$ is a number.</p>
+<h3 id="functionals-in-dft">Functionals in DFT<a class="anchor-link" href="#functionals-in-dft">¶</a></h3><p>The term "functional" in DFT comes from the fact that the total energy is calculated from the electron density function (which is a function of space) through the use of various functionals that describe different aspects of the system's energy.</p>
 </div>
 </div>
 </div>
@@ -1147,10 +1152,21 @@ number.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="hohenberg-kohn-theorem">Hohenberg-Kohn Theorem<a class="anchor-link" href="#hohenberg-kohn-theorem">¶</a></h2><div style="background-color: #d4edda; border-left: 6px solid #ccc; margin: 20px; padding: 15px; border-radius: 5px;">
+<strong>📓 Reference:</strong> P. Hohenberg and W. Kohn, <a href="https://doi.org/10.1103/PhysRev.136.B864">Inhomogeneous electron gas</a>, Phys. Rev. 136, B864 (1964).
+</div>
 <div style="border: 1px solid #2196F3; background-color: #E3F2FD; padding: 10px; border-radius: 5px;">
-<b>Info:</b> This is an informational note with an equation:  
-    <p> \( y = x^2 \) </p>
+<strong>Theorem:</strong> There is a one‐to‐one correspondence between an external potential $\mathcal{V}_{en}(\textbf{r})$ and an electron density $n(\textbf{r})$.
 </div>
+<p>Since the Hamiltonians is determined by the external potential, the Hohenberg-Kohn theorem tell us the two different Hamiltonian cannot have the same ground-state electron density. The theorem leads to two important consequences:</p>
+<div style="border: 1px solid #2196F3; background-color: #E3F2FD; padding: 10px; border-radius: 5px;">
+<strong>Corollary 1:</strong> The electron density $n(\textbf{r})$ uniquely specifies the external potential $\mathcal{V}_{en}(\textbf{r})$ and hence the Hamiltonian $\mathcal{H}$.
+</div>
+<p>Schrödinger equation says how we can get the wavefunction from a given potential. Once solved the wavefunction (which could be difficul due to the high‐dimensional partial differential equation), we can determine the density or any other properties. Now Corollary 1 says the opposite is also true. For a given density, the potential can be uniquely determined. Thus, it is possible to define the ground-state energy as a function of electronic density.</p>
+<div style="border: 1px solid #2196F3; background-color: #E3F2FD; padding: 10px; border-radius: 5px;">
+<strong>Corollary 2:</strong> The ground-state total energy can be obtained by minimizing an energy functional $E[n(\textbf{r})]$ with respect to the electron density $n(\textbf{r})$.
+</div>
+<p>The ground state energy can therefore be found by minimizing $E[n(\textbf{r})]$ instead of solving for the many-electron wavefunction. However, the Hohenberg-Kohn theorems do not tell us how the energy depends on the electron density. It is noted that the DFT can have an exact solution if and only if $E[n(\textbf{r})]$ is known exactly. In reality, apart from some special cases, the exact $E[n(\textbf{r})]$ is unknown and only approximate functionals are used.</p>
 </div>
 </div>
 </div>
@@ -1161,181 +1177,33 @@ number.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="hohenberg-kohn-theorem-1">Hohenberg-Kohn Theorem 1<a class="anchor-link" href="#hohenberg-kohn-theorem-1">¶</a></h2><blockquote>
-<p>The ground state density $n(\textbf{r})$ determines the external potential energy $v(\textbf{r})$ to within a trivial additive constant.</p>
-</blockquote>
-<p>So what Hohenberg-Kohn theorem says, may not sound very trivial. Schrödinger
-equation says how we can get the wavefunction from a given potential. Once
-solved the wavefunction (which could be difficult), we can determine the density
-or any other properties. Now Hohenberg and Kohn theorem says the opposite is
-also true. For a given density, the potential can be uniquely determined. For
-non-degenerate ground states, two different Hamiltonian cannot have the same
-ground-state electron density. It is possible to define the ground-state energy
-as a function of electronic density.</p>
-<h2 id="hohenberg-kohn-theorem-2">Hohenberg-Kohn Theorem 2<a class="anchor-link" href="#hohenberg-kohn-theorem-2">¶</a></h2><blockquote>
-<p>Total energy of the system $E(n)$ is minimal when $n(\textbf{r})$ is the</p>
-</blockquote>
-<p>actual ground-state density, among all possible electron densities.</p>
-<p>The ground state energy can therefore be found by minimizing $E(n)$ instead of
-solving for the many-electron wavefunction. However, note that HK theorems do
-not tell us how the energy depends on the electron density. In reality, apart
-from some special cases, the exact $E(n)$ is unknown and only approximate
-functionals are used.</p>
-<p>The essence of the HK theorem is that the non-degenerate ground-state wave
-function is a unique functional of the ground-state density:</p>
+<h2 id="kohn-sham-equation">Kohn-Sham equation<a class="anchor-link" href="#kohn-sham-equation">¶</a></h2><div style="background-color: #d4edda; border-left: 6px solid #ccc; margin: 20px; padding: 15px; border-radius: 5px;">
+<strong>📓 Reference:</strong> P. Hohenberg and W. Kohn, <a href="https://doi.org/10.1103/PhysRev.140.A1133">Self-consistent equations including exchange and correlation effects</a>, Phys. Rev. 140, A1133  (1965).
+</div>
+<p>For any system of $N$ interacting electrons in a given external potential $\mathcal{V}_{en} (\textbf{r})$ (i.e., Coulomb attraction between electrons and nuclei), there is a "virtual system" of $N$ non-interacting electrons with exactly the same density as the interacting one. The non-interacting electrons subjected to a effective external potential $\mathcal{V}_{eff} (\textbf{r})$ as:
 $$
-\Psi_0(\textbf{r}_1, \textbf{r}_2, \dots, \textbf{r}_N) = \Psi[n_0(\textbf{r})]
-$$<h2 id="kohn-sham-hypothesis">Kohn-Sham hypothesis<a class="anchor-link" href="#kohn-sham-hypothesis">¶</a></h2><blockquote>
-<p>For any system of $N$ interacting electrons in a given external potential</p>
-</blockquote>
-<p>$v_{ext} (\textbf{r})$, there is a virtual system of $N$ non-interacting
-electrons with exactly the same density as the interacting one. The
-non-interacting electrons subjected to a different external (single particle)
-potential.</p>
+\left[-\frac{\hbar^2 \nabla^2}{2m} + \mathcal{V}_{eff}(\textbf{r}) \right] \psi_i(\textbf{r})
+= \epsilon_i \psi_i(\textbf{r}),
 $$
-\left[-\frac{\hbar^2 \nabla^2}{2m} + v_s(\textbf{r}) \right] \psi_i(\textbf{r})
-= \epsilon_i \psi_i(\textbf{r})
-$$$$
-v_s(\textbf{r}) = v_{ext}(\textbf{r}) + e^2 \int d^3r'
-\frac{n(\textbf{r})}{|\textbf{r} - \textbf{r}'|} + v_{xc}(\textbf{r}; [n])
-$$$$
-n(\textbf{r}) = \sum_i f_i |\psi_i (\textbf{r})|^2
-$$<p>where $f_i$ is the occupation factor of electrons ($0 \le f_i \le 2$). The
-KS equation looks like single particle Schrödinger equation, however $e^2 \int
-d^3r' \frac{n(\textbf{r})}{|\textbf{r} - \textbf{r}'|}$ (the Hartree energy due
-to electrostatic interaction of electronic cloud) and $v_{xc} (\textbf{r}; [n])$
-(<em>exchange-correlation</em> potential, reminiscence from Hartree-Fock theory, it
-includes all the remaining/unknown energy corrections) terms depend on
-$n(\textbf{r})$ i.e., on $\psi_i$ which in turn depends on $v_{ext}$. Therefore
-the problem is non-linear. It is usually solved computationally by starting from
-a trial potential and iterate to self-consistency. Also note that we have not
-included the kinetic energy term for the nucleus. This is because the nuclear
-mass is about three orders of magnitude heavier than the electronic mass
-($M \gg m$), so essentially electronic dynamics is much faster than the nuclear
-dynamics (see Born-Oppenheimer approximation). Now we are left with the task of
-solving a non-interacting Hamiltonian.</p>
-<p>:::info</p>
-<p>$v_{ext}(\textbf{r})$ includes the potential energy due to nuclear field, and
-external electric and magnetic fields if present.</p>
-<p>:::</p>
-<h2 id="exchange-correlation-functional">Exchange-correlation functional<a class="anchor-link" href="#exchange-correlation-functional">¶</a></h2><h3 id="local-density-approximation-lda">Local Density Approximation (LDA)<a class="anchor-link" href="#local-density-approximation-lda">¶</a></h3><p>Energy functional is a function of the local charge density:</p>
+where the effective external potential is given by:
 $$
-E_{xc} = \int n(\textbf{r}) \epsilon_{xc}(n(\textbf{r})) d\textbf{r}
-$$$$
-v_{xc}(\textbf{r}) = \epsilon_{xc}(n(\textbf{r})) + n(\textbf{r})\frac{d\epsilon_{xc}(n)}{dn}\bigg\rvert_{n=n(\textbf{r})}
-$$<p>where $\epsilon_{xc}(n)$ is obtained for the homogeneous electron gas of density
-$n$ (using Quantum Monte Carlo techniques) and fitted to some analytic form.</p>
-<h3 id="generalized-gradient-approximation-gga">Generalized Gradient Approximation (GGA)<a class="anchor-link" href="#generalized-gradient-approximation-gga">¶</a></h3><p>These are a family of functionals that depends on the local density and the
-local gradient of the density:</p>
+\mathcal{V}_{eff}(\textbf{r}) = \mathcal{V}_{en}(\textbf{r}) + \mathcal{V}_{H}(\textbf{r}) + \mathcal{V}_{xc}(\textbf{r}),
 $$
-E_{xc} = \int n(\textbf{r}) \epsilon_{GGA}(n(\textbf{r}), |\nabla n(\textbf{r})|) d\textbf{r}
-$$<p>There are many flavor of this functional. There are also more advanced
-functionals: Meta-GGA (e.g., SCAN), hybrids (e.g., B3LYP), nonlocal functionals
-for van der Waals forces, Grimme's DFT+D (a semi-empirical correction to GGA).
-They usually produces more accurate result, but computationally more expensive
-and sometimes numerically unstable.</p>
-<h2 id="algorithmic-implementation">Algorithmic implementation<a class="anchor-link" href="#algorithmic-implementation">¶</a></h2><p>We can write our Schrödinger in Dirac Bra-Ket notation:</p>
+where the Hartree potential, which describes electrostatic interaction of electronic cloud, is defined by:
 $$
-\hat{H} \ket{\psi} = E\ket{\psi}
-$$<p>we are going to solve non-interacting single particle Hamiltonian in terms of
-known basis functions (plane waves) with unknown coefficients. We start with an
-initial guess for the electron density $n(\textbf{r})$, and construct a pseudo
-potential for the nuclear potential. In turn, we have the Hamiltonian. Solve for
-$\psi_i(\textbf{r})$, subsequently $n(\textbf{r})$, and iterate until self
-consistency is achieved.</p>
-<p><img alt="self-consistent-solution" src="../../static/img/self-consistent-solution.webp"/>
-<span classname="fig-caption">Self consistency loop in DFT calculation. The above screenshot was taken from lecture slide of Professor Ralph Gevauer from <a href="http://indico.ictp.it/event/9616/other-view?view=ictptimetable"> ICTP MAX School 2021</a>.</span></p>
-<p>The potential due to the ions is replaced by the pseudo potentials which removes
-the oscillations near the atomic core (reducing number of required plane wave
-basis vectors) and simulates the exact behavior elsewhere. The pseudo potential
-is also different for different exchange correlation functional, and it is
-specified in the pseudo potential file. If a system had more than one type of
-atom, always choose the pseudo potentials with same exchange correlation (e.g.,
-PBE).</p>
-<p>It is important to note that DFT is calculations are not exact solution to the
-real systems because exact functional ($v_{xc}$) we need to solve the Kohn-Sham
-equation is not known. Therefore, we have to compare the results with
-experimental observations. The Kohn-Sham wavefunction of orbitals is not an
-approximation to the exact wavefunction. Rather it is precisely defined property
-of any electronic system, which is uniquely determined by the density. The
-in-exactness of DFT results come from the fact that we do not know the exact
-correlation functional that truly describes real systems.</p>
-<h2 id="plane-wave-expansion">Plane-wave expansion<a class="anchor-link" href="#plane-wave-expansion">¶</a></h2><p>The wavefunctions are expanded in terms of a basis set. In quantum espresso, the
-the basis function is plane waves. There exists other DFT codes that use
-localized basis function as well. Plane waves are simpler but generally requires
-much large number of them compared to other localized basis sets.</p>
+\mathcal{V}_{H}(\textbf{r}) = \int \frac{n(\textbf{r})}{|\textbf{r} - \textbf{r}'|} \mathrm{d}\textbf{r}',
 $$
-\psi_i(\textbf{r}) = \sum_{\alpha = 1} ^{N_b} c_{i\alpha} f_{\alpha}(\textbf{r})
-$$<p>Where $N_b$ is the size basis set. Then the eigenvalue equation becomes:</p>
+and the electron density is given by: 
 $$
-\sum_{\beta} \rm{H}_{\alpha\beta} c_{i\beta} = \epsilon_i c_{i\alpha}
-$$$$
-\Rightarrow
-\begin{pmatrix}
-H_{11} &amp;  ... &amp; H_{1b} \\
-... &amp; ... &amp; ... \\
-H_{b1} &amp; ... &amp; H_{bb}
-\end{pmatrix}
-\begin{pmatrix}
-c_1 \\
-... \\
-c_b
-\end{pmatrix}
-= \epsilon_i
-\begin{pmatrix}
-c_1 \\
-... \\
-c_b
-\end{pmatrix}
-$$<p>This is a linear algebra problem, solving the above involves diagonalization of
-($N_b \times N_b$) matrix which gives us corresponding eigenvalue and
-eigenfunction.</p>
-<p>Apart from plane waves, various localized basis set could be used, e.g., Linear
-Combination of Atomic Orbitals (LCAO), Gaussian-type Orbitals (GTO), Linearized
-Muffin-Tin Orbitals (LMTO). Once could also consider mixed basis sets, such as
-the Linearized Augmented Plane Waves (LAPW). Localized sets are smaller in size,
-they can be used for both finite and periodic systems, however they are
-difficult to use/calculate.</p>
-<p>In case of plane waves, we need larger basis set, and requires periodicity. Need
-to construct supercell for finite systems. Use of <a href="/setup/pseudo-potential">pseudopotential</a> reduces the number of required plane waves.</p>
-<h2 id="variational-principle">Variational Principle<a class="anchor-link" href="#variational-principle">¶</a></h2><p>Finding the ground state:</p>
+n(\textbf{r}) = \sum_i f_i |\psi_i (\textbf{r})|^2,
 $$
-E[\Phi] = \frac{\braket{\Phi | \hat H | \Phi}}{\braket{\Phi|\Phi}}
-$$$$
-E[\Phi] \ge E_0
-$$<h2 id="bloch-theorem">Bloch theorem<a class="anchor-link" href="#bloch-theorem">¶</a></h2>$$
-\psi_k(r) = e^{i \textbf{k} \cdot \textbf{r}} u_k(\textbf{r})
-$$$$
-u_k(\textbf{r}) = u_k(\textbf{r} + \textbf{R})
-$$$$\textbf{R}$$<p>is lattice vector.</p>
-<p>Fourier expansion:</p>
-$$
-u_k(\textbf{r}) = \frac{1}{\Omega} \sum_G c_{\textbf{k,G}} e^{i \textbf{G} \cdot
-\textbf{r}}
-$$$$\textbf{G}$$<p>is reciprocal lattice vector.</p>
-$$
-\psi_k(\textbf{r}) = \frac{1}{\Omega} \sum_G c_{\textbf{k,G}}
-e^{i (\textbf{k + G}) \cdot \textbf{r}}
-$$<p>Contribution from higher Fourier components are small, we can limit the sum at
-finite $|\textbf{k + G}|$</p>
-$$
-\frac{\hbar^2 |\textbf{k + G}|}{2m} \le E_{\text{cutoff}}
-$$<p>The charge density can be obtained from:</p>
-$$
-n(\textbf{r}) = \sum_k \psi_k^*(\textbf{r}) \psi_k(\textbf{r})
-$$<p>We need two sets of basis vectors: one to store the wavefunctions, and another
-for the charge density.</p>
-<p>:::info</p>
-<p>We need about 4 times the cutoff for the charge density compared to the cutoff
-for the wavefunction. In case of ultrasoft pseudo potentials, we require a lower
-cutoff for energy, therefore <code>ecutrho</code> might require 8 or 12 times higher than
-the <code>ecutwfc</code>.</p>
-<p>:::</p>
-<h2 id="resources">Resources<a class="anchor-link" href="#resources">¶</a></h2><ul>
-<li><a href="https://ocw.mit.edu/courses/materials-science-and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/video-lectures/">MIT Course</a></li>
-<li><a href="https://www.quantum-espresso.org/resources/tutorials">Quantum Espresso Tutorials</a></li>
-<li><a href="https://www.youtube.com/watch?v=1AH2pkijDPg&amp;list=PLYc-eBoIpXTIboem6dKTYD1-1m0sMYnYz&amp;index=1">Introduction to DFT by Paolo Giannozzi</a></li>
-<li><a href="http://compmatphys.epotentia.com/">http://compmatphys.epotentia.com</a></li>
+where $f_i$ is the occupation factor of electrons ($0 \le f_i \le 1$). The Kohn-Sham equation looks like single particle Schrödinger equation, however $\mathcal{V}_{H}(\textbf{r})$ and $\mathcal{V}_{xc}(\textbf{r})$ (<em>exchange-correlation</em> potential, it includes all the remaining/unknown energy corrections) terms depend on $n(\textbf{r})$ i.e., on $\psi_i$ which in turn depends on $\mathcal{V}_{en}(\textbf{r})$. Therefore the problem is non-linear. It is usually solved computationally by starting from a trial potential and iterate to self-consistency</p>
+<h3 id="self-consistent-solution">Self-Consistent Solution<a class="anchor-link" href="#self-consistent-solution">¶</a></h3><p>The Kohn-Sham equations are solved iteratively:</p>
+<ul>
+<li>Guess $n(\textbf{r})$.</li>
+<li>Calculate $\mathcal{V}_{eff}(\textbf{r})$.</li>
+<li>Solve for $\psi_i$ and update $n(\textbf{r}) = \sum_i f_i |\psi_i (\textbf{r})|^2$.</li>
+<li>Repeat until convergence.</li>
 </ul>
 </div>
 </div>
@@ -1347,59 +1215,26 @@ the <code>ecutwfc</code>.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="exercise-1">🚨 Exercise 1<a class="anchor-link" href="#exercise-1">¶</a></h2><div style="background-color: #dceefb; border-left: 6px solid #ccc; margin: 20px; padding: 15px; border-radius: 5px;">
-<strong>💡 Coding exercises:</strong> The exercises are designed to apply what you have learned with room for creativity. It is fine to discuss solutions with your classmates, but the actual code should not be directly copied.
+<h2 id="exchange-correlation-functional">Exchange-correlation functional<a class="anchor-link" href="#exchange-correlation-functional">¶</a></h2><h3 id="local-density-approximation-lda">Local Density Approximation (LDA)<a class="anchor-link" href="#local-density-approximation-lda">¶</a></h3><div style="background-color: #d4edda; border-left: 6px solid #ccc; margin: 20px; padding: 15px; border-radius: 5px;">
+<strong>📓 Reference:</strong> J. P. Perdew and A. Zunger, <a href="https://doi.org/10.1103/PhysRevB.23.5048">Self-interaction correction to density-functional approximations for many-electron systems</a>, Phys. Rev. B 23, 5048 (1981).
 </div>
-<h3 id="your-details">Your details<a class="anchor-link" href="#your-details">¶</a></h3>
+<p>Energy functional is a function of the local charge density:
+$$
+E_{xc} = \int n(\textbf{r}) \epsilon_{xc}(n(\textbf{r})) d\textbf{r}
+$$
+and 
+$$
+\mathcal{V}_{xc}(\textbf{r}) = \epsilon_{xc}(n(\textbf{r})) + n(\textbf{r})\frac{d\epsilon_{xc}(n)}{dn}\bigg\rvert_{n=n(\textbf{r})},
+$$
+where $\epsilon_{xc}(n)$ is obtained for the homogeneous electron gas of density $n$ (using Quantum Monte Carlo techniques) and fitted to some analytic form.</p>
+<h3 id="generalized-gradient-approximation-gga">Generalized Gradient Approximation (GGA)<a class="anchor-link" href="#generalized-gradient-approximation-gga">¶</a></h3><div style="background-color: #d4edda; border-left: 6px solid #ccc; margin: 20px; padding: 15px; border-radius: 5px;">
+<strong>📓 Reference:</strong> J. P. Perdew, K. Burke, and M. Ernzerhof, <a href="https://doi.org/10.1103/PhysRevLett.77.3865">Generalized gradient approximation made simple</a>, Phys. Rev. Lett. 77, 3865 (1997).
 </div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
-<div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div><div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="CodeMirror cm-s-jupyter">
-<div class="zeroclipboard-container">
-<clipboard-copy ,="" aria-label="Copy to Clipboard" for="cell-1">
-<div>
-<span class="notice" hidden="">Copied!</span>
-<svg aria-hidden="true" class="clipboard-copy-icon" data-view-component="true" height="20" version="1.1" viewbox="0 0 16 16" width="20">
-<path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z" fill="currentColor" fill-rule="evenodd"></path>
-<path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z" fill="currentColor" fill-rule="evenodd"></path>
-</svg>
-</div>
-</clipboard-copy>
-</div>
-<div class="highlight-ipynb hl-python"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
-
-<span class="c1"># Insert your values</span>
-<span class="n">Name</span> <span class="o">=</span> <span class="s2">"No Name"</span> <span class="c1"># Replace with your name</span>
-<span class="n">CID</span> <span class="o">=</span> <span class="mi">123446</span> <span class="c1"># Replace with your College ID (as a numeric value with no leading 0s)</span>
-
-<span class="c1"># Set a random seed using the CID value</span>
-<span class="n">CID</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">CID</span><span class="p">)</span>
-<span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">seed</span><span class="p">(</span><span class="n">CID</span><span class="p">)</span>
-
-<span class="c1"># Print the message</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">"This is the work of "</span> <span class="o">+</span> <span class="n">Name</span> <span class="o">+</span> <span class="s2">" [CID: "</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">CID</span><span class="p">)</span> <span class="o">+</span> <span class="s2">"]"</span><span class="p">)</span>
-</pre></div>
-<div class="clipboard-copy-txt" id="cell-1">import numpy as np
-
-# Insert your values
-Name = "No Name" # Replace with your name
-CID = 123446 # Replace with your College ID (as a numeric value with no leading 0s)
-
-# Set a random seed using the CID value
-CID = int(CID)
-np.random.seed(CID)
-
-# Print the message
-print("This is the work of " + Name + " [CID: " + str(CID) + "]")</div>
-</div>
-</div>
+<p>These are a family of functionals that depends on the local density and the local gradient of the density:
+$$
+E_{xc} = \int n(\textbf{r}) \epsilon_{GGA}(n(\textbf{r}), |\nabla n(\textbf{r})|) d\textbf{r}
+$$</p>
+<p>There are many flavor of this functional. There are also more advanced functionals: Meta-GGA (e.g., SCAN), hybrids (e.g., B3LYP), nonlocal functionals for van der Waals forces, Grimme's DFT+D (a semi-empirical correction to GGA). They usually produces more accurate result, but computationally more expensive and sometimes numerically unstable.</p>
 </div>
 </div>
 </div>
@@ -1410,80 +1245,52 @@ print("This is the work of " + Name + " [CID: " + str(CID) + "]")</div>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h3 id="problem">Problem<a class="anchor-link" href="#problem">¶</a></h3><p>Due to their importance in the electronics industry, the diffusion of atoms in semiconductors has been well studied for decades. Below is a set of data for impurity diffusion in crystalline Si [Source: <a href="https://link.springer.com/chapter/10.1007/978-1-4684-0904-8_2">Casey and Pearson (1975)</a>]. It has been arranged into a DataFrame for your convenience.</p>
-<div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
-
-<span class="n">data</span> <span class="o">=</span> <span class="p">{</span>
-    <span class="s1">'Impurity'</span><span class="p">:</span> <span class="p">[</span><span class="s1">'B'</span><span class="p">,</span> <span class="s1">'Al'</span><span class="p">,</span> <span class="s1">'Ga'</span><span class="p">,</span> <span class="s1">'In'</span><span class="p">,</span> <span class="s1">'P'</span><span class="p">,</span> <span class="s1">'As'</span><span class="p">,</span> <span class="s1">'Sb'</span><span class="p">,</span> <span class="s1">'Bi'</span><span class="p">],</span>
-    <span class="s1">'Mass'</span><span class="p">:</span> <span class="p">[</span><span class="mf">10.81</span><span class="p">,</span> <span class="mf">26.98</span><span class="p">,</span> <span class="mf">69.72</span><span class="p">,</span> <span class="mf">114.82</span><span class="p">,</span> <span class="mf">30.97</span><span class="p">,</span> <span class="mf">74.92</span><span class="p">,</span> <span class="mf">121.76</span><span class="p">,</span> <span class="mf">208.98</span><span class="p">],</span> <span class="c1"># atomic mass in g/mol</span>
-    <span class="s1">'D0'</span><span class="p">:</span> <span class="p">[</span><span class="mf">5.1</span><span class="p">,</span> <span class="mf">8.0</span><span class="p">,</span> <span class="mf">3.6</span><span class="p">,</span> <span class="mf">16.5</span><span class="p">,</span> <span class="mf">10.5</span><span class="p">,</span> <span class="mf">60.0</span><span class="p">,</span> <span class="mf">12.9</span><span class="p">,</span> <span class="mf">1.03E3</span><span class="p">],</span>  <span class="c1"># cm2/sec</span>
-    <span class="s1">'Eact'</span><span class="p">:</span> <span class="p">[</span><span class="mf">3.70</span><span class="p">,</span> <span class="mf">3.47</span><span class="p">,</span> <span class="mf">3.51</span><span class="p">,</span> <span class="mf">3.91</span><span class="p">,</span> <span class="mf">3.69</span><span class="p">,</span> <span class="mf">4.20</span><span class="p">,</span> <span class="mf">3.98</span><span class="p">,</span> <span class="mf">4.63</span><span class="p">]</span>  <span class="c1"># eV</span>
-<span class="p">}</span>
-
-<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">df</span><span class="p">)</span>
+<h2 id="quantum-espresso">Quantum ESPRESSO<a class="anchor-link" href="#quantum-espresso">¶</a></h2><p>Quantum ESPRESSO (QE) is one of the most used packages for first‐principles calculations with the DFT, and it has been developing continuously; thanks to its open‐source and excellent community support. The abbreviation <strong>ESPRESSO</strong> stands for <strong>“ESPRESSO = opEn Source Package for Research in Electronic Structure, Simulation, and Optimization.”</strong> It is completely <strong>FREE</strong> and easily installed on many platforms.</p>
+<p>We can install QE on our personal laptops or desktops to run relatively less computationally intensive calculations. <strong>In particular, the almost of hands-on tutorials in this course can be run on a personal laptop</strong>. However, if we intend to perform computationally heavy tasks, we will need access to better computing resources with a larger number of CPU (or GPU) cores, memory, bandwidth, and disk IO.</p>
+<h3 id="installing-qe-on-ubuntu">Installing QE on Ubuntu<a class="anchor-link" href="#installing-qe-on-ubuntu">¶</a></h3><p>Easiest way to install Quantum Espresso is from the package manager of respective Ubuntu distribution. This should work fine for us and this is recommended option for this course. Following commands are for Ubuntu/Debian:</p>
+<ul>
+<li>Update list of repositories and upgrade the system</li>
+</ul>
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>update<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>upgrade
 </pre></div>
-<p>Two tasks will be given in class.</p>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
-<div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div><div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="CodeMirror cm-s-jupyter">
-<div class="zeroclipboard-container">
-<clipboard-copy ,="" aria-label="Copy to Clipboard" for="cell-2">
-<div>
-<span class="notice" hidden="">Copied!</span>
-<svg aria-hidden="true" class="clipboard-copy-icon" data-view-component="true" height="20" version="1.1" viewbox="0 0 16 16" width="20">
-<path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z" fill="currentColor" fill-rule="evenodd"></path>
-<path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z" fill="currentColor" fill-rule="evenodd"></path>
-</svg>
-</div>
-</clipboard-copy>
-</div>
-<div class="highlight-ipynb hl-python"><pre><span></span><span class="c1">#Empty block for your answers</span>
+<ul>
+<li>Important development tools and libraries: Git, wget, gcc/g++/gfortran, LAPACK, FFTW, openmpi (mpirun)</li>
+</ul>
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>git<span class="w"> </span>wget<span class="w"> </span>build-essential
+sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>g++<span class="w"> </span>gfortran
+sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>liblapack-dev<span class="w"> </span>libfftw3-dev<span class="w"> </span>libopenmpi-dev
 </pre></div>
-<div class="clipboard-copy-txt" id="cell-2">#Empty block for your answers
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
-<div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div><div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="CodeMirror cm-s-jupyter">
-<div class="zeroclipboard-container">
-<clipboard-copy ,="" aria-label="Copy to Clipboard" for="cell-3">
-<div>
-<span class="notice" hidden="">Copied!</span>
-<svg aria-hidden="true" class="clipboard-copy-icon" data-view-component="true" height="20" version="1.1" viewbox="0 0 16 16" width="20">
-<path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z" fill="currentColor" fill-rule="evenodd"></path>
-<path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z" fill="currentColor" fill-rule="evenodd"></path>
-</svg>
-</div>
-</clipboard-copy>
-</div>
-<div class="highlight-ipynb hl-python"><pre><span></span><span class="c1">#Empty block for your answers</span>
+<ul>
+<li>Quantum ESPRESSO and Wannier90 from apt repository</li>
+</ul>
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>quantum-espresso<span class="w"> </span>wannier90
 </pre></div>
-<div class="clipboard-copy-txt" id="cell-3">#Empty block for your answers
-
-
-</div>
-</div>
-</div>
+<ul>
+<li>Additional tools</li>
+</ul>
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>xcrysden<span class="w"> </span>gnuplot
+sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>python3-dev<span class="w"> </span>jupyter-server
+sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>python3-numpy<span class="w"> </span>python3-scipy<span class="w"> </span>python3-sympy<span class="w"> </span>python3-matplotlib
+</pre></div>
+<h3 id="installing-qe-on-windows">Installing QE on Windows<a class="anchor-link" href="#installing-qe-on-windows">¶</a></h3><p>For Windows, we recommend to use Windows subsystem for Linux (WSL) as follows:</p>
+<ul>
+<li>Open PowerShell as Administrator and run:</li>
+</ul>
+<div class="highlight"><pre><span></span>wsl<span class="w"> </span>--install
+</pre></div>
+<ul>
+<li><p>Restart your computer if needed.</p>
+</li>
+<li><p>Open the "Windows Terminal" and install a Linux distribution (Ubuntu is recommended).</p>
+</li>
+<li><p>Install QE for Ubuntu as shown above.</p>
+</li>
+</ul>
+<p>A <a href="https://www.youtube.com/watch?v=sJH1Q4Tl5WI">Youtube video</a> (not made by us) shows how to Quantum ESPRESSO 7.4 on Windows 11 (WSL2).</p>
+<h3 id="installing-qe-on-macos">Installing QE on MacOS<a class="anchor-link" href="#installing-qe-on-macos">¶</a></h3><p>We do not recommend using QE on macOS. I tested it on my MacBook Pro M1 and found it to be unstable. However, if you wish to install QE on a MacOS, you can refer to <a href="https://github.com/nguyen-group/QE-SSP/discussions/9">https://github.com/nguyen-group/QE-SSP/discussions/9</a>.</p>
+<h3 id="obtaining-example-files-for-this-course">Obtaining example files for this course<a class="anchor-link" href="#obtaining-example-files-for-this-course">¶</a></h3><p>We provide example input/output files of QE calculations on the GitHub. You can download them by using the following command:</p>
+<div class="highlight"><pre><span></span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/nguyen-group/QE-SSP.git
+</pre></div>
 </div>
 </div>
 </div>
@@ -1494,9 +1301,9 @@ print("This is the work of " + Name + " [CID: " + str(CID) + "]")</div>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<div style="background-color: #d4edda; border-left: 6px solid #ccc; margin: 20px; padding: 15px; border-radius: 5px;">
-<strong>📓 Submission:</strong> When your notebook is complete in Google Colab, go to <em>File &gt; Download</em> and choose <code>.ipynb</code>. The completed file should be uploaded to Blackboard under assignments for MATE70026.
-</div>
+<h2 id="exercise-1">🚨 Exercise 1<a class="anchor-link" href="#exercise-1">¶</a></h2><ul>
+<li>Install QE on your PC.</li>
+</ul>
 </div>
 </div>
 </div>
@@ -1508,11 +1315,9 @@ print("This is the work of " + Name + " [CID: " + str(CID) + "]")</div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="dive-deeper">🌊 Dive deeper<a class="anchor-link" href="#dive-deeper">¶</a></h2><ul>
-<li><p><em>Level 1:</em> Read Chapter 1 of <a href="https://github.com/neonwatty/machine_learning_refined">Machine Learning Refined</a> for a complementary introduction to the field.</p>
+<li><p><em>Level 1:</em> Read Chapter 4 of "Quantum ESPRESSO for Solid State Physics" book for understanding DFT.</p>
 </li>
-<li><p><em>Level 2:</em> Taylor Sparks has a collection of video lectures on <a href="https://www.youtube.com/watch?v=tn1wpfpLx6Y&amp;list=PLL0SWcFqypCmkHClksnGlab3wglEVMqNN&amp;index=2">Python for Materials Engineers</a>.</p>
-</li>
-<li><p><em>Level 3:</em> If you are a matplotlib pro user, try <a href="https://plotly.com/python">plotly</a> and <a href="https://docs.bokeh.org/en/2.4.1/docs/gallery.html">bokeh</a> for interactive visualisations.</p>
+<li><p><em>Level 2:</em> Install Intel OneAPI Base Toolkit, then install QE with Intel MKL for optimized performance.</p>
 </li>
 </ul>
 </div>
@@ -1578,6 +1383,12 @@ print("This is the work of " + Name + " [CID: " + str(CID) + "]")</div>
     
     
       <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../javascripts/mathjax-config.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>
