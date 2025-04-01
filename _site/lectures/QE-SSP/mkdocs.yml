@@ -30,7 +30,5 @@ nav:
     - Introduction: lecture1.ipynb
 
 plugins:
-  - offline
   - search
-  - tags
   - mkdocs-jupyter
