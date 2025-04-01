@@ -60,8 +60,6 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - lectures/QE-SSP/_build/
-  - lectures/QE-SSP/ref.bib
 jekyll_admin:
   hidden_links: null
   homepage: ''
