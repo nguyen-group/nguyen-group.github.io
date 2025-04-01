@@ -1,18 +1,17 @@
-site_name: Simple Docs
+site_name: Quantum ESPRESSO for Solid State Physics
 site_url: https://nguyen-group.github.io/lectures/QE-SSP/
 
 theme:
   name: material
   palette:
     scheme: slate 
-  features:
-    - navigation.tabs
-    - navigation.top
-    - navigation.footer
-    - navigation.instant
-    - toc.integrate
-    - content.code.annotate
-    - content.code.copy
+
+nav:
+  - Course Details:
+    - Course Contents: contents.md
+    - Resources: resources.md
+  - Lectures:
+    - 1. Introduction: lecture1.ipynb
 
 markdown_extensions:
   - toc:
@@ -25,7 +24,11 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
+  - blog
+  - offline
   - search
+  - tags
+  - mkdocs-jupyter
   - bibtex:
       bib_file: 'docs/refs.bib'  # Path to your .bib file
-      csl_file: 'https://cdn.jsdelivr.net/gh/citation-style-language/styles@master/apa.csl'  # O
+      csl_file: 'https://cdn.jsdelivr.net/gh/citation-style-language/styles@master/apa.csl' 
