@@ -15,14 +15,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-
-Inline: $E=mc^2$
-
-Block:
-$$
-\int_{-\infty}^\infty e^{-x^2} dx = \sqrt{\pi}
-$$
-
-As shown by Einstein [@hung2016quantum], spacetime is relative.
-
-## References

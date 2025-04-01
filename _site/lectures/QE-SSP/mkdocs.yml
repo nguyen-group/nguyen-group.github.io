@@ -4,31 +4,27 @@ site_url: https://nguyen-group.github.io/lectures/QE-SSP/
 theme:
   name: material
   palette:
-    scheme: slate 
+    - scheme: default
+      toggle:
+        icon: fontawesome/solid/sun
+        name: Switch to light mode
+    - scheme: slate
+      toggle:
+        icon: fontawesome/solid/moon
+        name: Switch to dark mode
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
 
 nav:
   - Course Details:
     - Course Contents: contents.md
     - Resources: resources.md
   - Lectures:
-    - 1. Introduction: lecture1.ipynb
-
-markdown_extensions:
-  - toc:
-      permalink: true
-  - admonition
-  - pymdownx.arithmatex
-  - attr_list  # Needed for citation styling
-
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    - Introduction: lecture1.ipynb
 
 plugins:
-  - blog
   - offline
   - search
   - tags
   - mkdocs-jupyter
-  - bibtex:
-      bib_file: 'docs/refs.bib'  # Path to your .bib file
-      csl_file: 'https://cdn.jsdelivr.net/gh/citation-style-language/styles@master/apa.csl' 
