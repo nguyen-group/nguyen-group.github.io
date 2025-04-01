@@ -10,7 +10,7 @@ incremental: false
 highlighter: rouge
 gist:
   noscript: false
-google_analytics: 'UA-70667326-1'
+google_analytics: 'G-PYNCPJLK0C'
 disqus: 'demowebsite'
 include:
   - _pages
@@ -33,6 +33,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-admin
+  - jekyll-scholar
 jekyll-archives:
   enabled:
     - categories
@@ -59,6 +60,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - lectures/QE-SSP/_build/
+  - lectures/QE-SSP/ref.bib
 jekyll_admin:
   hidden_links: null
   homepage: ''

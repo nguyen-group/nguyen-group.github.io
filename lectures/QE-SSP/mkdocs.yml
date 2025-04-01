@@ -1,8 +1,0 @@
-site_name: "Quantum ESPRESSO - Solid State Physics"
-site_url: "https://nguyen-group.github.io/lectures/QE-SSP/"
-nav:
-  - Home: index.md
-  - Getting Started: getting_started.md
-  - Tutorials: tutorials.md
-theme:
-  name: "material"  # You can use "readthedocs" or other themes
