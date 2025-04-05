@@ -27,6 +27,7 @@ All input files used in the course can be downloaded from our GitHub repository:
 * [Input description of Wannier90](https://wannier90.readthedocs.io/en/latest/user_guide/wannier90/parameters/)
 
 ## Workshops
+* [Electronic-structure simulations for user communities at large-scale facilities](https://indico.psi.ch/event/17436/), Europe/Zurich, 3–9 Apr 2025.
 
 * [2024 School on Electron-Phonon Physics, Many-Body Perturbation Theory, and Computational Workflows](https://docs.epw-code.org/doc/School2024.html), Austin, TX, 10-16 June 2024.
 
