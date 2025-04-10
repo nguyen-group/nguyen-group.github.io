@@ -57,7 +57,7 @@ J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integrat
 {: reversed="reversed"}
 {:start="66"}
 ### 2025
-63. N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu\* and **N. T. Hung**\*, [Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting](https://doi.org/10.48550/arXiv.2411.03396), ***ACS Appl. Energy Mater.*** accepted (2025).
+63. N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu\* and **N. T. Hung**\*, [Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting](https://doi.org/10.1021/acsaem.5c00175), ***ACS Appl. Energy Mater.*** accepted (2025).
 62. W. Mu, N. Muhammad, B. Dong, **N. T. Hung**\*, H. Guo\*, R. Saito, W. Gong, T. Yang\* and Z. Zhang, [Enhanced thermoelectric properties of the topological phase of monolayer HfC](https://doi.org/10.1088/1674-1056/adbd17), ***Chin. Phys. B*** accepted (2025)
 61. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, H. Takehara, A. Taguchi, T. Taniguchi, S. Maruyama, Y. M. Chang, R. Saito\* and H. L. Liu\*, [Quenching of defect-induced photoluminescence in a boron-nitride and carbon hetero-nanotube](https://doi.org/10.1021/acs.jpclett.4c03681), ***J. Phys. Chem. Lett.*** 16, 1711-1719  (2025)
 60. H. Gao, D. Zhou, L. Ping, Z. Wang, **N. T. Hung**, J. Cao, M. Geiwitz, G. Natale, Y. C. Lin, K. S. Burch, R. Saito, M. Terrones and X. Ling\*, [Downscaling of non-van der Waals semimetalic W5N6 with resistivity preservation](https://doi.org/10.1021/acsnano.4c12155), ***ACS Nano*** 19, 3362-3371 (2025).
