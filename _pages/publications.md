@@ -24,14 +24,14 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 264 },
         { year: 2024, papers: 12, citations: 299 },
-        { year: 2025, papers: 4, citations: 143 }
+        { year: 2025, papers: 4, citations: 150 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,463 &  H-index: 18 (Scopus)' },
+        title: { text: 'Total Citations: 1,470 &  H-index: 18 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
@@ -50,20 +50,21 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
-66. C. L. Fu\*†, M. Cheng†, **N. T. Hung**†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, [AI‑driven defect engineering for advanced thermoelectric materials](https://doi.org/10.48550/arXiv.2503.19148), ***arXiv:2503.19148*** submitted.
-65. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***arXiv:2502.02905*** submitted.
-64. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R.
+67. C. L. Fu\*†, M. Cheng†, **N. T. Hung**†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, [AI‑driven defect engineering for advanced thermoelectric materials](https://doi.org/10.48550/arXiv.2503.19148), ***arXiv:2503.19148*** submitted.
+66. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***arXiv:2502.02905*** submitted.
+65. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R.
 J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.48550/arXiv.2407.04557), ***arXiv:2407.04557*** submitted.
 {: reversed="reversed"}
-{:start="66"}
+{:start="67"}
 ### 2025
+64. N. Muhammad, W. Mu, **N. T. Hung**\*, T. Yang\* and D. Zejun\*, [Highly in-plane anisotropic 2D-ZrGeTe4: A promising thermoelectric material with high power factor](https://doi.org/10.1021/acsaem.5c00175), ***ACS Appl. Energy Mater.*** accepted (2025).
 63. N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu\* and **N. T. Hung**\*, [Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting](https://doi.org/10.1021/acsaem.5c00175), ***ACS Appl. Energy Mater.*** accepted (2025).
 62. W. Mu, N. Muhammad, B. Dong, **N. T. Hung**\*, H. Guo\*, R. Saito, W. Gong, T. Yang\* and Z. Zhang, [Enhanced thermoelectric properties of the topological phase of monolayer HfC](https://doi.org/10.1088/1674-1056/adbd17), ***Chin. Phys. B*** accepted (2025)
 61. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, H. Takehara, A. Taguchi, T. Taniguchi, S. Maruyama, Y. M. Chang, R. Saito\* and H. L. Liu\*, [Quenching of defect-induced photoluminescence in a boron-nitride and carbon hetero-nanotube](https://doi.org/10.1021/acs.jpclett.4c03681), ***J. Phys. Chem. Lett.*** 16, 1711-1719  (2025)
 60. H. Gao, D. Zhou, L. Ping, Z. Wang, **N. T. Hung**, J. Cao, M. Geiwitz, G. Natale, Y. C. Lin, K. S. Burch, R. Saito, M. Terrones and X. Ling\*, [Downscaling of non-van der Waals semimetalic W5N6 with resistivity preservation](https://doi.org/10.1021/acsnano.4c12155), ***ACS Nano*** 19, 3362-3371 (2025).
 59. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, T. Yang\* and Z. Zhang, [DUV double-resonant Raman spectra and interference effect in graphene: first-principles calculations](https://doi.org/10.1002/jrs.6768), ***J. Raman Spectrosc.*** 56, 316-323, (2025).
 {: reversed="reversed"}
-{:start="63"}
+{:start="64"}
 ### 2024
 58. R. Liu, L. Li, Y. Zhang, J. Huang\*, M. Lin, **N. T. Hung**, Z. Wang, Z. Zhang, R. Saito, P. Tan\* and T. Yang\*, [Helicity selection rule of double resonance Raman spectra for monolayer MoSe2](https://doi.org/10.1103/PhysRevB.110.245422), ***Phys. Rev. B*** 110, 245422-1-9 (2024).
 57. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non-van der Waals Mo5N6](https://doi.org/10.1021/acsnano.4c06250), ***ACS Nano*** 18, 32458-32467 (2024).
