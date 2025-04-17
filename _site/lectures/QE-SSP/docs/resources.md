@@ -1,6 +1,7 @@
 # Resources
 
-This course primarily follows our book: N. T. Hung, A. R. T. Nugraha and R. Saito, [Quantum ESPRESSO Course for Solid‑State Physics](https://doi.org/10.1201/9781003290964), Jenny Stanford Publishing, New York, 372 Pages, (2022).
+This course primarily follows our book: 
+>N. T. Hung, A. R. T. Nugraha and R. Saito, [Quantum ESPRESSO Course for Solid‑State Physics](https://doi.org/10.1201/9781003290964), Jenny Stanford Publishing, New York, 372 Pages, (2022).
 
 We strongly recommend referring to it for a deeper understanding of the concepts covered in the lectures.
 
@@ -26,6 +27,7 @@ All input files used in the course can be downloaded from our GitHub repository:
 * [Input description of Wannier90](https://wannier90.readthedocs.io/en/latest/user_guide/wannier90/parameters/)
 
 ## Workshops
+* [Electronic-structure simulations for user communities at large-scale facilities](https://indico.psi.ch/event/17436/), Europe/Zurich, 3–9 Apr 2025.
 
 * [2024 School on Electron-Phonon Physics, Many-Body Perturbation Theory, and Computational Workflows](https://docs.epw-code.org/doc/School2024.html), Austin, TX, 10-16 June 2024.
 
@@ -39,7 +41,7 @@ All input files used in the course can be downloaded from our GitHub repository:
 
 * [Summer school on Advanced Materials and Molecular Modelling with Quantum ESPRESSO](http://qe2019.ijs.si/), Ljubljana, Slovenia, September 15-20 2019.
 
-## Other Resources
+## Other resources
 
 * [Quantum Espresso Tutorial](https://pranabdas.github.io/espresso/)
 
