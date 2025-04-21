@@ -10,6 +10,7 @@ permalink: "/members"
   <img src="{{site.baseurl}}/assets/images/nguyen.jpg" alt="Nguyen" style="height: 300px; margin-right: 20px;">
   <div>
     <h4>Nguyen Tuan Hung</h4>
+    <h5>Employment</h4>
     <ul>
       <li>2019 - Present: <b>Assistant Professor</b> (Principal Investigator), FRIS, Tohoku University, Japan</li>
       <li>2021 - Present: <b>Prominent Research Fellow</b>, Tohoku University, Japan</li>
