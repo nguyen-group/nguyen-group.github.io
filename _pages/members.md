@@ -10,20 +10,12 @@ permalink: "/members"
   <img src="{{site.baseurl}}/assets/images/nguyen.jpg" alt="Nguyen" style="height: 300px; margin-right: 20px;">
   <div>
     <h4>Nguyen Tuan Hung</h4>
-    <h5>Employment</h5>
     <ul>
       <li>2019 - Present: <b>Assistant Professor</b> (Principal Investigator), FRIS, Tohoku University, Japan</li>
       <li>2021 - Present: <b>Prominent Research Fellow</b>, Tohoku University, Japan</li>
       <li>2023 - 2024: <b>Visiting Scholar</b> (Researcher, Young Leaders Overseas Program), Massachusetts Institute of Technology, USA</li>
       <li>2018 - 2019: <b>JSPS Research Fellowships for Young Scientists</b>, Japan Society for the Promotion of Science, Japan</li>
       <li>2017 - 2018: <b>Visiting Scholar</b> (Leading Graduate Program), Chinese Academy of Sciences, China</li>
-    </ul>
-    <h5>Education</h5>
-    <ul>
-      <li>2016 - 2019: <b>Ph.D. in Physics & Interdepartmental Doctoral Degree Program</b> (period-shortened), Tohoku University, Japan</li>
-      <li>2014 - 2016: <b>M.Sc. in Physics</b>, Tohoku University, Japan</li>
-      <li>2011 - 2013: <b>M.Sc. in Engineering Mechanics</b> Hanoi University of Science and Technology, Vietnam</li>
-      <li>2006 - 2011: <b>Engineer in Mechatronics</b>, Hanoi University of Science and Technology, Vietnam</li>
     </ul>
     <p><b>Contact:</b> <a href="mailto:nguyen@tohoku.ac.jp">nguyen@tohoku.ac.jp</a></p>
   </div>
