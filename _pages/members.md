@@ -27,7 +27,7 @@ permalink: "/members"
 
 ### Alumni
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <img src="{{site.baseurl}}/assets/images/pratama.png" alt="Pratama" style="height: 290px; margin-right: 20px;"/>
   <div>
     <h4>Dr. Pratama Fenda Rizky</h4>
