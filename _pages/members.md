@@ -6,7 +6,7 @@ permalink: "/members"
 
 ### Principal Investigator
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <img src="{{site.baseurl}}/assets/images/nguyen.jpg" alt="Nguyen" style="height: 300px; margin-right: 20px;">
   <div>
     <h4>Nguyen Tuan Hung</h4>
