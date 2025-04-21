@@ -10,7 +10,7 @@ hidden: true
 comments: false
 ---
 
-**Keyworks: Artificial muscles, Ideal strength, Nanomechanics, Electromechanics, 2D materials**
+**Keyworks: Artificial muscles, Ideal strength, Nanomechanics, Electromechanics, Optomechanics**
 
 > Strain engineering involves manipulating the mechanical deformation (strain) of materials to enhance their physical properties and vice versa.
 
