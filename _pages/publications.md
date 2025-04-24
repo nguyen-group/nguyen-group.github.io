@@ -50,13 +50,14 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
+69.  V. V. Thanh\* and **N. T. Hung**\*, [Strain effect on Rashba splitting and phonon scattering to improve thermoelectric performance of 2D heterobilayer MoTe2/PtS2](https://doi.org/10.48550/arXiv.2504.16781), ***arXiv:2504.16781*** submitted.
 68. **N. T. Hung**\*, V. V. Thanh\*, M. Li and T. Shimada, [Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi2X4 (X = Te, Se, S)](https://doi.org/10.48550/arXiv.2504.10879), ***arXiv:2504.10879*** submitted.
 67. C. L. Fu\*†, M. Cheng†, **N. T. Hung**†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, [AI‑driven defect engineering for advanced thermoelectric materials](https://doi.org/10.48550/arXiv.2503.19148), ***arXiv:2503.19148*** submitted.
 66. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***arXiv:2502.02905*** submitted.
 65. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R.
 J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.48550/arXiv.2407.04557), ***arXiv:2407.04557*** submitted.
 {: reversed="reversed"}
-{:start="68"}
+{:start="69"}
 ### 2025
 64. N. Muhammad, W. Mu, **N. T. Hung**\*, T. Yang\* and D. Zejun\*, [Highly in-plane anisotropic 2D-ZrGeTe4: A promising thermoelectric material with high power factor and figure of merit](https://doi.org/10.1021/acsaem.5c00023), ***ACS Appl. Energy Mater.*** accepted (2025).
 63. N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu\* and **N. T. Hung**\*, [Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting](https://doi.org/10.1021/acsaem.5c00175), ***ACS Appl. Energy Mater.*** accepted (2025).
