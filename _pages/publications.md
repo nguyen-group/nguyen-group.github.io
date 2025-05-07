@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,506 &  H-index: 18 (Scopus)' },
+        title: { text: 'Total Citations: 1,506 &  H-index: 19 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
