@@ -15,7 +15,7 @@ permalink: "/members"
       <li>2021 - Present: <b>Prominent Research Fellow</b>, Tohoku University, Japan</li>
       <li>2023 - 2024: <b>Visiting Scholar</b> (Researcher, Young Leaders Overseas Program), Massachusetts Institute of Technology, USA</li>
       <li>2018 - 2019: <b>JSPS Research Fellowships for Young Scientists</b>, Japan Society for the Promotion of Science, Japan</li>
-      <li>2017 - 2018: <b>Visiting Scholar</b> (Leading Graduate Program), Chinese Academy of Sciences, China</li>
+      <li>2017 - 2018: <b>Advanced Scholar</b> (Leading Graduate Program), Chinese Academy of Sciences, China</li>
     </ul>
     <p><b>Contact:</b> <a href="mailto:nguyen@tohoku.ac.jp">nguyen@tohoku.ac.jp</a></p>
   </div>
