@@ -24,14 +24,14 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 264 },
         { year: 2024, papers: 12, citations: 299 },
-        { year: 2025, papers: 6, citations: 186 }
+        { year: 2025, papers: 6, citations: 195 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,506 &  H-index: 19 (Scopus)' },
+        title: { text: 'Total Citations: 1,515 &  H-index: 19 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
@@ -59,7 +59,7 @@ J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integrat
 {: reversed="reversed"}
 {:start="69"}
 ### 2025
-64. N. Muhammad, W. Mu, **N. T. Hung**\*, T. Yang\* and D. Zejun\*, [Highly in-plane anisotropic 2D-ZrGeTe4: A promising thermoelectric material with high power factor and figure of merit](https://doi.org/10.1021/acsaem.5c00023), ***ACS Appl. Energy Mater.*** accepted (2025).
+64. N. Muhammad, W. Mu, **N. T. Hung**\*, T. Yang\* and D. Zejun\*, [Highly in-plane anisotropic 2D-ZrGeTe4: A promising thermoelectric material with high power factor and figure of merit](https://doi.org/10.1021/acsaem.5c00023), ***ACS Appl. Energy Mater.*** 8, 5721-5728 (2025).
 63. N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu\* and **N. T. Hung**\*, [Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting](https://doi.org/10.1021/acsaem.5c00175), ***ACS Appl. Energy Mater.*** 8, 5209-5221 (2025).
 62. W. Mu, N. Muhammad, B. Dong, **N. T. Hung**\*, H. Guo\*, R. Saito, W. Gong, T. Yang\* and Z. Zhang, [Enhanced thermoelectric properties of the topological phase of monolayer HfC](https://doi.org/10.1088/1674-1056/adbd17), ***Chin. Phys. B*** 34, 057301-1-9 (2025)
 61. D. P. Gulo, **N. T. Hung**, W. L. Chen, S. Wang, M. Liu, E. I. Kauppinen, H. Takehara, A. Taguchi, T. Taniguchi, S. Maruyama, Y. M. Chang, R. Saito\* and H. L. Liu\*, [Quenching of defect-induced photoluminescence in a boron-nitride and carbon hetero-nanotube](https://doi.org/10.1021/acs.jpclett.4c03681), ***J. Phys. Chem. Lett.*** 16, 1711-1719  (2025)
