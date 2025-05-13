@@ -29,9 +29,9 @@ Published paper: **N. T. Hung**\*, R. Okabe, A. Chotrattanapituk and M. Li\*, [U
 An open-source program for computing the first-order resonance Raman spectroscopy based on Quantum ESPRESSO.
 
 >***Compatible***: Quantum ESPRESSO
-
+>
 >***Command***: bands_mat.x, ph_mat.x, raman.x
-
+>
 >***Output***: Electron-photon and electron-phonon matrix elements, first-order resonance Raman tensor and spectra as a function of incident laser energy for linearly- or circularly-polarized light.
 
 Published paper: **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967 (2024).
@@ -44,11 +44,11 @@ Published paper: **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito\*
 A DFT-based program for computation and analysis of the resonant Raman spectra.
 
 >***Compatible***: Quantum ESPRESSO, EPW
-
+>
 >***Command***: epw.x (modified), matdyn.x (modified), phonon sort.x, raman pp.x
-
+>
 >***Output***: Single, double and defect-induced double resonant Raman.
-
+>
 >***Website***: http://qr2-code.com
 
 ***Note***: QERaman is based on only Quantum ESPRESSO, while QR2-code is based on both Quantum ESPRESSO and EPW. QERaman has fewer parameters and is simpler than QR2-code. Thus, we recommend QERaman for people who focus only on first-order Raman calculation. If you want to calculate the high-order Raman spectra, the QR2-code is recommended.
