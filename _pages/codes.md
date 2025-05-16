@@ -49,10 +49,10 @@ A DFT-based program for computation and analysis of the resonant Raman spectra.
 >
 >***Output***: Single, double and defect-induced double resonant Raman.
 >
->***Website***: http://qr2-code.com
+>***Website***: [http://qr2-code.com](http://qr2-code.com)
 
 ***Note***: QERaman is based on only Quantum ESPRESSO, while QR2-code is based on both Quantum ESPRESSO and EPW. QERaman has fewer parameters and is simpler than QR2-code. Thus, we recommend QERaman for people who focus only on first-order Raman calculation. If you want to calculate the high-order Raman spectra, the QR2-code is recommended.
 
-Published paper: J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and Teng Yang\*, [QR2-code: An open-source program for double resonant Raman spectra](https://doi.org/xxx), ***arXiv.xxx.xxx*** submitted.
+Published paper: J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and Teng Yang\*, [QR2-code: An open-source program for double resonant Raman spectra](https://doi.org/10.48550/arXiv.2505.10041), ***arXiv.2505.10041*** submitted.
 
 <p><a target="_blank" href="https://github.com/JoeyyHuang/QR2-code" class="btn btn-success">Source files of the QR2-code at <i class="fab fa-github"></i></a></p>
