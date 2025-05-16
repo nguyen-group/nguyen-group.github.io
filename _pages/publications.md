@@ -53,13 +53,13 @@ document.addEventListener('DOMContentLoaded', function () {
 70. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.48550/arXiv.2505.10041), ***arXiv.2505.10041*** submitted.
 69. V. V. Thanh\* and **N. T. Hung**\*, [Strain effect on Rashba splitting and phonon scattering to improve thermoelectric performance of 2D heterobilayer MoTe2/PtS2](https://doi.org/10.48550/arXiv.2504.16781), ***arXiv:2504.16781*** submitted.
 68. **N. T. Hung**\*, V. V. Thanh\*, M. Li and T. Shimada, [Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi2X4 (X = Te, Se, S)](https://doi.org/10.48550/arXiv.2504.10879), ***arXiv:2504.10879*** submitted.
-67. C. L. Fu\*†, M. Cheng†, **N. T. Hung**†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, [AI‑driven defect engineering for advanced thermoelectric materials](https://doi.org/10.48550/arXiv.2503.19148), ***arXiv:2503.19148*** submitted.
-66. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***arXiv:2502.02905*** submitted.
-65. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R.
+67. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***arXiv:2502.02905*** submitted.
+66. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R.
 J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.48550/arXiv.2407.04557), ***arXiv:2407.04557*** submitted.
 {: reversed="reversed"}
 {:start="70"}
 ### 2025
+65. C. L. Fu\*†, M. Cheng†, **N. T. Hung**†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, [AI‑driven defect engineering for advanced thermoelectric materials](https://doi.org/10.48550/arXiv.2503.19148), ***Adv. Mater.*** accepted (2025).
 64. N. Muhammad, W. Mu, **N. T. Hung**\*, T. Yang\* and D. Zejun\*, [Highly in-plane anisotropic 2D-ZrGeTe4: A promising thermoelectric material with high power factor and figure of merit](https://doi.org/10.1021/acsaem.5c00023), ***ACS Appl. Energy Mater.*** 8, 5721-5728 (2025).
 63. N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu\* and **N. T. Hung**\*, [Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting](https://doi.org/10.1021/acsaem.5c00175), ***ACS Appl. Energy Mater.*** 8, 5209-5221 (2025).
 >Press release: “[Designing the future of clean energy: Janus heterobilayers lead the way](https://www.tohoku.ac.jp/en/press/designing_the_future_of_clean_energy_janus_heterobilayers_lead_the_way.html)” on May 15, 2024 by Tohoku University.
@@ -68,7 +68,7 @@ J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integrat
 60. H. Gao, D. Zhou, L. Ping, Z. Wang, **N. T. Hung**, J. Cao, M. Geiwitz, G. Natale, Y. C. Lin, K. S. Burch, R. Saito, M. Terrones and X. Ling\*, [Downscaling of non-van der Waals semimetalic W5N6 with resistivity preservation](https://doi.org/10.1021/acsnano.4c12155), ***ACS Nano*** 19, 3362-3371 (2025).
 59. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, T. Yang\* and Z. Zhang, [DUV double-resonant Raman spectra and interference effect in graphene: first-principles calculations](https://doi.org/10.1002/jrs.6768), ***J. Raman Spectrosc.*** 56, 316-323 (2025).
 {: reversed="reversed"}
-{:start="64"}
+{:start="65"}
 ### 2024
 58. R. Liu, L. Li, Y. Zhang, J. Huang\*, M. Lin, **N. T. Hung**, Z. Wang, Z. Zhang, R. Saito, P. Tan\* and T. Yang\*, [Helicity selection rule of double resonance Raman spectra for monolayer MoSe2](https://doi.org/10.1103/PhysRevB.110.245422), ***Phys. Rev. B*** 110, 245422-1-9 (2024).
 57. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non-van der Waals Mo5N6](https://doi.org/10.1021/acsnano.4c06250), ***ACS Nano*** 18, 32458-32467 (2024).
