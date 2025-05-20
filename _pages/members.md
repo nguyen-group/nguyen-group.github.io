@@ -11,7 +11,6 @@ permalink: "/members"
   <div>
     <h4>Nguyen Tuan Hung</h4>
     <ul>
-      <li>2025 - Present: <b>Adjunct Professor</b>, University of Science, Vietnam National University‑Ho Chi Minh City, Vietnam</li>
       <li>2019 - Present: <b>Assistant Professor</b> (Principal Investigator), FRIS, Tohoku University, Japan</li>
       <li>2021 - Present: <b>Prominent Research Fellow</b>, Tohoku University, Japan</li>
       <li>2023 - 2024: <b>Visiting Scholar</b> (Young Leaders Overseas Program), NSE, Massachusetts Institute of Technology, USA</li>
