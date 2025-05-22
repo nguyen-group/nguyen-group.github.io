@@ -5,11 +5,15 @@ permalink: "/courses"
 ---
 
 #### Computer Programming Language
+> This course, Computer Programming Language, introduces students to the fundamentals of Python programming. We begin with core language concepts, then explore how to visualize data through plotting. The course further demonstrates how Python can be applied to artificial neural networks and concludes with practical examples in physics and materials science, equipping students with programming skills relevant to modern scientific research.
+
+This course is designed for undergraduate students.<br>
+- **Link**: [https://nguyen-group.github.io/courses/cpl/](https://nguyen-group.github.io/courses/cpl/)<br>
 
 #### Quantum ESPRESSO Course for Solid‐State
 >This course is a solid-state physics and hands-on tutorial for using Quantum ESPRESSO, an open software for quantum calculations for the electronic structure of materials. When we design a new material, the electronic structure calculation is essential to discuss the origin of the material's physical properties, particularly for semiconductors. Nowadays, many researchers and students can run Quantum ESPRESSO on personal computers without paying for the software. Thus, this course is essential for students who want to understand the physics of materials for their experiments or applications. 
 
-This course is built on our successful workshops and lectures held in several countries since 2016.<br>
+This course is designed for graduate students, and it was built on our successful workshops and lectures held in several countries since 2016.<br>
 - **Link**: [https://nguyen-group.github.io/courses/qe/](https://nguyen-group.github.io/courses/qe/)<br>
 - **Materials**: [https://github.com/nguyen-group/QE-SSP](https://github.com/nguyen-group/QE-SSP)<br>
 - **Book**: N. T. Hung, A. R. T. Nugraha and R. Saito, [Quantum ESPRESSO Course for Solid‑State Physics](https://doi.org/10.1201/9781003290964), Jenny Stanford Publishing, New York, 372 Pages, (2022).
