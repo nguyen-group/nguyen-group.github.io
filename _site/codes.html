@@ -88,7 +88,7 @@
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="/lectures.html">Lectures</a>
+                <a class="nav-link" href="/courses.html">Courses</a>
                 </li>
 
                 <li class="nav-item">
@@ -104,7 +104,7 @@
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://nguyentuanhung.wordpress.com"><i class="fab fa-wordpress-simple"></i> Blog (in Vietnamese)</a>
+                <a target="_blank" class="nav-link" href="https://nguyentuanhung.wordpress.com"><i class="fab fa-wordpress-simple"></i> Blog</a>
                 </li>
 
                 <script src="/assets/js/lunr.js"></script>
@@ -177,7 +177,7 @@
   <p><strong><em>Applications</em></strong>: Screening photovoltaic and quantum materials.</p>
 </blockquote>
 
-<p>Published paper: <strong>N. T. Hung</strong>, R. Okabe, A. Chotrattanapituk and M. Li, <a href="https://doi.org/10.1002/adma.202409175">Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure</a>, <strong><em>Adv. Mat.</em></strong> 36, 2409175-1-11 (2024).</p>
+<p>Published paper: <strong>N. T. Hung</strong>*, R. Okabe, A. Chotrattanapituk and M. Li*, <a href="https://doi.org/10.1002/adma.202409175">Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure</a>, <strong><em>Adv. Mat.</em></strong> 36, 2409175-1-11 (2024).</p>
 
 <p><a target="_blank" href="https://github.com/nguyen-group/GNNOpt" class="btn btn-success">Source files of the GNNOpt at <i class="fab fa-github"></i></a></p>
 
@@ -187,12 +187,37 @@
 <p>An open-source program for computing the first-order resonance Raman spectroscopy based on Quantum ESPRESSO.</p>
 
 <blockquote>
-  <p>In the QERaman program, the complex values of Raman tensors are calculated based on the quantum description of the Raman scattering from calculations of electron-photon and electron-phonon matrix elements, which are obtained by using the modified Quantum ESPRESSO. Our program also calculates the resonant Raman spectra as a function of incident laser energy for linearly- or circularly-polarized light. The program will be a helpful tool for experimentalists who want a theoretical tool for understanding the observed resonance Raman spectra for a linearly- or circularly polarized light. All codes, examples, and scripts are available on the GitHub repository.</p>
+  <p><strong><em>Compatible</em></strong>: Quantum ESPRESSO</p>
+
+  <p><strong><em>Command</em></strong>: bands_mat.x, ph_mat.x, raman.x</p>
+
+  <p><strong><em>Output</em></strong>: Electron-photon and electron-phonon matrix elements, first-order resonance Raman tensor and spectra as a function of incident laser energy for linearly- or circularly-polarized light.</p>
 </blockquote>
 
-<p>Published paper: <strong>N. T. Hung</strong>, J. Huang, Y. Tatsumi, T. Yang, and R. Saito, <a href="https://doi.org/10.1016/j.cpc.2023.108967">QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO</a>, <strong><em>Comput. Phys. Commun.</em></strong> 295, 108967 (2024).</p>
+<p>Published paper: <strong>N. T. Hung</strong>*, J. Huang, Y. Tatsumi, T. Yang, and R. Saito*, <a href="https://doi.org/10.1016/j.cpc.2023.108967">QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO</a>, <strong><em>Comput. Phys. Commun.</em></strong> 295, 108967 (2024).</p>
 
 <p><a target="_blank" href="https://github.com/nguyen-group/QERaman" class="btn btn-success">Source files of the QERaman at <i class="fab fa-github"></i></a></p>
+
+<h4 id="qr2-code">QR2-code</h4>
+<p><img src="/assets/images/QR2-code-logo.jpg" alt="QR2-code" style="height: 200px" /></p>
+
+<p>A DFT-based program for computation and analysis of the resonant Raman spectra.</p>
+
+<blockquote>
+  <p><strong><em>Compatible</em></strong>: Quantum ESPRESSO, EPW</p>
+
+  <p><strong><em>Command</em></strong>: epw.x (modified), matdyn.x (modified), phonon sort.x, raman pp.x</p>
+
+  <p><strong><em>Output</em></strong>: Single, double and defect-induced double resonant Raman.</p>
+
+  <p><strong><em>Website</em></strong>: <a href="http://qr2-code.com">http://qr2-code.com</a></p>
+</blockquote>
+
+<p><strong><em>Note</em></strong>: QERaman is based on only Quantum ESPRESSO, while QR2-code is based on both Quantum ESPRESSO and EPW. QERaman has fewer parameters and is simpler than QR2-code. Thus, we recommend QERaman for people who focus only on first-order Raman calculation. If you want to calculate the high-order Raman spectra, the QR2-code is recommended.</p>
+
+<p>Published paper: J. Huang*, R. Liu, Y. Zhang, <strong>N. T. Hung</strong>*, H. Guo, R. Saito and Teng Yang*, <a href="https://doi.org/10.48550/arXiv.2505.10041">QR2-code: An open-source program for double resonant Raman spectra</a>, <strong><em>arXiv.2505.10041</em></strong> submitted.</p>
+
+<p><a target="_blank" href="https://github.com/JoeyyHuang/QR2-code" class="btn btn-success">Source files of the QR2-code at <i class="fab fa-github"></i></a></p>
 
     </div>
 

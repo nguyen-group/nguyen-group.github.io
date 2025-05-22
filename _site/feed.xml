@@ -5,8 +5,8 @@
     <description>We are a theory-driven research group focused on solid-state theory, simulation, and machine learning in materials science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 May 2025 15:29:32 +0900</pubDate>
-    <lastBuildDate>Wed, 07 May 2025 15:29:32 +0900</lastBuildDate>
+    <pubDate>Thu, 22 May 2025 22:09:14 +0900</pubDate>
+    <lastBuildDate>Thu, 22 May 2025 22:09:14 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -33,6 +33,8 @@
         <description>&lt;p&gt;Our work in the AI for optical prediction and quantum material was selected by Tohoku University news, etc. with the title &lt;a href=&quot;https://www.tohoku.ac.jp/en/press/ai_speeds_up_discovery_of_energy_and_quantum_materials.html&quot;&gt;“AI speeds up the discovery of energy and quantum materials”&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Nikken news in Japanese: &lt;a href=&quot;https://www.nikkei.com/article/DGXZRSP680093_V11C24A0000000/&quot;&gt;“東北大、材料発見を大幅にスピードアップできるAIモデルを開発”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ministry of Science and Technology (Vietnam) news in Vietnamese: &lt;a href=&quot;https://most.gov.vn/vn/tin-tuc/24883/cong-cu-ai-giup-phat-trien-vat-lieu-nang-luong-va-luong-tu.aspx&quot;&gt;“Công cụ AI giúp phát triển vật liệu năng lượng và lượng tử”&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/adma.202409175&quot;&gt;Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structures&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Mat.&lt;/em&gt;&lt;/strong&gt; 2409175-1-11 (2024).&lt;/p&gt;
 </description>
