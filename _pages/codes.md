@@ -4,8 +4,6 @@ layout: page
 permalink: "/codes"
 ---
 
-We create open-source packages for machine learning and Raman spectroscopy.
-
 #### GNNOpt
 <img src="{{site.baseurl}}/assets/images/GNNOpt.jpg" alt="QERaman" style="height: 200px"/>
 
