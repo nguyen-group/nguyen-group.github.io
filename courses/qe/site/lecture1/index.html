@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://nguyen-group.github.io/lectures/QE-SSP/lecture1/">
+        <link rel="canonical" href="https://nguyen-group.github.io/courses/qe/lecture1/">
       
       
         <link rel="prev" href="../resources/">
@@ -1162,7 +1162,7 @@ $F$ is a functional it takes function $f(x)$ as input and output $y$ is a number
 <div style="border: 1px solid #b888b3; background-color: #f5e9f4; padding: 10px; border-radius: 5px;">
 <strong>Corollary 1:</strong> The electron density $n(\textbf{r})$ uniquely specifies the external potential $\mathcal{V}_{en}(\textbf{r})$ and hence the Hamiltonian $\mathcal{H}$.
 </div>
-<p>Schrödinger equation says how we can get the wavefunction from a given potential. Once solved the wavefunction (which could be difficul due to the high‐dimensional partial differential equation), we can determine the density or any other properties. Now Corollary 1 says the opposite is also true. For a given density, the potential can be uniquely determined. Thus, it is possible to define the ground-state energy as a function of electronic density.</p>
+<p>The Schrödinger equation says how we can get the wavefunction from a given potential. Once solved the wavefunction (which could be difficul due to the high‐dimensional partial differential equation), we can determine the density or any other properties. Now Corollary 1 says the opposite is also true. For a given density, the potential can be uniquely determined. Thus, it is possible to define the ground-state energy as a function of electronic density.</p>
 <div style="border: 1px solid #b888b3; background-color: #f5e9f4; padding: 10px; border-radius: 5px;">
 <strong>Corollary 2:</strong> The ground-state total energy can be obtained by minimizing an energy functional $E[n(\textbf{r})]$ with respect to the electron density $n(\textbf{r})$.
 </div>
@@ -1193,7 +1193,7 @@ where the Hartree potential, which describes electrostatic interaction of electr
 $$
 \mathcal{V}_{H}(\textbf{r}) = \int \frac{n(\textbf{r})}{|\textbf{r} - \textbf{r}'|} \mathrm{d}\textbf{r}',
 $$
-and the electron density is given by: 
+and the electron density is given by:
 $$
 n(\textbf{r}) = \sum_i f_i |\psi_i (\textbf{r})|^2,
 $$
@@ -1219,9 +1219,10 @@ where $f_i$ is the occupation factor of electrons ($0 \le f_i \le 1$). The Kohn-
 <strong>📓 Reference:</strong> J. P. Perdew and A. Zunger, <a href="https://doi.org/10.1103/PhysRevB.23.5048">Self-interaction correction to density-functional approximations for many-electron systems</a>, Phys. Rev. B 23, 5048 (1981).
 </div>
 <p>The LDA is a widely used approximation the exchange-correlation energy of a system by assuming that the electronic density varies slowly and treating the local density as a uniform electron gas. In this case, the exchange-correlation energy at each point in space as being the same as that of a uniform electron gas with the same electron density at that point. Thus, the LDA is given by:</p>
-$$
+<p>$$
 E_{xc} = \int n(\textbf{r}) \epsilon_{xc}(n(\textbf{r})) d\textbf{r}
-$$<p>and 
+$$
+and
 $$
 \mathcal{V}_{xc}(\textbf{r}) = \epsilon_{xc}(n(\textbf{r})) + n(\textbf{r})\frac{d\epsilon_{xc}(n)}{dn}\bigg\rvert_{n=n(\textbf{r})},
 $$
