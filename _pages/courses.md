@@ -10,7 +10,7 @@ permalink: "/courses"
 This course is designed for undergraduate students.<br>
 - **Link**: [https://nguyen-group.github.io/courses/cpl/](https://nguyen-group.github.io/courses/cpl/)<br>
 
-#### Quantum ESPRESSO Course for Solid‐State
+#### Quantum ESPRESSO Course for Solid‐State Physics
 >This course is a solid-state physics and hands-on tutorial for using Quantum ESPRESSO, an open software for quantum calculations for the electronic structure of materials. When we design a new material, the electronic structure calculation is essential to discuss the origin of the material's physical properties, particularly for semiconductors. Nowadays, many researchers and students can run Quantum ESPRESSO on personal computers without paying for the software. Thus, this course is essential for students who want to understand the physics of materials for their experiments or applications. 
 
 This course is designed for graduate students, and it was built on our successful workshops and lectures held in several countries since 2016.<br>
