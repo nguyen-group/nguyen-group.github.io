@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interdisciplinary Materials Group at Tohoku University</title>
+    <title>Interdisciplinary Materials Group at National Taiwan University</title>
     <description>We are a theory-driven research group focused on solid-state theory, simulation, and machine learning in materials science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 May 2025 22:30:00 +0900</pubDate>
-    <lastBuildDate>Thu, 22 May 2025 22:30:00 +0900</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 19:07:08 +0900</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 19:07:08 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>

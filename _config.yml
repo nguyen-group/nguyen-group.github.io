@@ -1,17 +1,18 @@
-name: 'Interdisciplinary Materials Group at Tohoku University'
-title: 'Interdisciplinary Materials Group at Tohoku University'
-description: 'We are a theory-driven research group focused on solid-state theory, simulation, and machine learning in materials science.'
-logo: 'assets/images/tohoku_logo.png'
-favicon: 'assets/images/TU_logo.png'
-#baseurl: 'https://nguyen-group.github.io'
+name: Interdisciplinary Materials Group at National Taiwan University
+title: Interdisciplinary Materials Group at National Taiwan University
+description: >-
+  We are a theory-driven research group focused on solid-state theory,
+  simulation, and machine learning in materials science.
+logo: assets/images/ntu_logo.png
+favicon: assets/images/ntu_logo.png
 lsi: false
 safe: true
 incremental: false
 highlighter: rouge
 gist:
   noscript: false
-google_analytics: 'G-PYNCPJLK0C'
-disqus: 'demowebsite'
+google_analytics: G-PYNCPJLK0C
+disqus: demowebsite
 include:
   - _pages
 permalink: '/:title/'
@@ -20,7 +21,7 @@ authors:
     name: Nguyen Tuan Hung
     display_name: N. T. Hung
     gravatar: 69bfba362c993c163b38b0c09c529797
-    email: 'hung@live.jp'
+    email: hung@live.jp
     web: 'https://nguyen-group.github.io/'
     twitter: 'https://twitter.com/tuanhung52'
     description: >-
