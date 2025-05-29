@@ -7,7 +7,7 @@ permalink: "/courses"
 #### Computer Programming Language
 > This course, Computer Programming Language, introduces students to the fundamentals of Python programming. We begin with core language concepts, then explore how to visualize data through plotting. The course further demonstrates how Python can be applied to artificial neural networks and concludes with practical examples in physics and materials science, equipping students with programming skills relevant to modern scientific research.
 
-This course is designed for undergraduate students.<br>
+This course is designed for undergraduate students at [Global Undergraduate Program in Semiconductors (GUPS)](https://gups.ntu.edu.tw/), National Taiwan University.<br>
 - **Link**: [https://nguyen-group.github.io/courses/cpl/](https://nguyen-group.github.io/courses/cpl/)<br>
 
 #### Quantum ESPRESSO Course for Solid‐State Physics
