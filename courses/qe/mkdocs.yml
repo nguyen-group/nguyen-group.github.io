@@ -27,7 +27,16 @@ nav:
     - Contents: contents.md
     - Resources: resources.md
   - Lectures:
-    - Introduction: lecture1.ipynb
+    - Introduction to DFT with QE: lecture1.ipynb
+    - Productivity tools: lecture2.ipynb
+    - Basic hands-on tutorials: lecture3.ipynb
+    - Advanced hands-on tutorials I (electron and phonon): lecture4.ipynb
+    - Advanced hands-on tutorials II (Wannier90 and optic): lecture5.ipynb
+    - Auto generate QE's input: lecture6.ipynb
+  - Assignments:
+    - Assignment 1: assignment1.md
+    - Assignment 2: assignment2.md
+    - Assignment 3: assignment3.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
