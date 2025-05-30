@@ -16,6 +16,7 @@ permalink: "/members"
       <li>4/2019 - 7/2025: <b>Assistant Professor</b> (Principal Investigator), FRIS, Tohoku University, Japan</li>
       <li>6/2021 - 7/2025: <b>Prominent Research Fellow</b>, Tohoku University, Japan</li>
       <li>8/2023 - 5/2024: <b>Visiting Scholar</b> (Young Leaders Overseas Program), NSE, Massachusetts Institute of Technology, USA</li>
+      <li>2/2023 - 3/2024: <b>Visiting Scholar</b>, NSE, Massachusetts Institute of Technology, USA</li>
       <li>3/2018 - 3/2019: <b>JSPS Research Fellowships for Young Scientists</b>, Japan Society for the Promotion of Science, Japan</li>
       <li>12/2017 - 2/2018: <b>Advanced Scholar</b> (Leading Graduate Program), IMR, Chinese Academy of Sciences, China</li>
     </ul>
