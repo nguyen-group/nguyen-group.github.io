@@ -569,15 +569,29 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-        
           <li class="md-nav__item">
   <a href="#step-4-install-jupyterlab" class="md-nav__link">
     Step 4: Install JupyterLab
   </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-5-additional-python-scientific-libraries" class="md-nav__link">
+    Step 5: Additional Python scientific libraries
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-6-optional-jupyterlab-extensions" class="md-nav__link">
+    Step 6 (optional): JupyterLab extensions
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -734,7 +748,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    3. Hands-on tutorials of QE I: Basics parameters
   </span>
   
 
@@ -754,7 +768,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    4. Hands-on tutorials of QE II: Electron &amp; Phonon
   </span>
   
 
@@ -774,7 +788,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    5. Hands-on tutorials of QE III: Wannier90 &amp; Optic
   </span>
   
 
@@ -794,7 +808,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    6. Hands-on tutorials of QE IV: Input generator
   </span>
   
 
@@ -1331,9 +1345,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c03e34ad85a5476aa1e6620ffd3036e5" title="QE_Lecture1_Intro_25" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/94e6f72515de4f90876ad8467509cc5b" title="QE-SSP_Lecture_2_Tools" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
-<p><a href="https://speakerdeck.com/nguyentuanhung/qe-lecture1-intro-25">Lecture slides</a></p>
+<p><a href="https://speakerdeck.com/nguyentuanhung/qe-ssp-lecture-2-tools">Lecture slides</a></p>
 
 </div>
 </div>
@@ -1573,13 +1587,26 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <li>Rich extensions and themes</li>
 </ul>
 <p>Great for data science, machine learning, scientific computing, and research.</p>
-<h3 id="223-how-to-install-jupyterlab-on-ubuntu">2.2.3. How to Install JupyterLab on Ubuntu<a class="anchor-link" href="#223-how-to-install-jupyterlab-on-ubuntu">&#182;</a></h3><h4 id="step-1-update-your-system">Step 1: Update Your System<a class="anchor-link" href="#step-1-update-your-system">&#182;</a></h4><div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>update<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>upgrade<span class="w"> </span>-y
+<h3 id="223-how-to-install-jupyterlab-on-ubuntu">2.2.3. How to Install JupyterLab on Ubuntu<a class="anchor-link" href="#223-how-to-install-jupyterlab-on-ubuntu">&#182;</a></h3><h4 id="step-1-update-your-system">Step 1: Update Your System<a class="anchor-link" href="#step-1-update-your-system">&#182;</a></h4><div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>update<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>upgrade<span class="w"> </span>-y
 </pre></div>
-<h4 id="step-2-install-python-and-pip">Step 2: Install Python and Pip<a class="anchor-link" href="#step-2-install-python-and-pip">&#182;</a></h4><div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>python3<span class="w"> </span>python3-pip<span class="w"> </span>-y
+<h4 id="step-2-install-python-and-pip">Step 2: Install Python and Pip<a class="anchor-link" href="#step-2-install-python-and-pip">&#182;</a></h4><div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>python3<span class="w"> </span>python3-pip<span class="w"> </span>-y
 </pre></div>
-<h3 id="step-4-install-jupyterlab">Step 4: Install JupyterLab<a class="anchor-link" href="#step-4-install-jupyterlab">&#182;</a></h3><div class="highlight"><pre><span></span>pip<span class="w"> </span>install<span class="w"> </span>jupyterlab
+<h4 id="step-4-install-jupyterlab">Step 4: Install JupyterLab<a class="anchor-link" href="#step-4-install-jupyterlab">&#182;</a></h4><div class="highlight"><pre><span></span>$<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>jupyterlab
 </pre></div>
-<h3 id="224-how-to-use-jupyterlab">2.2.4. How to Use JupyterLab<a class="anchor-link" href="#224-how-to-use-jupyterlab">&#182;</a></h3><h4 id="step-1-start-jupyterlab">Step 1: Start JupyterLab<a class="anchor-link" href="#step-1-start-jupyterlab">&#182;</a></h4><div class="highlight"><pre><span></span>jupyter<span class="w"> </span>lab
+<h4 id="step-5-additional-python-scientific-libraries">Step 5: Additional Python scientific libraries<a class="anchor-link" href="#step-5-additional-python-scientific-libraries">&#182;</a></h4><div class="highlight"><pre><span></span>$<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>numpy<span class="w"> </span>scipy<span class="w"> </span>sympy<span class="w"> </span>matplotlib
+</pre></div>
+<ul>
+<li>numpy: numerical computing with arrays</li>
+<li>scipy: scientific computing, linear algebra, optimization, etc.</li>
+<li>sympy: symbolic mathematics (like algebra, calculus, equation solving)</li>
+<li>matplotlib: plotting and data visualization</li>
+</ul>
+<h4 id="step-6-optional-jupyterlab-extensions">Step 6 (optional): JupyterLab extensions<a class="anchor-link" href="#step-6-optional-jupyterlab-extensions">&#182;</a></h4><div class="highlight"><pre><span></span>$<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>nodejs
+</pre></div>
+<ul>
+<li>nodejs: an open-source, cross-platform environment for running JavaScript applications. Some extensions might require a rebuild of JupyterLab upon installation. This rebuild process relies on Node.js.</li>
+</ul>
+<h3 id="224-how-to-use-jupyterlab">2.2.4. How to Use JupyterLab<a class="anchor-link" href="#224-how-to-use-jupyterlab">&#182;</a></h3><h4 id="step-1-start-jupyterlab">Step 1: Start JupyterLab<a class="anchor-link" href="#step-1-start-jupyterlab">&#182;</a></h4><div class="highlight"><pre><span></span>$<span class="w"> </span>jupyter<span class="w"> </span>lab
 </pre></div>
 <ul>
 <li>This will launch JupyterLab in your browser at <code>http://localhost:8888</code></li>
@@ -1610,22 +1637,22 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="23-jupyterlab-on-visual-studio-code-vs-code">2.3. JupyterLab on Visual Studio Code (VS Code)<a class="anchor-link" href="#23-jupyterlab-on-visual-studio-code-vs-code">&#182;</a></h2><h3 id="231-what-is-visual-studio-code-vs-code">2.3.1. What is Visual Studio Code (VS Code)?<a class="anchor-link" href="#231-what-is-visual-studio-code-vs-code">&#182;</a></h3><p><strong>Visual Studio Code</strong> (VS Code) is a <strong>free</strong>, <strong>open-source</strong>, and <strong>lightweight code editor</strong> developed by Microsoft. It is widely used by developers for writing, editing, debugging, and deploying code across many programming languages and platforms.</p>
-<h3 id="232-install-visual-studio-code-on-ubuntu">2.3.2: Install Visual Studio Code on Ubuntu<a class="anchor-link" href="#232-install-visual-studio-code-on-ubuntu">&#182;</a></h3><h4 id="method-1-install-via-apt-recommended">Method 1: Install via <code>apt</code> (Recommended)<a class="anchor-link" href="#method-1-install-via-apt-recommended">&#182;</a></h4><div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>update
-sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>wget<span class="w"> </span>gpg<span class="w"> </span>-y
-wget<span class="w"> </span>-qO-<span class="w"> </span>https://packages.microsoft.com/keys/microsoft.asc<span class="w"> </span><span class="p">|</span><span class="w"> </span>gpg<span class="w"> </span>--dearmor<span class="w"> </span>&gt;<span class="w"> </span>packages.microsoft.gpg
-sudo<span class="w"> </span>install<span class="w"> </span>-o<span class="w"> </span>root<span class="w"> </span>-g<span class="w"> </span>root<span class="w"> </span>-m<span class="w"> </span><span class="m">644</span><span class="w"> </span>packages.microsoft.gpg<span class="w"> </span>/usr/share/keyrings/
-sudo<span class="w"> </span>sh<span class="w"> </span>-c<span class="w"> </span><span class="s1">&#39;echo &quot;deb [arch=amd64 signed-by=/usr/share/keyrings/packages.microsoft.gpg] \</span>
+<h3 id="232-install-visual-studio-code-on-ubuntu">2.3.2: Install Visual Studio Code on Ubuntu<a class="anchor-link" href="#232-install-visual-studio-code-on-ubuntu">&#182;</a></h3><h4 id="method-1-install-via-apt-recommended">Method 1: Install via <code>apt</code> (Recommended)<a class="anchor-link" href="#method-1-install-via-apt-recommended">&#182;</a></h4><div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>update
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>wget<span class="w"> </span>gpg<span class="w"> </span>-y
+$<span class="w"> </span>wget<span class="w"> </span>-qO-<span class="w"> </span>https://packages.microsoft.com/keys/microsoft.asc<span class="w"> </span><span class="p">|</span><span class="w"> </span>gpg<span class="w"> </span>--dearmor<span class="w"> </span>&gt;<span class="w"> </span>packages.microsoft.gpg
+$<span class="w"> </span>sudo<span class="w"> </span>install<span class="w"> </span>-o<span class="w"> </span>root<span class="w"> </span>-g<span class="w"> </span>root<span class="w"> </span>-m<span class="w"> </span><span class="m">644</span><span class="w"> </span>packages.microsoft.gpg<span class="w"> </span>/usr/share/keyrings/
+$<span class="w"> </span>sudo<span class="w"> </span>sh<span class="w"> </span>-c<span class="w"> </span><span class="s1">&#39;echo &quot;deb [arch=amd64 signed-by=/usr/share/keyrings/packages.microsoft.gpg] \</span>
 <span class="s1">https://packages.microsoft.com/repos/code stable main&quot; &gt; /etc/apt/sources.list.d/vscode.list&#39;</span>
 
-sudo<span class="w"> </span>apt<span class="w"> </span>update
-sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>code
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>update
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>code
 </pre></div>
 <h4 id="method-2-install-from-deb-file">Method 2: Install from .deb File<a class="anchor-link" href="#method-2-install-from-deb-file">&#182;</a></h4><ul>
 <li>Download <code>.deb</code> from: <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
 <li>Install with:</li>
 </ul>
-<div class="highlight"><pre><span></span>sudo<span class="w"> </span>dpkg<span class="w"> </span>-i<span class="w"> </span>code_*.deb
-sudo<span class="w"> </span>apt<span class="w"> </span>--fix-broken<span class="w"> </span>install
+<div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>dpkg<span class="w"> </span>-i<span class="w"> </span>code_*.deb
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>--fix-broken<span class="w"> </span>install
 </pre></div>
 <h3 id="233-install-jupyter-extension-in-vs-code">2.3.3: Install Jupyter Extension in VS Code<a class="anchor-link" href="#233-install-jupyter-extension-in-vs-code">&#182;</a></h3><ol>
 <li>Open VS Code</li>

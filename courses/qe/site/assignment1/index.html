@@ -79,7 +79,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#overview" class="md-skip">
+        <a href="#scf-calculation" class="md-skip">
           Skip to content
         </a>
       
@@ -434,7 +434,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    3. Hands-on tutorials of QE I: Basics parameters
   </span>
   
 
@@ -454,7 +454,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    4. Hands-on tutorials of QE II: Electron &amp; Phonon
   </span>
   
 
@@ -474,7 +474,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    5. Hands-on tutorials of QE III: Wannier90 &amp; Optic
   </span>
   
 
@@ -494,7 +494,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    6. Hands-on tutorials of QE IV: Input generator
   </span>
   
 
@@ -649,12 +649,23 @@
                   
 
 
-<h1 id="overview">Overview</h1>
-<p>This course is a solid-state physics and hands-on tutorial for using <a href="https://www.quantum-espresso.org/">Quantum ESPRESSO</a>, an open software for quantum calculations for the electronic structure of materials. When we design a new material, the electronic structure calculation is essential to discuss the origin of the material's physical properties, particularly for semiconductors. Nowadays, many researchers and students can run Quantum ESPRESSO on personal computers without paying for the software. Thus, this course is essential for students who want to understand the physics of materials for their experiments or applications. The target of this course is that students can perform physical property calculations of any material on their personal computers.</p>
-<blockquote>
-<p>This course is built on our successful workshops and lectures held in several countries since 2016, including Japan, Vietnam, Indonesia, China, Brazil and Taiwan. This course also primarily follows our book "<a href="https://doi.org/10.1201/9781003290964">Quantum ESPRESSO for Solid State Physics</a>".</p>
-</blockquote>
-<p>If you have corrections or suggestions, please raise an <a href="https://github.com/nguyen-group/QE-SSP/discussions">comment</a> on our Github.</p>
+<h1 id="scf-calculation">SCF calculation</h1>
+<ul>
+<li>Make scf.in file for the bulk Si with a face‐centered‐cubic structure (ibrav = 2) and visualize the Si structure by using XCrySDen.</li>
+<li>Make scf.in file and calculate total energy of monolayer MoS2.</li>
+</ul>
+<h1 id="convergence-test">Convergence test</h1>
+<ul>
+<li>Check convergence value of cut‐off energy for bulk Si and monolayer MoS2.</li>
+<li>Check convergence value of k‐points grid for bulk Si and monolayer MoS2.</li>
+</ul>
+<h1 id="optimized-structure-calculation">Optimized structure calculation</h1>
+<ul>
+<li>Run optimizing atomic positions for monolayer MoS2 by changing position of only Mo atom.</li>
+<li>Run optimizing unit cell for bulk Si and monolayer MoS2.</li>
+<li>Calculate lattice constants of bulk Si for several pseudopotential files, and compare the obtained results with the experimental value (0.5431 nm).</li>
+<li>Plot total energy as a function of smearing energy with different smearing functions for monolayer MoS2.</li>
+</ul>
 
 
 
