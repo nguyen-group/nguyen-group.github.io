@@ -18,7 +18,6 @@ permalink: "/members"
       <li>8/2023 - 5/2024: <b>Visiting Scholar</b> (Young Leaders Overseas Program), NSE, Massachusetts Institute of Technology, USA</li>
       <li>2/2023 - 3/2024: <b>Visiting Scholar</b>, NSE, Massachusetts Institute of Technology, USA</li>
       <li>3/2018 - 3/2019: <b>JSPS Research Fellowships for Young Scientists</b>, Japan Society for the Promotion of Science, Japan</li>
-      <li>12/2017 - 2/2018: <b>Advanced Scholar</b> (Leading Graduate Program), IMR, Chinese Academy of Sciences, China</li>
     </ul>
     <p><b>Contact:</b> <a href="mailto:nguyen@tohoku.ac.jp">nguyen@tohoku.ac.jp</a></p>
   </div>
