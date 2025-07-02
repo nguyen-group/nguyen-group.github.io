@@ -58,7 +58,7 @@ J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integrat
 {: reversed="reversed"}
 {:start="71"}
 ### 2025
-67. V. V. Thanh\* and **N. T. Hung**\*, [Strain effect on Rashba splitting and phonon scattering to improve thermoelectric performance of 2D heterobilayer MoTe2/PtS2](https://doi.org/10.48550/arXiv.2504.16781), ***ACS Appl. Energy Mater.*** accepted (2025).
+67. V. V. Thanh\* and **N. T. Hung**\*, [Strain effect on Rashba splitting and phonon scattering to improve thermoelectric performance of 2D heterobilayer MoTe2/PtS2](https://doi.org/10.1021/acsaem.5c01254), ***ACS Appl. Energy Mater.*** accepted (2025).
 66. B. D. Annawati, K. M. A. Kumar, **N. T. Hung**, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito\* and H. L. Liu\*, [Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals](https://doi.org/10.1002/jrs.70004), ***J. Raman Spectrosc.*** accepted (2025). 
 65. C. L. Fu\*†, M. Cheng\*†, **N. T. Hung**\*†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, [AI‑driven defect engineering for advanced thermoelectric materials](https://doi.org/10.1002/adma.202505642), ***Adv. Mater.*** 2505642-1-18 (2025) († Equal contribution).
 64. N. Muhammad, W. Mu, **N. T. Hung**\*, T. Yang\* and D. Zejun\*, [Highly in-plane anisotropic 2D-ZrGeTe4: A promising thermoelectric material with high power factor and figure of merit](https://doi.org/10.1021/acsaem.5c00023), ***ACS Appl. Energy Mater.*** 8, 5721-5728 (2025).
