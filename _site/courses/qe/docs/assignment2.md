@@ -1,7 +1,9 @@
-# Overview
+# Electronic band structure calculation
+- Calculate electronic energy dispersion of bulk Si and monolayer MoS2, and compare calculated energy band gaps with the experiment values (1.12 eV and 2.15 eV for bulk Si and monolayer MoS2, respectively).
+- Calculate the DOS of bulk Si and monolayer MoS2.
+- Calculate the contribution of the PDOS of the S and Mo atoms to the total DOS of monolayer MoS2.
 
-This course is a solid-state physics and hands-on tutorial for using [Quantum ESPRESSO](https://www.quantum-espresso.org/), an open software for quantum calculations for the electronic structure of materials. When we design a new material, the electronic structure calculation is essential to discuss the origin of the material's physical properties, particularly for semiconductors. Nowadays, many researchers and students can run Quantum ESPRESSO on personal computers without paying for the software. Thus, this course is essential for students who want to understand the physics of materials for their experiments or applications. The target of this course is that students can perform physical property calculations of any material on their personal computers.
-
-> This course is built on our successful workshops and lectures held in several countries since 2016, including Japan, Vietnam, Indonesia, China, Brazil and Taiwan. This course also primarily follows our book "[Quantum ESPRESSO for Solid State Physics](https://doi.org/10.1201/9781003290964)".
-
-If you have corrections or suggestions, please raise an [comment](https://github.com/nguyen-group/QE-SSP/discussions) on our Github.
+# Phonon dispersion calculation
+- Calculate phonon dispersion of graphene without assume_isolated = '2D' option in scf.in, and check if the negative phonon frequency appears for the ZA mode.
+- Calculate phonon dispersion of monolayer MoS2.
+- Calculate contributions of the phonon DOS of the Mo and S atoms to total phonon DOS of monolayer MoS2.

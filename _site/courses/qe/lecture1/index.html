@@ -22,7 +22,7 @@
     
     
       
-        <title>1. Introduction - Quantum ESPRESSO for Solid State Physics</title>
+        <title>1. Introduction: DFT and QE - Quantum ESPRESSO for Solid State Physics</title>
       
     
     
@@ -79,7 +79,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#1-introduction" class="md-skip">
+        <a href="#1-introduction-dft-and-qe" class="md-skip">
           Skip to content
         </a>
       
@@ -115,7 +115,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              1. Introduction
+              1. Introduction: DFT and QE
             
           </span>
         </div>
@@ -405,7 +405,7 @@
           
   
   <span class="md-ellipsis">
-    1. Introduction
+    1. Introduction: DFT and QE
   </span>
   
 
@@ -416,7 +416,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    1. Introduction: DFT and QE
   </span>
   
 
@@ -599,7 +599,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    2. Productivity tools: Linux and JupyterLab
   </span>
   
 
@@ -619,7 +619,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    3. Hands-on tutorials of QE I: Basics parameters
   </span>
   
 
@@ -639,7 +639,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    4. Hands-on tutorials of QE II: Electron &amp; Phonon
   </span>
   
 
@@ -659,7 +659,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    5. Hands-on tutorials of QE III: Wannier90 &amp; Optic
   </span>
   
 
@@ -679,7 +679,7 @@
         
   
   <span class="md-ellipsis">
-    1. Introduction
+    6. Hands-on tutorials of QE IV: Input generator
   </span>
   
 
@@ -703,6 +703,10 @@
   
     
     
+      
+        
+      
+        
       
         
       
@@ -742,11 +746,51 @@
   
   
     <li class="md-nav__item">
-      <a href="../assignment/" class="md-nav__link">
+      <a href="../assignment1/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Assignment
+    Assignment 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../assignment2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Assignment 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../assignment3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Assignment 3
   </span>
   
 
@@ -1161,7 +1205,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="1-introduction">1. Introduction<a class="anchor-link" href="#1-introduction">&#182;</a></h1>
+<h1 id="1-introduction-dft-and-qe">1. Introduction: DFT and QE<a class="anchor-link" href="#1-introduction-dft-and-qe">&#182;</a></h1>
 </div>
 </div>
 </div>
@@ -1172,9 +1216,8 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c03e34ad85a5476aa1e6620ffd3036e5" title="QE_Lecture1_Intro_25" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+<iframe frameborder="0" src="https://www.slideshare.net/slideshow/embed_code/key/yetGjDB008VIz4?hostedIn=slideshare&page=upload" title="QE-SSP_Lecture_1_Intro" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 16/9;" data-ratio="1.7777777777777777"></iframe>
 
-<p><a href="https://speakerdeck.com/nguyentuanhung/qe-lecture1-intro-25">Lecture slides</a></p>
 
 </div>
 </div>
@@ -1318,32 +1361,32 @@ $$</p>
 <ul>
 <li>Update list of repositories and upgrade the system</li>
 </ul>
-<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>update<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>upgrade
+<div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>update<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>upgrade<span class="w"> </span>-y
 </pre></div>
 <ul>
 <li>Important development tools and libraries: Git, wget, gcc/g++/gfortran, LAPACK, FFTW, openmpi (mpirun)</li>
 </ul>
-<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>git<span class="w"> </span>wget<span class="w"> </span>build-essential
-sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>g++<span class="w"> </span>gfortran
-sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>liblapack-dev<span class="w"> </span>libfftw3-dev<span class="w"> </span>libopenmpi-dev
+<div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>git<span class="w"> </span>wget<span class="w"> </span>build-essential<span class="w"> </span>-y
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>g++<span class="w"> </span>gfortran<span class="w"> </span>-y
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>liblapack-dev<span class="w"> </span>libfftw3-dev<span class="w"> </span>libopenmpi-dev<span class="w"> </span>-y
 </pre></div>
 <ul>
 <li>Quantum ESPRESSO and Wannier90 from apt repository</li>
 </ul>
-<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>quantum-espresso<span class="w"> </span>wannier90
+<div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>quantum-espresso<span class="w"> </span>wannier90<span class="w"> </span>-y
 </pre></div>
 <ul>
 <li>Additional tools</li>
 </ul>
-<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>xcrysden<span class="w"> </span>gnuplot
-sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>python3-dev<span class="w"> </span>jupyter-server
-sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span>install<span class="w"> </span>python3-numpy<span class="w"> </span>python3-scipy<span class="w"> </span>python3-sympy<span class="w"> </span>python3-matplotlib
+<div class="highlight"><pre><span></span>$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>xcrysden<span class="w"> </span>gnuplot<span class="w"> </span>-y
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>python3-dev<span class="w"> </span>jupyter-server<span class="w"> </span>-y
+$<span class="w"> </span>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>python3-numpy<span class="w"> </span>python3-scipy<span class="w"> </span>python3-sympy<span class="w"> </span>python3-matplotlib<span class="w"> </span>-y
 </pre></div>
 <h3 id="152-installing-qe-on-windows">1.5.2. Installing QE on Windows<a class="anchor-link" href="#152-installing-qe-on-windows">&#182;</a></h3><p>For Windows, we recommend to use Windows subsystem for Linux (WSL) as follows:</p>
 <ul>
 <li>Open PowerShell as Administrator and run:</li>
 </ul>
-<div class="highlight"><pre><span></span>wsl<span class="w"> </span>--install
+<div class="highlight"><pre><span></span>$<span class="w"> </span>wsl<span class="w"> </span>--install
 </pre></div>
 <ul>
 <li><p>Restart your computer if needed.</p>
@@ -1356,7 +1399,7 @@ sudo<span class="w"> </span>apt<span class="w"> </span>-y<span class="w"> </span
 <p>A <a href="https://www.youtube.com/watch?v=sJH1Q4Tl5WI">Youtube video</a> (not made by us) shows how to Quantum ESPRESSO 7.4 on Windows 11 (WSL2).</p>
 <h3 id="153-installing-qe-on-macos">1.5.3. Installing QE on MacOS<a class="anchor-link" href="#153-installing-qe-on-macos">&#182;</a></h3><p>We do not recommend using QE on macOS. I tested it on my MacBook Pro M1 and found it to be unstable. However, if you wish to install QE on a MacOS, you can refer to <a href="https://github.com/nguyen-group/QE-SSP/discussions/9">https://github.com/nguyen-group/QE-SSP/discussions/9</a>.</p>
 <h3 id="154-obtaining-example-files-for-this-course">1.5.4. Obtaining example files for this course<a class="anchor-link" href="#154-obtaining-example-files-for-this-course">&#182;</a></h3><p>We provide example input/output files of QE calculations on the GitHub. You can download them by using the following command:</p>
-<div class="highlight"><pre><span></span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/nguyen-group/QE-SSP.git
+<div class="highlight"><pre><span></span>$<span class="w"> </span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/nguyen-group/QE-SSP.git
 </pre></div>
 
 </div>

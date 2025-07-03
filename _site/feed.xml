@@ -5,9 +5,30 @@
     <description>We are a theory-driven research group focused on solid-state theory, simulation, and machine learning in materials science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Jun 2025 04:29:09 +0900</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 04:29:09 +0900</lastBuildDate>
+    <pubDate>Thu, 03 Jul 2025 15:53:51 +0700</pubDate>
+    <lastBuildDate>Thu, 03 Jul 2025 15:53:51 +0700</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Designing the Future of Clean Energy: Janus Heterobilayers Lead the Way</title>
+        <description>&lt;p&gt;Our work in photocatalytic water splitting of 2D materials was selected by Tohoku University news, etc. with the title &lt;a href=&quot;https://www.tohoku.ac.jp/en/press/designing_the_future_of_clean_energy_janus_heterobilayers_lead_the_way.html&quot;&gt;“Designing the Future of Clean Energy: Janus Heterobilayers Lead the Way”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More information: N. T. G. Bao et al., &lt;a href=&quot;https://doi.org/10.1021/acsaem.5c00175&quot;&gt;Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Appl. Energy Mater.&lt;/em&gt;&lt;/strong&gt; 8, 5209-5221 (2025).&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 May 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Designing-the-future-of-clean-energy-janus-heterobilayers-lead-the-way/</link>
+        <guid isPermaLink="true">http://localhost:4000/Designing-the-future-of-clean-energy-janus-heterobilayers-lead-the-way/</guid>
+        
+        
+        <category>Quantum ESPRESSO</category>
+        
+        <category>DFT calculations</category>
+        
+        <category>2D material</category>
+        
+        <category>Optic</category>
+        
+      </item>
     
       <item>
         <title>Advanced School On Topological Quantum Matters</title>
@@ -15,9 +36,9 @@
 
 &lt;p&gt;This school will provide a great opportunity for students to engage with leading experts in the field. Through lectures, seminars, and discussions, participants will gain deep insights into cutting-edge developments in topological quantum materials while networking with distinguished researchers shaping the future of quantum science.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Mar 2025 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/Advanced-school-on-topological-quantum-matters.md/</link>
-        <guid isPermaLink="true">http://localhost:4000/Advanced-school-on-topological-quantum-matters.md/</guid>
+        <pubDate>Tue, 25 Mar 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Advanced-school-on-topological-quantum-matters/</link>
+        <guid isPermaLink="true">http://localhost:4000/Advanced-school-on-topological-quantum-matters/</guid>
         
         
         <category>topological-materials</category>
@@ -38,7 +59,7 @@
 
 &lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/adma.202409175&quot;&gt;Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structures&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Mat.&lt;/em&gt;&lt;/strong&gt; 2409175-1-11 (2024).&lt;/p&gt;
 </description>
-        <pubDate>Tue, 15 Oct 2024 00:00:00 +0900</pubDate>
+        <pubDate>Tue, 15 Oct 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/AI-speeds-up-the-discovery-of-energy-and-quantum-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/AI-speeds-up-the-discovery-of-energy-and-quantum-materials/</guid>
         
@@ -61,7 +82,7 @@
 
 &lt;p&gt;More information: M. Mandal et al. &lt;a href=&quot;https://pubs.aip.org/aip/apr/article/11/2/021429/3299347/Precise-Fermi-level-engineering-in-a-topological&quot;&gt;Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Phys. Rev.&lt;/em&gt;&lt;/strong&gt; 11, 021429-1-8 (2024).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 17 Jun 2024 00:00:00 +0900</pubDate>
+        <pubDate>Mon, 17 Jun 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/A-new-approach-to-fine-tuning-quantum-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/A-new-approach-to-fine-tuning-quantum-materials/</guid>
         
@@ -78,7 +99,7 @@
 
 &lt;p&gt;More information: S. N. Kajale et al. &lt;a href=&quot;https://doi.org/10.1126/sciadv.adk8669&quot;&gt;Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Sci. Adv.&lt;/em&gt;&lt;/strong&gt; 10, eadk8669-1-7 (2024).&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 Apr 2024 00:00:00 +0900</pubDate>
+        <pubDate>Thu, 04 Apr 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/Propelling-atomically-layered-magnets-toward-green-computers/</link>
         <guid isPermaLink="true">http://localhost:4000/Propelling-atomically-layered-magnets-toward-green-computers/</guid>
         
@@ -105,7 +126,7 @@
 
 &lt;p&gt;The open-source code can download at &lt;a href=&quot;https://github.com/nguyen-group/QERaman&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
+        <pubDate>Mon, 23 Oct 2023 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/QERaman-code/</link>
         <guid isPermaLink="true">http://localhost:4000/QERaman-code/</guid>
         
@@ -128,7 +149,7 @@
 
 &lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.3c04436&quot;&gt;Nonlinear Optical Responses of Janus MoSSe/MoS2 Heterobilayers Optimized by Stacking Order and Strain&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 19877–19886 (2023).&lt;/p&gt;
 </description>
-        <pubDate>Tue, 26 Sep 2023 00:00:00 +0900</pubDate>
+        <pubDate>Tue, 26 Sep 2023 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</link>
         <guid isPermaLink="true">http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</guid>
         
@@ -153,7 +174,7 @@
 
 &lt;p&gt;More information: R. Natsui et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.2c10997&quot;&gt;Vapor-Phase Indium Intercalation in van der Waals Nanofibers of Atomically Thin W6Te6 Wires&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 5561–5569 (2023).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Apr 2023 00:00:00 +0900</pubDate>
+        <pubDate>Mon, 03 Apr 2023 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</link>
         <guid isPermaLink="true">http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</guid>
         
@@ -182,7 +203,7 @@
   &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1201/9781003290964&quot;&gt;Quantum ESPRESSO Course for Solid‑State Physics&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Jenny Stanford Publishing&lt;/em&gt;&lt;/strong&gt;, New York, 372 Pages, (2022).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/AI-ML-for-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/AI-ML-for-materials/</guid>
         
@@ -215,7 +236,7 @@
   &lt;li&gt;V. V. Thanh, N. D. Van, D. V. Truong, R. Saito and N. T. Hung, &lt;a href=&quot;https://doi.org/10.1016/j.apsusc.2020.146730&quot;&gt;First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Surf. Sci.&lt;/em&gt;&lt;/strong&gt; 526, 146730-1-8 (2020).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/photonics-in-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/photonics-in-materials/</guid>
         
@@ -225,31 +246,6 @@
         <category>low-dimensional-materials</category>
         
         <category>DFT calculations</category>
-        
-      </item>
-    
-      <item>
-        <title>An easy book to learn Quantum ESPRESSO for solid-state physics</title>
-        <description>&lt;p&gt;We published a textbook “Quantum ESPRESSO Course for Solid-State Physics” by Nguyen Tuan Hung, Ahmad R.T. Nugraha, Riichiro Saito.&lt;/p&gt;
-
-&lt;p&gt;This book is educationally designed for beginners in computational physics and materials science with many tutorials on Quantum ESPRESSO based on many tutorial courses in the world given by the authors. Therefore, it is very practical for students who aim to learn the first‐principles calculation. In particular, for the experimental students who wish to run the first‐principles calculation themselves to compare the experimental results of new materials directly.&lt;/p&gt;
-
-&lt;p&gt;See a preview at &lt;a href=&quot;https://books.google.com.tr/books?id=5pKdEAAAQBAJ&amp;amp;pg=PA#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;Google book&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Buy a full book at &lt;a href=&quot;https://amzn.asia/d/diorvaG&quot;&gt;Amazon&lt;/a&gt; or &lt;a href=&quot;https://www.routledge.com/Quantum-ESPRESSO-Course-for-Solid-State-Physics-A-Hands-On-Guide/Saito-Tuan-Hung-Tresna-Nugraha/p/book/9789814968379&quot;&gt;Routledge Taylor &amp;amp; Francis Group&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Source files of book can download at &lt;a href=&quot;https://github.com/nguyen-group/QE-SSP&quot;&gt;https://github.com/nguyen-group/QE-SSP&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Dec 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</link>
-        <guid isPermaLink="true">http://localhost:4000/Quantum-ESPRESSO-for-solid-state-physics/</guid>
-        
-        
-        <category>books</category>
-        
-        <category>DFT calculations</category>
-        
-        <category>Quantum ESPRESSO</category>
         
       </item>
     
