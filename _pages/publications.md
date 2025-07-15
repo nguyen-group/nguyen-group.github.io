@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
-72. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.48550/arXiv.2505.10041), ***arXiv.2505.10041*** submitted.
+72. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR$^2$-code: An open-source program for double resonance Raman spectra](https://doi.org/10.48550/arXiv.2505.10041), ***arXiv.2505.10041*** submitted.
 71. **N. T. Hung**\*, V. V. Thanh\*, M. Li and T. Shimada, [Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi2X4 (X = Te, Se, S)](https://doi.org/10.48550/arXiv.2504.10879), ***arXiv:2504.10879*** submitted.
 70. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***arXiv:2502.02905*** submitted.
 69. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R.
