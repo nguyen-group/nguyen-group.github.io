@@ -58,7 +58,7 @@ J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integrat
 {: reversed="reversed"}
 {:start="73"}
 ### 2025
-69. R. Liu, L. H. Li, Y. Zhang, J. Huang\*, M. L. Lin, **N. T. Hung**, H. Guo, Z. Wang, Z. Zhang, R. Saito, P. H. Tan\* and T. Yang\*, [Characterizing second-order Raman modes in monolayer MoSe2](https://doi.org/xxx), ***Phys. Rev. B*** accepted (2025).
+69. R. Liu, L. H. Li, Y. Zhang, J. Huang\*, M. L. Lin, **N. T. Hung**, H. Guo, Z. Wang, Z. Zhang, R. Saito, P. H. Tan\* and T. Yang\*, [Characterizing second-order Raman modes in monolayer MoSe2](https://doi.org/10.1103/vvkp-9sth), ***Phys. Rev. B*** accepted (2025).
 68. N. V. Thanh, **N. T. Hung**, H. Takehara, A. Taguchi, H. Yi, P. S. Fernandez, H. Ago, P. Yang, L. J. Li, K. Lizarraga, R. Saito and H. L. Liu\*, [Thickness-dependent excitonic properties of hexagonal boron-nitride thin films](https://doi.org/10.1103/231t-g3mn), ***Phys. Rev. Mater.*** accepted (2025).
 67. B. D. Annawati, K. M. A. Kumar, **N. T. Hung**, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito\* and H. L. Liu\*, [Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals](https://doi.org/10.1002/jrs.70004), ***J. Raman Spectrosc.*** accepted (2025).
 66. C. L. Fu\*†, M. Cheng\*†, **N. T. Hung**\*†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li\*, [AI‑driven defect engineering for advanced thermoelectric materials](https://doi.org/10.1002/adma.202505642), ***Adv. Mater.*** 2505642-1-18 (2025) († Equal contribution).
