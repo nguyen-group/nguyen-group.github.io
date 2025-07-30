@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2021, papers: 4, citations: 171 },
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
-        { year: 2024, papers: 12, citations: 302 },
-        { year: 2025, papers: 11, citations: 306 }
+        { year: 2024, papers: 11, citations: 296 },
+        { year: 2025, papers: 12, citations: 312 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
