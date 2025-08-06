@@ -36,11 +36,12 @@ As an international and interdisciplinary research group, we are committed to fo
 
 #### Atom-HCMUS (location at Vietnam National University - Ho Chi Minh City)
 <img src="{{site.baseurl}}/assets/images/atom-hcmus.jpg" alt="Atom" style="height: 290px; margin-right: 20px;"/>
-- Node 1: H3C UniServer R4900 G3 2U, 256Gb RAM + SSD 1.92TB + Dual CPU Intel Xeon Platinum 8269CY (52 cores, 104 threads)
-- Node 2: H3C UniServer R4900 G3 2U, 128Gb RAM + Dual CPU Intel Xeon Platinum 8269CY (52 cores, 104 threads)
+- Node 1: H3C UniServer R4900 G3 2U, Dual CPU Intel Xeon Platinum 8269CY (52 cores, 104 threads) + 256GB RAM + 1.92TB SSD
+- Node 2: H3C UniServer R4900 G3 2U, Dual CPU Intel Xeon Platinum 8269CY (52 cores, 104 threads) + 128GB RAM + 1.92TB SSD
 
 ### Atom-NTU (location at National Taiwan University)
-Will be updated.
+- Workstation: 256GB RAM + Ryzen Threadripper 3990X (64 cores, 128 threads) + RTX4090 + 256GB RAM + 5TB SSD
+- Other PC will be updated.
 
 ### Discussion Room (location at National Taiwan University)
-Will be updated.
+- Under construction and will be updated.
