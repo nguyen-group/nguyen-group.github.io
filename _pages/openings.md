@@ -40,7 +40,7 @@ As an international and interdisciplinary research group, we are committed to fo
 - Node 2: H3C UniServer R4900 G3 2U, Dual CPU Intel Xeon Platinum 8269CY (52 cores, 104 threads) + 128GB RAM + 1.92TB SSD
 
 ### Atom-NTU (location at National Taiwan University)
-- Workstation: Ryzen Threadripper 3990X (64 cores, 128 threads) + RTX4090 + 256GB RAM + 5TB SSD
+- Workstation 1: Ryzen Threadripper 3990X (64 cores, 128 threads) + RTX4090 + 256GB RAM + 5TB SSD
 - Other PC will be updated.
 
 ### Discussion Room (location at National Taiwan University)
