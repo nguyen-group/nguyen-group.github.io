@@ -34,7 +34,13 @@ As an international and interdisciplinary research group, we are committed to fo
 ---
 ### Facilities and Equipments
 
-#### Atom-HCMUS (local at Vietnam National University - Ho Chi Minh City)
+#### Atom-HCMUS (location at Vietnam National University - Ho Chi Minh City)
 <img src="{{site.baseurl}}/assets/images/atom-hcmus.jpg" alt="Atom" style="height: 290px; margin-right: 20px;"/>
 - Node 1: H3C UniServer R4900 G3 2U, 256Gb RAM + SSD 1.92TB + Dual CPU Intel Xeon Platinum 8269CY (52 cores, 104 threads)
 - Node 2: H3C UniServer R4900 G3 2U, 128Gb RAM + Dual CPU Intel Xeon Platinum 8269CY (52 cores, 104 threads)
+
+### Atom-NTU (location at National Taiwan University)
+Will be updated.
+
+### Discussion Room (location at National Taiwan University)
+Will be updated.
