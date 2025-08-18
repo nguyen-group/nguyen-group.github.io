@@ -4,6 +4,12 @@ layout: page
 permalink: "/codes"
 ---
 
+We develop open-source codes based on machine-learning and first-principles calculations for materials science, such as optical spectroscopy, Raman, materials design, etc. 
+
+---
+
+### Open-source code based on machine-learning
+
 #### GNNOpt
 <img src="{{site.baseurl}}/assets/images/GNNOpt.jpg" alt="QERaman" style="height: 200px"/>
 
@@ -21,7 +27,26 @@ Published paper: **N. T. Hung**\*, R. Okabe, A. Chotrattanapituk and M. Li\*, [U
 
 <p><a target="_blank" href="https://github.com/nguyen-group/GNNOpt" class="btn btn-success">Source files of the GNNOpt at <i class="fab fa-github"></i></a></p>
 
+#### SCIGEN
+<img src="{{site.baseurl}}/assets/images/scigen_logo.png" alt="SCIGEN" style="height: 200px"/>
 
+A generative ML framework that integrates structural constraints, such as honeycomb or kagome motifs, into generative diffusion models, enabling the generation of materials with targeted geometric patterns.
+
+>***Input***: Structural constraints for material generation (e.g. honeycomb, kagome, etc.)  
+>
+>***Output***: Crystal structures (e.g. cif file) 
+>
+>***Machine learning***: Generative diffusion models.
+>
+>***Applications***: Design and discover new quantum materials.
+
+Published paper: R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.48550/arXiv.2407.04557), ***Nat. Mater.*** accepted (2025).
+
+<p><a target="_blank" href="https://github.com/RyotaroOKabe/SCIGEN" class="btn btn-success">Source files of the GNNOpt at <i class="fab fa-github"></i></a></p>
+
+---
+
+### Open-source code based on first-principles calculations
 
 #### QERaman
 <img src="{{site.baseurl}}/assets/images/QERaman-logo.png" alt="QERaman" style="height: 200px"/>
