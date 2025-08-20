@@ -6,7 +6,7 @@ permalink: "/openings"
 
 We are always interested in meeting prospective graduate and undergraduate students at all levels (freshman through senior) who want to participate in our research program. We are a theory-driven research group focused on solid-state theory, first-principles DFT calculations, and AI/ML in materials science.
 
-If you are an student at National Taiwan University and interested in joining our team, please contact directly to me ([Email: hung@live.jp](mailto:hung@live.jp)). If you are an student at Vietnam National University - Ho Chi Minh City, please contact to me ([Email: hung@live.jp](mailto:hung@live.jp)) or Prof. Vu Thi Hanh Thu ([Email: vththu@hcmus.edu.vn](mailto:vththu@hcmus.edu.vn)).
+If you are an student at National Taiwan University and interested in joining our team, please contact directly to me ([Email: nguyenth@ntu.edu.tw](mailto:nguyenth@ntu.edu.tw)). If you are an student at Vietnam National University - Ho Chi Minh City, please contact to me ([Email: nguyenth@ntu.edu.tw](mailto:nguyenth@ntu.edu.tw)) or Prof. Vu Thi Hanh Thu ([Email: vththu@hcmus.edu.vn](mailto:vththu@hcmus.edu.vn)).
 
 ***Currently, we have no postdoc positions available.***
 

@@ -20,7 +20,7 @@ permalink: "/members"
       <li>2/2023 - 3/2024: <b>Visiting Scholar</b>, NSE, Massachusetts Institute of Technology, USA</li>
       <li>3/2018 - 3/2019: <b>JSPS Research Fellowships for Young Scientists</b>, Japan Society for the Promotion of Science, Japan</li>
     </ul>
-    <p><b>Contact:</b> <a href="mailto:nguyen@tohoku.ac.jp">nguyen@tohoku.ac.jp</a></p>
+    <p><b>Contact:</b> <a href="mailto:nguyenth@ntu.edu.tw">nguyenth@ntu.edu.tw</a></p>
   </div>
 </div>
 
