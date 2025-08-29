@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
 {: reversed="reversed"}
 {:start="73"}
 ### 2025
-72. **N. T. Hung**\*, V. V. Thanh\*, M. Li and T. Shimada, [Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi2X4 (X = Te, Se, S)](https://doi.org/10.48550/arXiv.2504.10879), ***Appl. Phys. Lett.*** accepted (2025).
+72. **N. T. Hung**\*, V. V. Thanh\*, M. Li and T. Shimada, [Strain effect on optical properties and quantum weight of monolayer MnBi2X4 (X = Te, Se, S)](https://doi.org/10.48550/arXiv.2504.10879), ***Appl. Phys. Lett.*** accepted (2025).
 71. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***Nat. Mater.*** accepted (2025).
 70. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.48550/arXiv.2407.04557), ***Nat. Mater.*** accepted (2025).
 69. B. D. Annawati, K. M. A. Kumar, **N. T. Hung**, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito\* and H. L. Liu\*, [Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals](https://doi.org/10.1002/jrs.70004), ***J. Raman Spectrosc.*** accepted (2025).
