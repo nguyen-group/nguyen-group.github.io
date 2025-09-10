@@ -7,7 +7,8 @@ permalink: "/courses"
 #### Computer Programming in Python
 > This course, Computer Programming in Python, introduces students to the fundamentals of Python programming. We begin with core language concepts, then explore how to visualize data through plotting. The course further demonstrates how Python can be applied to artificial neural networks and concludes with practical examples in physics and materials science, equipping students with programming skills relevant to modern scientific research.
 This course is designed for undergraduate students at [Global Undergraduate Program in Semiconductors (GUPS)](https://gups.ntu.edu.tw/), National Taiwan University.<br>
-- **Link**: [https://course.ntu.edu.tw/en/courses/114-1/17174](https://course.ntu.edu.tw/en/courses/114-1/17174)<br>
+- **Link**: [https://course.ntu.edu.tw/en/courses/114-1/17174](https://course.ntu.edu.tw/en/courses/114-1/17174)
+
 <!--
 - **Link**: [https://nguyen-group.github.io/courses/cpl/](https://nguyen-group.github.io/courses/cpl/)
 -->
