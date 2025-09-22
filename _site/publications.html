@@ -180,16 +180,16 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2020, papers: 7, citations: 131 },
         { year: 2021, papers: 4, citations: 171 },
         { year: 2022, papers: 9, citations: 281 },
-        { year: 2023, papers: 9, citations: 264 },
-        { year: 2024, papers: 12, citations: 299 },
-        { year: 2025, papers: 9, citations: 251 }
+        { year: 2023, papers: 9, citations: 265 },
+        { year: 2024, papers: 11, citations: 296 },
+        { year: 2025, papers: 12, citations: 356 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,574 &  H-index: 19 (Scopus)' },
+        title: { text: 'Total Citations: 1,678 &  H-index: 19 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
@@ -207,18 +207,21 @@ document.addEventListener('DOMContentLoaded', function () {
 <h3 id="papers-in-peer-reviewed-journal">Papers in Peer-Reviewed Journal</h3>
 <p>(*: corresponding author; †: equal contribution)</p>
 <h3 id="preprints">Preprints</h3>
-<ol reversed="reversed" start="71">
-  <li>J. Huang*, R. Liu, Y. Zhang, <strong>N. T. Hung</strong>*, H. Guo, R. Saito and T. Yang*, <a href="https://doi.org/10.48550/arXiv.2505.10041">QR2-code: An open-source program for double resonance Raman spectra</a>, <strong><em>arXiv.2505.10041</em></strong> submitted.</li>
-  <li><strong>N. T. Hung</strong>*, V. V. Thanh*, M. Li and T. Shimada, <a href="https://doi.org/10.48550/arXiv.2504.10879">Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi2X4 (X = Te, Se, S)</a>, <strong><em>arXiv:2504.10879</em></strong> submitted.</li>
-  <li>M. Cheng*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, <strong>N. T. Hung</strong> and M. Li*, <a href="https://doi.org/10.48550/arXiv.2502.02905">AI‑driven approaches for materials design and discovery</a>, <strong><em>arXiv:2502.02905</em></strong> submitted.</li>
-  <li>R. Okabe*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, <strong>N. T. Hung</strong>, X. Fu, B. Han, Y. Wang, W. Xie, R.
-J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://doi.org/10.48550/arXiv.2407.04557">Structural constraint integration in generative model for discovery of quantum material candidates</a>, <strong><em>arXiv:2407.04557</em></strong> submitted.</li>
+<ol reversed="reversed" start="74">
+  <li>J. Huang*, R. Liu, Y. Zhang, <strong>N. T. Hung</strong>*, H. Guo, R. Saito and T. Yang*, <a href="https://doi.org/10.48550/arXiv.2505.10041">QR2-code: An open-source program for double resonance Raman spectra</a>, <strong><em>arXiv:2505.10041</em></strong> submitted.</li>
 </ol>
 <h3 id="2025">2025</h3>
-<ol reversed="reversed" start="67">
-  <li>V. V. Thanh* and <strong>N. T. Hung</strong>*, <a href="https://doi.org/10.1021/acsaem.5c01254">Strain effect on Rashba splitting and phonon scattering to improve thermoelectric performance of 2D heterobilayer MoTe2/PtS2</a>, <strong><em>ACS Appl. Energy Mater.</em></strong> accepted (2025).</li>
-  <li>B. D. Annawati, K. M. A. Kumar, <strong>N. T. Hung</strong>, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito* and H. L. Liu*, <a href="https://doi.org/10.1002/jrs.70004">Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals</a>, <strong><em>J. Raman Spectrosc.</em></strong> accepted (2025).</li>
-  <li>C. L. Fu*†, M. Cheng*†, <strong>N. T. Hung</strong>*†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li*, <a href="https://doi.org/10.1002/adma.202505642">AI‑driven defect engineering for advanced thermoelectric materials</a>, <strong><em>Adv. Mater.</em></strong> 2505642-1-18 (2025) († Equal contribution).</li>
+<ol reversed="reversed" start="73">
+  <li>Y. Zhang, R. Liu, J. Huang*, <strong>N. T. Hung</strong>, R. Saito, H. Guo, T. Yang* and Z. Zhang, <a href="https://doi.org/xxx">Polarized double-resonance Raman spectra of black phosphorus</a>, <strong><em>J. Mater. Sci. Technol.</em></strong> accepted (2025).</li>
+  <li>M. Cheng*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, <strong>N. T. Hung</strong> and M. Li*, <a href="https://doi.org/10.48550/arXiv.2502.02905">AI‑driven approaches for materials design and discovery</a>, <strong><em>Nat. Mater.</em></strong> accepted (2025).</li>
+  <li>R. Okabe*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, <strong>N. T. Hung</strong>, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://www.nature.com/articles/s41563-025-02355-y">Structural constraint integration in generative model for discovery of quantum material candidates</a>, <strong><em>Nat. Mater.</em></strong> accepted (2025).</li>
+  <li>B. D. Annawati, K. M. A. Kumar, <strong>N. T. Hung</strong>, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito and H. L. Liu*, <a href="https://doi.org/10.1002/jrs.70004">Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals</a>, <strong><em>J. Raman Spectrosc.</em></strong> accepted (2025).</li>
+  <li><strong>N. T. Hung</strong>*, V. V. Thanh*, M. Li and T. Shimada, <a href="https://doi.org/10.1063/5.0276128">Strain effect on optical properties and quantum weight of monolayer MnBi2X4 (X = Te, Se, S)</a>, <strong><em>Appl. Phys. Lett.</em></strong> 127, 113102-1-6 (2025).</li>
+  <li>R. Liu, L. H. Li, Y. Zhang, J. Huang*, M. L. Lin, <strong>N. T. Hung</strong>, H. Guo, Z. Wang, Z. Zhang, R. Saito, P. H. Tan* and T. Yang*, <a href="https://doi.org/10.1103/vvkp-9sth">Characterizing second-order Raman modes in monolayer MoSe2</a>, <strong><em>Phys. Rev. B</em></strong> 112, 075416-1-10 (2025).</li>
+  <li>C. L. Fu*†, M. Cheng*†, <strong>N. T. Hung</strong>*†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li*, <a href="https://doi.org/10.1002/adma.202505642">AI‑driven defect engineering for advanced thermoelectric materials</a>, <strong><em>Adv. Mater.</em></strong> 37, 2505642-1-18 (2025) († Equal contribution).</li>
+  <li>N. V. Thanh, <strong>N. T. Hung</strong>, H. Takehara, A. Taguchi, H. Yi, P. S. Fernandez, H. Ago, P. Yang, L. J. Li, K. Lizarraga, R. Saito and H. L. Liu*, <a href="https://doi.org/10.1103/231t-g3mn">Thickness-dependent excitonic properties of hexagonal boron-nitride thin films</a>, <strong><em>Phys. Rev. Mater.</em></strong> 9, 074010-1-12 (2025).</li>
+  <li>R. Saito*, <strong>N. T. Hung</strong>*, T. Yang, J. Huang, H. L. Liu*, D. P. Gulo, S. Han and L. Tong*, <a href="https://doi.org/10.1002/smll.202308558">Deep-ultraviolet and helicity-dependent Raman spectroscopy for carbon nanotubes and 2D materials</a>, <strong><em>Small</em></strong> 21, 2308558-1-17 (2025). (Invited review)</li>
+  <li>V. V. Thanh* and <strong>N. T. Hung</strong>*, <a href="https://doi.org/10.1021/acsaem.5c01254">Strain effect on Rashba splitting and phonon scattering to improve thermoelectric performance of 2D heterobilayer MoTe2/PtS2</a>, <strong><em>ACS Appl. Energy Mater.</em></strong> 8, 9617-9626 (2025).</li>
   <li>N. Muhammad, W. Mu, <strong>N. T. Hung</strong>*, T. Yang* and D. Zejun*, <a href="https://doi.org/10.1021/acsaem.5c00023">Highly in-plane anisotropic 2D-ZrGeTe4: A promising thermoelectric material with high power factor and figure of merit</a>, <strong><em>ACS Appl. Energy Mater.</em></strong> 8, 5721-5728 (2025).</li>
   <li>N. T. G. Bao, T. N. Q. Trang, N. Thoai, P. B. Thang, V. T. H. Thu* and <strong>N. T. Hung</strong>*, <a href="https://doi.org/10.1021/acsaem.5c00175">Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting</a>, <strong><em>ACS Appl. Energy Mater.</em></strong> 8, 5209-5221 (2025).
     <blockquote>
@@ -231,7 +234,7 @@ J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://doi.org/10.48550
   <li>Y. Zhang, R. Liu, J. Huang*, <strong>N. T. Hung</strong>, R. Saito, T. Yang* and Z. Zhang, <a href="https://doi.org/10.1002/jrs.6768">DUV double-resonant Raman spectra and interference effect in graphene: first-principles calculations</a>, <strong><em>J. Raman Spectrosc.</em></strong> 56, 316-323 (2025).</li>
 </ol>
 <h3 id="2024">2024</h3>
-<ol reversed="reversed" start="58">
+<ol reversed="reversed" start="57">
   <li>R. Liu, L. Li, Y. Zhang, J. Huang*, M. Lin, <strong>N. T. Hung</strong>, Z. Wang, Z. Zhang, R. Saito, P. Tan* and T. Yang*, <a href="https://doi.org/10.1103/PhysRevB.110.245422">Helicity selection rule of double resonance Raman spectra for monolayer MoSe2</a>, <strong><em>Phys. Rev. B</em></strong> 110, 245422-1-9 (2024).</li>
   <li>C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, <strong>N. T. Hung</strong>, R. Saito* and X. Ling*, <a href="https://doi.org/10.1021/acsnano.4c06250">Nontrivial Raman characteristics in 2D non-van der Waals Mo5N6</a>, <strong><em>ACS Nano</em></strong> 18, 32458-32467 (2024).</li>
   <li><strong>N. T. Hung</strong>*, R. Okabe,  A. Chotrattanapituk and M. Li*, <a href="https://doi.org/10.1002/adma.202409175">Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure</a>, <strong><em>Adv. Mat.</em></strong> 36, 2409175-1-11 (2024).
@@ -251,7 +254,6 @@ J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://doi.org/10.48550
       <p>Press release: “<a href="https://news.mit.edu/2024/propelling-atomically-layered-magnets-toward-green-computers-0404">Propelling atomically layered magnets toward green computers</a>” on Apr. 04, 2024, by MIT. This paper was also highlighted in the newsletter: “<a href="https://doi.org/10.1038/s44287-024-00048-3">Van der Waals magnet integration for energy-efficient spintronics</a>” by Nature Reviews Electrical Engineering 1, 217 (2024).</p>
     </blockquote>
   </li>
-  <li>R. Saito*, <strong>N. T. Hung</strong>*, T. Yang, J. Huang, H. L. Liu*, D. P. Gulo, S. Han and L. Tong*, <a href="https://doi.org/10.1002/smll.202308558">Deep-ultraviolet and helicity-dependent Raman spectroscopy for carbon nanotubes and 2D materials</a>, <strong><em>Small</em></strong> 2308558-1-17 (2024). (Invited review)</li>
   <li><strong>N. T. Hung</strong>*, J. Huang, Y. Tatsumi, T. Yang and R. Saito*, <a href="https://doi.org/10.1016/j.cpc.2023.108967">QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO</a>, <strong><em>Comput. Phys. Commun.</em></strong> 295, 108967-1-9 (2024).
     <blockquote>
       <p>GitHub source: <a href="https://github.com/nguyen-group/QERaman">https://github.com/nguyen-group/QERaman</a>.</p>
@@ -413,7 +415,7 @@ J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://doi.org/10.48550
                 
                     <a class="mt-1 mb-1" href="/categories#Quantum-ESPRESSO">Quantum ESPRESSO (4)</a>
                 
-                    <a class="mt-1 mb-1" href="/categories#machine-learning">machine learning (2)</a>
+                    <a class="mt-1 mb-1" href="/categories#machine-learning">machine learning (3)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#Nonlinear-optic">Nonlinear optic (1)</a>
                 
@@ -425,11 +427,13 @@ J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://doi.org/10.48550
                 
                     <a class="mt-1 mb-1" href="/categories#2D-materials">2D materials (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/categories#Quantum-materials">Quantum materials (3)</a>
+                    <a class="mt-1 mb-1" href="/categories#Quantum-materials">Quantum materials (4)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#Graph-neural-network">Graph neural network (1)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#Optic">Optic (2)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#AI">AI (1)</a>
                 
             
             

@@ -5,9 +5,30 @@
     <description>We are a theory-driven research group focused on solid-state theory, simulation, and machine learning in materials science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Jul 2025 15:53:51 +0700</pubDate>
-    <lastBuildDate>Thu, 03 Jul 2025 15:53:51 +0700</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 00:44:08 +0800</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 00:44:08 +0800</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>New tool makes generative AI models more likely to create breakthrough materials</title>
+        <description>&lt;p&gt;Our collaborative paper in artificial intelligence (AI) was selected by MIT news with the title &lt;a href=&quot;https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922&quot;&gt;“New tool makes generative AI models more likely to create breakthrough materials”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This paper introduced SCIGEN (short for Structural Constraint Integration in GENerative model). SCIGEN is a computer code that ensures diffusion models adhere to user-defined constraints at each iterative generation step. With SCIGEN, users can give any generative AI diffusion model geometric structural rules to follow as it generates materials.&lt;/p&gt;
+
+&lt;p&gt;More information: R. Okabe et. al, &lt;a href=&quot;https://www.nature.com/articles/s41563-025-02355-y&quot;&gt;Structural constraint integration in generative model for discovery of quantum material candidates&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Nat. Mater.&lt;/em&gt;&lt;/strong&gt; accepted (2025).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Sep 2025 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/new-tool-makes-generative-ai-models-more-likely-to-create-breakthrough-materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/new-tool-makes-generative-ai-models-more-likely-to-create-breakthrough-materials/</guid>
+        
+        
+        <category>Quantum materials</category>
+        
+        <category>machine learning</category>
+        
+        <category>AI</category>
+        
+      </item>
     
       <item>
         <title>Designing the Future of Clean Energy: Janus Heterobilayers Lead the Way</title>
@@ -15,7 +36,7 @@
 
 &lt;p&gt;More information: N. T. G. Bao et al., &lt;a href=&quot;https://doi.org/10.1021/acsaem.5c00175&quot;&gt;Rational design 2D heterobilayers transition‑metal dichalcogenide and their Janus for efficient water splitting&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Appl. Energy Mater.&lt;/em&gt;&lt;/strong&gt; 8, 5209-5221 (2025).&lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 May 2025 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 16 May 2025 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/Designing-the-future-of-clean-energy-janus-heterobilayers-lead-the-way/</link>
         <guid isPermaLink="true">http://localhost:4000/Designing-the-future-of-clean-energy-janus-heterobilayers-lead-the-way/</guid>
         
@@ -36,7 +57,7 @@
 
 &lt;p&gt;This school will provide a great opportunity for students to engage with leading experts in the field. Through lectures, seminars, and discussions, participants will gain deep insights into cutting-edge developments in topological quantum materials while networking with distinguished researchers shaping the future of quantum science.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Mar 2025 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 25 Mar 2025 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/Advanced-school-on-topological-quantum-matters/</link>
         <guid isPermaLink="true">http://localhost:4000/Advanced-school-on-topological-quantum-matters/</guid>
         
@@ -59,7 +80,7 @@
 
 &lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/adma.202409175&quot;&gt;Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structures&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Adv. Mat.&lt;/em&gt;&lt;/strong&gt; 2409175-1-11 (2024).&lt;/p&gt;
 </description>
-        <pubDate>Tue, 15 Oct 2024 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 15 Oct 2024 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/AI-speeds-up-the-discovery-of-energy-and-quantum-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/AI-speeds-up-the-discovery-of-energy-and-quantum-materials/</guid>
         
@@ -82,7 +103,7 @@
 
 &lt;p&gt;More information: M. Mandal et al. &lt;a href=&quot;https://pubs.aip.org/aip/apr/article/11/2/021429/3299347/Precise-Fermi-level-engineering-in-a-topological&quot;&gt;Precise Fermi level engineering in a topological Weyl semimetal via fast ion implantation&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Phys. Rev.&lt;/em&gt;&lt;/strong&gt; 11, 021429-1-8 (2024).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 17 Jun 2024 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 17 Jun 2024 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/A-new-approach-to-fine-tuning-quantum-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/A-new-approach-to-fine-tuning-quantum-materials/</guid>
         
@@ -99,7 +120,7 @@
 
 &lt;p&gt;More information: S. N. Kajale et al. &lt;a href=&quot;https://doi.org/10.1126/sciadv.adk8669&quot;&gt;Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Sci. Adv.&lt;/em&gt;&lt;/strong&gt; 10, eadk8669-1-7 (2024).&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 Apr 2024 00:00:00 +0700</pubDate>
+        <pubDate>Thu, 04 Apr 2024 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/Propelling-atomically-layered-magnets-toward-green-computers/</link>
         <guid isPermaLink="true">http://localhost:4000/Propelling-atomically-layered-magnets-toward-green-computers/</guid>
         
@@ -126,7 +147,7 @@
 
 &lt;p&gt;The open-source code can download at &lt;a href=&quot;https://github.com/nguyen-group/QERaman&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Oct 2023 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/QERaman-code/</link>
         <guid isPermaLink="true">http://localhost:4000/QERaman-code/</guid>
         
@@ -149,7 +170,7 @@
 
 &lt;p&gt;More information: N. T. Hung et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.3c04436&quot;&gt;Nonlinear Optical Responses of Janus MoSSe/MoS2 Heterobilayers Optimized by Stacking Order and Strain&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 19877–19886 (2023).&lt;/p&gt;
 </description>
-        <pubDate>Tue, 26 Sep 2023 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 26 Sep 2023 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</link>
         <guid isPermaLink="true">http://localhost:4000/Stacking-order-and-strain-boosts-second-harmonic-generation-with-2D-Janus-hetero-bilayers/</guid>
         
@@ -174,7 +195,7 @@
 
 &lt;p&gt;More information: R. Natsui et al. &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsnano.2c10997&quot;&gt;Vapor-Phase Indium Intercalation in van der Waals Nanofibers of Atomically Thin W6Te6 Wires&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Nano&lt;/em&gt;&lt;/strong&gt; 17, 5561–5569 (2023).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Apr 2023 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 03 Apr 2023 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</link>
         <guid isPermaLink="true">http://localhost:4000/Scientists-thread-rows-of-metal-atoms-into-nanofiber-bundles/</guid>
         
@@ -203,7 +224,7 @@
   &lt;li&gt;N. T. Hung, A. R. T. Nugraha and R. Saito, &lt;a href=&quot;https://doi.org/10.1201/9781003290964&quot;&gt;Quantum ESPRESSO Course for Solid‑State Physics&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Jenny Stanford Publishing&lt;/em&gt;&lt;/strong&gt;, New York, 372 Pages, (2022).&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sat, 01 Apr 2023 00:00:00 +0700</pubDate>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/AI-ML-for-materials/</link>
         <guid isPermaLink="true">http://localhost:4000/AI-ML-for-materials/</guid>
         
@@ -213,39 +234,6 @@
         <category>DFT calculations</category>
         
         <category>machine learning</category>
-        
-      </item>
-    
-      <item>
-        <title>Photonics in Materials</title>
-        <description>&lt;p&gt;&lt;strong&gt;Keywords: Raman spectra, Photovoltaics, Photocatalysis, Second harmonic generation, Excitons effect&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;linear-and-nonlinear-optical-response-of-2d-materials&quot;&gt;Linear and nonlinear optical response of 2D materials&lt;/h3&gt;
-
-&lt;p&gt;Two-dimensional (2D) materials are widely applied across many research areas, including photovoltaics, nanoelectronics, and thermoelectricity. Recent advances in top-down and bottom-up synthetic approaches enable the production of 2D crystals with precise and unique optical, mechanical, and electronic properties. In these applications, optical properties play an essential role. In this topic, we study the relevant fields of photonics of the 2D materials and heterostructures by the first-principles calculations, including the linear response, nonlinear response, excitons effect, nonlinear second harmonic generation (SHG), etc, for the applications on photovoltaics, water splitting, laser technology.&lt;/p&gt;
-
-&lt;h3 id=&quot;resonance-raman-spectroscopy&quot;&gt;Resonance Raman spectroscopy&lt;/h3&gt;
-
-&lt;p&gt;Resonance Raman spectroscopy is a powerful tool for characterizing 2D materials, providing insights into their electronic and vibrational properties, especially when the incident laser energy matches the material’s electronic transitions, revealing features like double resonance Raman processes and allowing for the study of electron-photon, electron-defect, and electron-phonon interactions. For example, the resonance Raman spectroscopy can reveal information about the G and 2D bands in graphene, which are related to the vibrational modes of the material. However, Raman calculations at the first-principles level are challenging due to the complexity of the interactions. We are pioneering in this field. We are pioneering in this area. We have developed two first-principle resonant Raman computational codes, &lt;a href=&quot;https://github.com/nguyen-group/QERaman&quot;&gt;QERaman&lt;/a&gt; and &lt;a href=&quot;http://qr2-code.com/&quot;&gt;QR2-code&lt;/a&gt; to calculate the single- and double-resonance Raman spectra, respectively. In this topic, our goal is to search for new physics behind Raman spectra.&lt;/p&gt;
-
-&lt;h3 id=&quot;selected-publications&quot;&gt;Selected Publications&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;D. P. Gulo, N. T. Hung, R. Sankar, R. Saito and H. L. Liu, &lt;a href=&quot;https://doi.org/10.1103/PhysRevMaterials.7.044001&quot;&gt;Exploring optical properties of 2H- and 1T’-MoTe2 single crystals by spectroscopic ellipsometry&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Phys. Rev. Mater.&lt;/em&gt;&lt;/strong&gt; 7, 044001-1-13 (2023).&lt;/li&gt;
-  &lt;li&gt;V. V. Thanh, D. V. Truong and N. T. Hung, &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acsaem.2c03316&quot;&gt;Janus γ-Ge2SSe monolayer as a high-performance material for photocatalysis and thermoelectricity&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;ACS Appl. Energy Mater.&lt;/em&gt;&lt;/strong&gt; 6, 910-919 (2023).&lt;/li&gt;
-  &lt;li&gt;S. Han, Y. Zhao, N. T. Hung, B. Xu, R. Saito, J. Zhang and L. Tong, &lt;a href=&quot;https://doi.org/10.1021/acs.jpclett.1c03826&quot;&gt;Complex Raman tensor in helicity‑changing Raman spectra of black phosphorus by circularly polarized light&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;J. Phys. Chem. Lett.&lt;/em&gt;&lt;/strong&gt; 13, 1241–1248 (2022).&lt;/li&gt;
-  &lt;li&gt;V. V. Thanh, N. D. Van, D. V. Truong, R. Saito and N. T. Hung, &lt;a href=&quot;https://doi.org/10.1016/j.apsusc.2020.146730&quot;&gt;First-principles study of mechanical, electronic and optical properties of Janus monolayer of transition metal dichalcogenides&lt;/a&gt;, &lt;strong&gt;&lt;em&gt;Appl. Surf. Sci.&lt;/em&gt;&lt;/strong&gt; 526, 146730-1-8 (2020).&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sun, 01 Jan 2023 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/photonics-in-materials/</link>
-        <guid isPermaLink="true">http://localhost:4000/photonics-in-materials/</guid>
-        
-        
-        <category>research</category>
-        
-        <category>low-dimensional-materials</category>
-        
-        <category>DFT calculations</category>
         
       </item>
     
