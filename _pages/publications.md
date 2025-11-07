@@ -24,14 +24,14 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
-        { year: 2025, papers: 16, citations: 409 }
+        { year: 2025, papers: 16, citations: 416 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,738 &  H-index: 20 (Scopus)' },
+        title: { text: 'Total Citations: 1,746 &  H-index: 20 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', function () {
 {:start="76"}
 ### 2025
 75. K. Zhang\*, M. Dandu, **N. T. Hung**, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang\*, [Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS2 heterostructures](https://doi.org/10.1021/acsnano.5c10861), ***ACS Nano*** accepted (2025).
+> Press release: “[Study shows light can reshape atom-thin semiconductors for next-generation optical devices](https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices)” on Nov. 4, 2025, by Rice University.
 74. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/xxx), ***J. Mater. Sci. Technol.*** accepted (2025).
 73. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***Nat. Mater.*** accepted (2025).
 72. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.1038/s41563-025-02355-y), ***Nat. Mater.*** accepted (2025).
