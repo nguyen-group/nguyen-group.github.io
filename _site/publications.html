@@ -182,14 +182,14 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
-        { year: 2025, papers: 12, citations: 356 }
+        { year: 2025, papers: 16, citations: 416 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,678 &  H-index: 19 (Scopus)' },
+        title: { text: 'Total Citations: 1,746 &  H-index: 20 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
@@ -207,15 +207,25 @@ document.addEventListener('DOMContentLoaded', function () {
 <h3 id="papers-in-peer-reviewed-journal">Papers in Peer-Reviewed Journal</h3>
 <p>(*: corresponding author; †: equal contribution)</p>
 <h3 id="preprints">Preprints</h3>
-<ol reversed="reversed" start="74">
+<ol reversed="reversed" start="76">
   <li>J. Huang*, R. Liu, Y. Zhang, <strong>N. T. Hung</strong>*, H. Guo, R. Saito and T. Yang*, <a href="https://doi.org/10.48550/arXiv.2505.10041">QR2-code: An open-source program for double resonance Raman spectra</a>, <strong><em>arXiv:2505.10041</em></strong> submitted.</li>
 </ol>
 <h3 id="2025">2025</h3>
-<ol reversed="reversed" start="73">
-  <li>Y. Zhang, R. Liu, J. Huang*, <strong>N. T. Hung</strong>, R. Saito, H. Guo, T. Yang* and Z. Zhang, <a href="https://doi.org/xxx">Polarized double-resonance Raman spectra of black phosphorus</a>, <strong><em>J. Mater. Sci. Technol.</em></strong> accepted (2025).</li>
+<ol reversed="reversed" start="75">
+  <li>K. Zhang*, M. Dandu, <strong>N. T. Hung</strong>, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang*, <a href="https://doi.org/10.1021/acsnano.5c10861">Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS2 heterostructures</a>, <strong><em>ACS Nano</em></strong> accepted (2025).
+    <blockquote>
+      <p>Press release: “<a href="https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices">Study shows light can reshape atom-thin semiconductors for next-generation optical devices</a>” on Nov. 4, 2025, by Rice University.</p>
+    </blockquote>
+  </li>
+  <li>Y. Zhang, R. Liu, J. Huang*, <strong>N. T. Hung</strong>, R. Saito, H. Guo, T. Yang* and Z. Zhang, <a href="https://doi.org/10.1016/j.jmst.2025.09.079">Polarized double-resonance Raman spectra of black phosphorus</a>, <strong><em>J. Mater. Sci. Technol.</em></strong> accepted (2025).</li>
   <li>M. Cheng*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, <strong>N. T. Hung</strong> and M. Li*, <a href="https://doi.org/10.48550/arXiv.2502.02905">AI‑driven approaches for materials design and discovery</a>, <strong><em>Nat. Mater.</em></strong> accepted (2025).</li>
-  <li>R. Okabe*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, <strong>N. T. Hung</strong>, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://www.nature.com/articles/s41563-025-02355-y">Structural constraint integration in generative model for discovery of quantum material candidates</a>, <strong><em>Nat. Mater.</em></strong> accepted (2025).</li>
+  <li>R. Okabe*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, <strong>N. T. Hung</strong>, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://doi.org/10.1038/s41563-025-02355-y">Structural constraint integration in generative model for discovery of quantum material candidates</a>, <strong><em>Nat. Mater.</em></strong> accepted (2025).
+    <blockquote>
+      <p>Press release: “<a href="https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922">New tool makes generative AI models more likely to create breakthrough materials</a>” on Sep. 22, 2025, by MIT.</p>
+    </blockquote>
+  </li>
   <li>B. D. Annawati, K. M. A. Kumar, <strong>N. T. Hung</strong>, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito and H. L. Liu*, <a href="https://doi.org/10.1002/jrs.70004">Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals</a>, <strong><em>J. Raman Spectrosc.</em></strong> accepted (2025).</li>
+  <li>R. Natsu, <strong>N. T. Hung</strong>, D. P. Gulo, K. R. Pasoquen, M. S. Ukhtary, H. L. Liu, R. Saito* and Y. Miyata*, <a href="https://doi.org/10.1063/5.0290512">Optical anisotropy in laterally aligned W6Te6 nanowire bundles</a>, <strong><em>Appl. Phys. Lett.</em></strong> 127, 151907-1-5 (2025).</li>
   <li><strong>N. T. Hung</strong>*, V. V. Thanh*, M. Li and T. Shimada, <a href="https://doi.org/10.1063/5.0276128">Strain effect on optical properties and quantum weight of monolayer MnBi2X4 (X = Te, Se, S)</a>, <strong><em>Appl. Phys. Lett.</em></strong> 127, 113102-1-6 (2025).</li>
   <li>R. Liu, L. H. Li, Y. Zhang, J. Huang*, M. L. Lin, <strong>N. T. Hung</strong>, H. Guo, Z. Wang, Z. Zhang, R. Saito, P. H. Tan* and T. Yang*, <a href="https://doi.org/10.1103/vvkp-9sth">Characterizing second-order Raman modes in monolayer MoSe2</a>, <strong><em>Phys. Rev. B</em></strong> 112, 075416-1-10 (2025).</li>
   <li>C. L. Fu*†, M. Cheng*†, <strong>N. T. Hung</strong>*†, E. Rha, Z. Chen, R. Okabe, D. C. Carrizales, M. Mandal, Y. Cheng and M. Li*, <a href="https://doi.org/10.1002/adma.202505642">AI‑driven defect engineering for advanced thermoelectric materials</a>, <strong><em>Adv. Mater.</em></strong> 37, 2505642-1-18 (2025) († Equal contribution).</li>
@@ -403,7 +413,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 
                     <a class="mt-1 mb-1" href="/categories#3D-Weyl-semimetals">3D Weyl-semimetals (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/categories#DFT-calculations">DFT calculations (8)</a>
+                    <a class="mt-1 mb-1" href="/categories#DFT-calculations">DFT calculations (9)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#awards">awards (1)</a>
                 
@@ -425,13 +435,13 @@ document.addEventListener('DOMContentLoaded', function () {
                 
                     <a class="mt-1 mb-1" href="/categories#QERaman">QERaman (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/categories#2D-materials">2D materials (1)</a>
+                    <a class="mt-1 mb-1" href="/categories#2D-materials">2D materials (2)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#Quantum-materials">Quantum materials (4)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#Graph-neural-network">Graph neural network (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/categories#Optic">Optic (2)</a>
+                    <a class="mt-1 mb-1" href="/categories#Optic">Optic (3)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#AI">AI (1)</a>
                 
