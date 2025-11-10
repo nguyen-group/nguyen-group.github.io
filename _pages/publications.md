@@ -50,9 +50,10 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
+77. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
 76. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.48550/arXiv.2505.10041), ***arXiv:2505.10041*** submitted.
 {: reversed="reversed"}
-{:start="76"}
+{:start="77"}
 ### 2025
 75. K. Zhang\*, M. Dandu, **N. T. Hung**, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang\*, [Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS2 heterostructures](https://doi.org/10.1021/acsnano.5c10861), ***ACS Nano*** accepted (2025).
 > Press release: “[Study shows light can reshape atom-thin semiconductors for next-generation optical devices](https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices)” on Nov. 4, 2025, by Rice University.
