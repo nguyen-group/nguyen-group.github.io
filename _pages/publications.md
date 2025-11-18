@@ -50,10 +50,11 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
+77. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://arxiv.org/abs/2511.12167), ***arXiv:2511.12167*** submitted.
 77. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
 76. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.48550/arXiv.2505.10041), ***arXiv:2505.10041*** submitted.
 {: reversed="reversed"}
-{:start="77"}
+{:start="78"}
 ### 2025
 75. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** accepted (2025).
 74. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.48550/arXiv.2502.02905), ***Nat. Mater.*** accepted (2025).
