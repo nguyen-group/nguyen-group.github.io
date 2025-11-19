@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
-        { year: 2025, papers: 17, citations: 430 }
+        { year: 2025, papers: 17, citations: 428 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
