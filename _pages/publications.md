@@ -24,14 +24,14 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
-        { year: 2025, papers: 16, citations: 418 }
+        { year: 2025, papers: 17, citations: 430 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,748 &  H-index: 20 (Scopus)' },
+        title: { text: 'Total Citations: 1,760 &  H-index: 20 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
-77. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://arxiv.org/abs/2511.12167), ***arXiv:2511.12167*** submitted.
+78. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://arxiv.org/abs/2511.12167), ***arXiv:2511.12167*** submitted.
 77. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
 76. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.48550/arXiv.2505.10041), ***arXiv:2505.10041*** submitted.
 {: reversed="reversed"}
