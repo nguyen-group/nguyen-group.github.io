@@ -24,15 +24,15 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
-        { year: 2025, papers: 19, citations: 457 },
-        { year: 2026, papers: 1, citations: 21 }
+        { year: 2025, papers: 19, citations: 459 },
+        { year: 2026, papers: 1, citations: 23 }
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
     
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,796 &  H-index: 20 (Scopus)' },
+        title: { text: 'Total Citations: 1,800 &  H-index: 21 (Scopus)' },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
