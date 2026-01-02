@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
     Highcharts.chart('container', {
         chart: { zoomType: 'xy', spacingTop: 30 },
         title: {
-            text: 'Citation Impact Over Time',
+            text: 'Citation Impact Over Time (Scopus)',
             style: { fontSize: '20px', fontWeight: '600' }
         },
         subtitle: {
