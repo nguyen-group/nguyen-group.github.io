@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
 {:start="78"}
 ### 2026
 76. B. D. Annawati, K. M. A. Kumar, **N. T. Hung**, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito and H. L. Liu\*, [Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals](https://doi.org/10.1002/jrs.70004), ***J. Raman Spectrosc.*** accepted (2026).
-75. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [AI‑driven approaches for materials design and discovery](https://doi.org/10.1038/s41563-025-02403-7), ***Nat. Mater.*** accepted (2026).
+75. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [Artificial intelligence-driven approaches for materials design and discovery](https://doi.org/10.1038/s41563-025-02403-7), ***Nat. Mater.*** accepted (2026).
 74. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.1016/j.cpc.2025.110005), ***Comput. Phys. Commun.*** 320, 110005-1-6 (2026).
 73. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** 262, 244-251 (2026).
 {: reversed="reversed"}
