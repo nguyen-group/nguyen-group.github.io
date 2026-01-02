@@ -42,8 +42,8 @@ document.addEventListener('DOMContentLoaded', function () {
         ],
         tooltip: { shared: true, split: false, enabled: true },
         series: [
-            { name: 'Citations', type: 'column', data: seriesData('papers'), color: '#979a9a' },
-            { name: 'Papers', type: 'line', data: seriesData('citations'), yAxis: 1, marker: { enabled: true }, color: '#229954', lineWidth: 2 }
+            { name: 'Citations', type: 'column', data: seriesData('citations'), color: '#979a9a' },
+            { name: 'Papers', type: 'line', data: seriesData('papers'), yAxis: 1, marker: { enabled: true }, color: '#229954', lineWidth: 2 }
         ]
     });
 });
