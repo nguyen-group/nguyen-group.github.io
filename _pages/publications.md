@@ -37,13 +37,13 @@ document.addEventListener('DOMContentLoaded', function () {
         title: { text: `Total Citations: ${totalCitations.toLocaleString()} & H-index: 21 (Scopus)` },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
-            { title: { text: 'Papers' }, opposite: true },
-            { title: { text: 'Citations' }, opposite: false }
+            { title: { text: 'Citations' }, opposite: true },
+            { title: { text: 'Papers' }, opposite: false }
         ],
         tooltip: { shared: true, split: false, enabled: true },
         series: [
-            { name: 'Citations', type: 'column', data: seriesData('citations'), color: '#979a9a' },
-            { name: 'Papers', type: 'line', data: seriesData('papers'), yAxis: 1, marker: { enabled: true }, color: '#229954', lineWidth: 2 }
+            { name: 'Citations', type: 'column', data: seriesData('citations'), color: '#229954' },
+            { name: 'Papers', type: 'line', data: seriesData('papers'), yAxis: 1, marker: { enabled: true }, color: '#979a9a', lineWidth: 3 }
         ]
     });
 });
