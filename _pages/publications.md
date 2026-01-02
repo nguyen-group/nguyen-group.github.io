@@ -29,10 +29,12 @@ document.addEventListener('DOMContentLoaded', function () {
     ];
 
     const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
-    
+
+    const totalCitations = data.reduce((sum, item) => sum + item.citations, 0);
+
     Highcharts.chart('container', {
         chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,821 &  H-index: 21 (Scopus)' },
+        title: { text: `Total Citations: ${totalCitations.toLocaleString()} & H-index: 21 (Scopus)` },
         xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
         yAxis: [
             { title: { text: 'Papers' }, opposite: true },
@@ -40,8 +42,8 @@ document.addEventListener('DOMContentLoaded', function () {
         ],
         tooltip: { shared: true, split: false, enabled: true },
         series: [
-            { name: 'Papers', type: 'column', data: seriesData('papers'), color: '#979a9a' },
-            { name: 'Citations', type: 'line', data: seriesData('citations'), yAxis: 1, marker: { enabled: true }, color: '#229954', lineWidth: 2 }
+            { name: 'Citations', type: 'column', data: seriesData('papers'), color: '#979a9a' },
+            { name: 'Papers', type: 'line', data: seriesData('citations'), yAxis: 1, marker: { enabled: true }, color: '#229954', lineWidth: 2 }
         ]
     });
 });
