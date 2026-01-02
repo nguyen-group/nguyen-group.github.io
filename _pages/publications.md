@@ -48,8 +48,11 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         subtitle: {
             text: `<span style="font-size:26px;font-weight:600;color:#1e8449">
-                   ${totalCitations.toLocaleString()}
-                   </span> Total Citations  &nbsp; | &nbsp;  H-index: 21 (Scopus)`,
+                   ${totalCitations.toLocaleString()}</span> 
+                   <span style="font-size:16px;color:#555"> Total Citations</span>
+                   &nbsp; | &nbsp;
+                   <span style="font-size:16px;font-weight:600;color:#2c3e50">
+                   H-index = 21</span>`,
             useHTML: true
         },
         xAxis: {
