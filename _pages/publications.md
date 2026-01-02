@@ -28,22 +28,68 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2026, papers: 1, citations: 28 }
     ];
 
-    const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
+    const yearlyCitations = data.map(d => [
+        Date.UTC(d.year, 0, 1), d.citations
+    ]);
 
-    const totalCitations = data.reduce((sum, item) => sum + item.citations, 0);
+    let cumulative = 0;
+    const cumulativeData = data.map(d => {
+        cumulative += d.citations;
+        return [Date.UTC(d.year, 0, 1), cumulative];
+    });
+
+    const totalCitations = cumulative;
 
     Highcharts.chart('container', {
-        chart: { zoomType: 'xy' },
-        title: { text: `Total Citations: ${totalCitations.toLocaleString()} & H-index: 21 (Scopus)` },
-        xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
+        chart: { zoomType: 'xy', spacingTop: 30 },
+        title: {
+            text: 'Citation Impact Over Time',
+            style: { fontSize: '20px', fontWeight: '600' }
+        },
+        subtitle: {
+            text: `<span style="font-size:26px;font-weight:600;color:#1e8449">
+                   ${totalCitations.toLocaleString()}
+                   </span> Total Citations  &nbsp; | &nbsp;  H-index: 21 (Scopus)`,
+            useHTML: true
+        },
+        xAxis: {
+            type: 'datetime',
+            labels: { format: '{value:%Y}' }
+        },
         yAxis: [
-            { title: { text: 'Citations' }, opposite: true },
-            { title: { text: 'Papers' }, opposite: false }
+            { title: { text: 'Citations per Year' }},
+            { title: { text: 'Total Citations' }, opposite: true }
         ],
-        tooltip: { shared: true, split: false, enabled: true },
+        tooltip: {
+            shared: true,
+            borderRadius: 8,
+            backgroundColor: 'rgba(255,255,255,0.95)'
+        },
         series: [
-            { name: 'Citations', type: 'column', data: seriesData('citations'), color: '#229954' },
-            { name: 'Papers', type: 'line', data: seriesData('papers'), yAxis: 1, marker: { enabled: true }, color: '#979a9a', lineWidth: 3 }
+            {
+                name: 'Citations per Year',
+                type: 'column',
+                data: yearlyCitations,
+                yAxis: 0,
+                color: 'rgba(34,153,84,0.85)',
+                borderRadius: 3
+            },
+            {
+                name: 'Total Citations',
+                type: 'area', 
+                data: cumulativeData,
+                yAxis: 1,
+                color: '#1e8449',
+                lineWidth: 3,
+                fillColor: {
+                    linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                    stops: [
+                        [0, 'rgba(30,132,73,0.45)'],
+                        [1, 'rgba(30,132,73,0.05)']
+                    ]
+                },
+                marker: { enabled: true, radius: 4 }
+            }
         ]
     });
 });
