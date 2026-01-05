@@ -14,7 +14,7 @@ permalink: "/publications"
 <script>
 document.addEventListener('DOMContentLoaded', function () {
     const data = [
-        { year: 2015, papers: 2, citations: 0 },
+        { year: 2015, papers: 2, citations: 1 },
         { year: 2016, papers: 2, citations: 7 },
         { year: 2017, papers: 5, citations: 23 },
         { year: 2018, papers: 4, citations: 42 },
@@ -24,8 +24,8 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
-        { year: 2025, papers: 19, citations: 475 },
-        { year: 2026, papers: 1, citations: 28 }
+        { year: 2025, papers: 20, citations: 479 },
+        { year: 2026, papers: 1, citations: 33 }
     ];
 
     const yearlyCitations = data.map(d => [
