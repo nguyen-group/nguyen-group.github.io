@@ -224,6 +224,7 @@ document.addEventListener('DOMContentLoaded', function () {
 1. D. V. Truong\*, **N. T. Hung**, T. Shimada and T. Kitamura, [Ab initio study of shear strain effects on ferroelectricity at PbTiO3 thin films](https://dx.doi.org/10.1016/j.susc.2012.04.024), ***Surf. Sci.*** 606, 1331-1339 (2012).
 {: reversed="reversed"}
 {:start="17"}
+<!---
 ### Conference papers
 5. V. V. Thanh\*, D. V. Truong and **N. T. Hung**, [Ab initio calculations of ideal strength and electronic property of hydrogenated biphenylene monolayer](https://doi.org/10.1007/978-3-031-39090-6_47), *in Proceedings of the 3rd Annual International Conference on Material, Machines and Methods for Sustainable Development (MMMS2022)*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 415-421 (2024).
 4. V. V. Thanh\*, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn-dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981-989 (2022).
@@ -238,3 +239,4 @@ document.addEventListener('DOMContentLoaded', function () {
 1. **N. T. Hung**\*, [Low-dimensional materials - Solution for thermoelectric development](https://vjol.info.vn/index.php/khcn/article/view/36278/29657), ***Vietnam J. Sci. Tech. Eng.*** 7A, 54-57 (2018).
 {: reversed="reversed"}
 {:start="3"}
+-->
