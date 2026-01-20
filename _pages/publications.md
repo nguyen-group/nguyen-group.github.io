@@ -9,7 +9,25 @@ permalink: "/publications"
 <head>
     <script src="https://code.highcharts.com/highcharts.js"></script>
 </head>
-<div id="container" style="height: 400px; width: 600px;"></div>
+
+<div class="chart-wrapper">
+    <div id="container-left" class="chart-box"></div>
+    <div id="container-right" class="chart-box"></div>
+</div>
+
+<style>
+.chart-wrapper {
+    display: flex;
+    gap: 30px;
+    align-items: stretch;
+}
+
+.chart-box {
+    width: 500px;
+    height: 400px;   /* SAME HEIGHT */
+}
+</style>
+
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
@@ -40,7 +58,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const totalCitations = cumulative;
 
-    Highcharts.chart('container', {
+    Highcharts.chart('container-left', {
+        credits: { enabled: false },
         chart: { zoomType: 'xy', spacingTop: 30 },
         title: {
             text: 'Citation Impact Over Time (Scopus)',
@@ -95,6 +114,95 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         ]
     });
+});
+</script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+    Highcharts.chart('container-right', {
+        credits: { enabled: false },
+        chart: {
+            type: 'pie',
+            spacingTop: 30
+        },
+
+        title: {
+            text: 'Output by Journals</b>',
+            align: 'left',
+            style: {
+                fontSize: '20px',
+                fontWeight: '600'
+            }
+        },
+
+        tooltip: {
+            pointFormat: '<b>{point.percentage:.1f}%</b>'
+        },
+
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                innerSize: '0%',   // set to '55%' if you want donut
+                dataLabels: {
+                    enabled: false
+                },
+                showInLegend: true,
+                borderWidth: 1,
+                borderColor: '#666'
+            }
+        },
+
+        legend: {
+            layout: 'vertical',
+            align: 'center',
+            verticalAlign: 'bottom',
+            itemMarginTop: 10,
+            itemMarginBottom: 10,
+            symbolRadius: 0,
+            itemStyle: {
+                fontSize: '16px',
+                fontWeight: '400'
+            },
+            labelFormatter: function () {
+                return `${this.name} (${this.percentage.toFixed(1)}%)`;
+            }
+        },
+
+        credits: {
+            enabled: false
+        },
+
+        series: [{
+            name: 'Publications',
+            colorByPoint: true,
+            data: [
+                {
+                    name: 'Physical Review Journals',
+                    y: 16,
+                    color: '#1e9ae0'
+                },
+                {
+                    name: 'ACS Nano',
+                    y: 5,
+                    color: '#0b3c73'
+                },
+                {
+                    name: 'Nature Materials',
+                    y: 2,
+                    color: '#ff4d00'
+                },
+                {
+                    name: 'Other',
+                    y: 55,
+                    color: '#e0e0e0'
+                }
+            ]
+        }]
+    });
+
 });
 </script>
 
