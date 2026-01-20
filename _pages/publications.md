@@ -10,15 +10,25 @@ permalink: "/publications"
     <script src="https://code.highcharts.com/highcharts.js"></script>
 </head>
 
-<div class="chart-wrapper"
-     style="display:flex; gap:30px; align-items:stretch;">
-
-    <div id="container-left" class="chart-box"
-         style="width:600px; height:400px;"></div>
-
-    <div id="container-right" class="chart-box"
-         style="width:500px; height:400px;"></div>
+<div class="chart-wrapper">
+    <div id="container-left" class="chart-box"></div>
+    <div id="container-right" class="chart-box"></div>
 </div>
+
+<style>
+.chart-wrapper { display: flex; gap: 30px; align-items: stretch; }
+
+/* Desktop sizes */
+#container-left { width: 600px; height: 400px; }
+#container-right { width: 500px; height: 400px; }
+
+/* Mobile: stack vertically */
+@media (max-width: 768px) {
+    .chart-wrapper { flex-direction: column; align-items: center; }
+    #container-left,
+    #container-right { width: 100%; max-width: 600px; }
+}
+</style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
