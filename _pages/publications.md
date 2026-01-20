@@ -167,12 +167,12 @@ document.addEventListener('DOMContentLoaded', function () {
             colorByPoint: true,
             data: [
                 {
-                    name: 'Physical Review Journals',
+                    name: 'APS Journals (PRL, PRB, ect.)',
                     y: 16,
                     color: '#1e9ae0'
                 },
                 {
-                    name: 'ACS Nano',
+                    name: 'ACS Journals (ACS Nano, Nano Letters, ect.)',
                     y: 14,
                     color: '#0b3c73'
                 },
