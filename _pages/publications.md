@@ -10,24 +10,15 @@ permalink: "/publications"
     <script src="https://code.highcharts.com/highcharts.js"></script>
 </head>
 
-<div class="chart-wrapper">
-    <div id="container-left" class="chart-box"></div>
-    <div id="container-right" class="chart-box"></div>
+<div class="chart-wrapper"
+     style="display:flex; gap:30px; align-items:stretch;">
+
+    <div id="container-left" class="chart-box"
+         style="width:600px; height:400px;"></div>
+
+    <div id="container-right" class="chart-box"
+         style="width:500px; height:400px;"></div>
 </div>
-
-<style>
-.chart-wrapper {
-    display: flex;
-    gap: 30px;
-    align-items: stretch;
-}
-
-.chart-box {
-    width: 500px;
-    height: 400px;   /* SAME HEIGHT */
-}
-</style>
-
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
@@ -168,31 +159,11 @@ document.addEventListener('DOMContentLoaded', function () {
             name: 'Publications',
             colorByPoint: true,
             data: [
-                {
-                    name: 'APS Journals (PRL, PRB, ect.)',
-                    y: 16,
-                    color: '#1e9ae0'
-                },
-                {
-                    name: 'ACS Journals (ACS Nano, Nano Letters, ect.)',
-                    y: 14,
-                    color: '#0b3c73'
-                },
-                {
-                    name: 'Advanced Materials',
-                    y: 2,
-                    color: '#ff4d00'
-                },
-                {
-                    name: 'Nature Materials',
-                    y: 2,
-                    color: '#ffbb00'
-                },
-                {
-                    name: 'Other',
-                    y: 44,
-                    color: '#e0e0e0'
-                }
+                { name: 'APS Journals (PRL, PRB, ect.)', y: 16, color: '#1e9ae0' },
+                { name: 'ACS Journals (ACS Nano, Nano Letters, ect.)', y: 18, color: '#0b3c73' },
+                { name: 'Advanced Materials', y: 2, color: '#ff4d00' },
+                { name: 'Nature Materials', y: 2, color: '#ffbb00' },
+                { name: 'Other', y: 40, color: '#e0e0e0' }
             ]
         }]
     });
