@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', function () {
         chart: { zoomType: 'xy', spacingTop: 20 },
         title: {
             text: 'Citation Impact Over Time (Scopus)',
+            align: 'left',
             style: { fontSize: '20px', fontWeight: '600' }
         },
         subtitle: {
@@ -126,6 +127,7 @@ document.addEventListener('DOMContentLoaded', function () {
         chart: { type: 'pie', spacingTop: 20 },
         title: {
             text: 'Output by Journals',
+            align: 'left',
             style: { fontSize: '20px', fontWeight: '600'}
         },
         tooltip: {
