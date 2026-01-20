@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', function () {
             itemMarginBottom: 10,
             symbolRadius: 0,
             itemStyle: {
-                fontSize: '16px',
+                fontSize: '14px',
                 fontWeight: '400'
             },
             labelFormatter: function () {
