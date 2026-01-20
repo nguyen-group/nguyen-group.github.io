@@ -173,23 +173,28 @@ document.addEventListener('DOMContentLoaded', function () {
                 },
                 {
                     name: 'ACS Nano',
-                    y: 5,
+                    y: 14,
                     color: '#0b3c73'
                 },
                 {
-                    name: 'Nature Materials',
+                    name: 'Advanced Materials',
                     y: 2,
                     color: '#ff4d00'
                 },
                 {
+                    name: 'Nature Materials',
+                    y: 2,
+                    color: '#ffbb00'
+                },
+                {
                     name: 'Other',
-                    y: 55,
+                    y: 44,
                     color: '#e0e0e0'
                 }
             ]
         }]
     });
-    
+
 });
 </script>
 
