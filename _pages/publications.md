@@ -60,10 +60,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     Highcharts.chart('container-left', {
         credits: { enabled: false },
-        chart: { zoomType: 'xy', spacingTop: 20 },
+        chart: { zoomType: 'xy', spacingTop: 30 },
         title: {
             text: 'Citation Impact Over Time (Scopus)',
-            align: 'left',
+            align: 'center',
             style: { fontSize: '20px', fontWeight: '600' }
         },
         subtitle: {
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     Highcharts.chart('container-right', {
         credits: { enabled: false },
-        chart: { type: 'pie', spacingTop: 20 },
+        chart: { type: 'pie', spacingTop: 30 },
         title: {
             text: 'Output by Journals',
             align: 'left',
