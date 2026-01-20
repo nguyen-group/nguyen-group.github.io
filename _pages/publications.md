@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     Highcharts.chart('container-left', {
         credits: { enabled: false },
-        chart: { zoomType: 'xy', spacingTop: 30 },
+        chart: { zoomType: 'xy', spacingTop: 20 },
         title: {
             text: 'Citation Impact Over Time (Scopus)',
             style: { fontSize: '20px', fontWeight: '600' }
@@ -123,24 +123,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     Highcharts.chart('container-right', {
         credits: { enabled: false },
-        chart: {
-            type: 'pie',
-            spacingTop: 30
-        },
-
+        chart: { type: 'pie', spacingTop: 20 },
         title: {
-            text: 'Output by Journals</b>',
-            align: 'left',
-            style: {
-                fontSize: '20px',
-                fontWeight: '600'
-            }
+            text: 'Output by Journals',
+            style: { fontSize: '20px', fontWeight: '600'}
         },
-
         tooltip: {
             pointFormat: '<b>{point.percentage:.1f}%</b>'
         },
-
         plotOptions: {
             pie: {
                 allowPointSelect: true,
@@ -154,7 +144,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 borderColor: '#666'
             }
         },
-
         legend: {
             layout: 'vertical',
             align: 'center',
@@ -170,11 +159,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 return `${this.name} (${this.percentage.toFixed(1)}%)`;
             }
         },
-
         credits: {
             enabled: false
         },
-
         series: [{
             name: 'Publications',
             colorByPoint: true,
@@ -202,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function () {
             ]
         }]
     });
-
+    
 });
 </script>
 
