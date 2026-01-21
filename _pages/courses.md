@@ -37,8 +37,8 @@ This course is designed for undergraduate students at [Global Undergraduate Prog
 ---
 ### Workshops
 
-#### Lecture Series 2025 at VNU-HCM: Computing and AI in Next-Generation Semiconductor Materials.
-22-30/12/2025, University of Science, Vietnam National University‑Ho Chi Minh City, Vietnam. 
+#### Lecture Series 2025 at VNU-HCM: Advancing Computational Approaches, Simulation, and AI for Next-Generation Semiconductor Materials
+24-26/12/2025, University of Science, Vietnam National University‑Ho Chi Minh City, Vietnam. 
 >For details, please visit the website: [https://hcmus.edu.vn/chuoi-chuyen-de-hoc-thuat-mo-huong-tiep-can-tinh-toan-va-ai-trong-nghien-cuu-vat-lieu-ban-dan-the-he-moi/](https://hcmus.edu.vn/chuoi-chuyen-de-hoc-thuat-mo-huong-tiep-can-tinh-toan-va-ai-trong-nghien-cuu-vat-lieu-ban-dan-the-he-moi/) and [https://hcmus.edu.vn/chuong-trinh-seminar-khoa-hoc-cung-nha-khoa-hoc-tre-tai-nang-ts-nguyen-tuan-hung/](https://hcmus.edu.vn/chuong-trinh-seminar-khoa-hoc-cung-nha-khoa-hoc-tre-tai-nang-ts-nguyen-tuan-hung/)
 
 <table width="800">
