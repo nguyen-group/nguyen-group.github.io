@@ -167,12 +167,31 @@
 <head>
     <script src="https://code.highcharts.com/highcharts.js"></script>
 </head>
-<div id="container" style="height: 400px; width: 600px;"></div>
+
+<div class="chart-wrapper">
+    <div id="container-left" class="chart-box"></div>
+    <div id="container-right" class="chart-box"></div>
+</div>
+
+<style>
+.chart-wrapper { display: flex; gap: 30px; align-items: stretch; }
+
+/* Desktop sizes */
+#container-left { width: 600px; height: 400px; }
+#container-right { width: 500px; height: 400px; }
+
+/* Mobile: stack vertically */
+@media (max-width: 768px) {
+    .chart-wrapper { flex-direction: column; align-items: center; }
+    #container-left,
+    #container-right { width: 100%; max-width: 600px; }
+}
+</style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
     const data = [
-        { year: 2015, papers: 2, citations: 0 },
+        { year: 2015, papers: 2, citations: 1 },
         { year: 2016, papers: 2, citations: 7 },
         { year: 2017, papers: 5, citations: 23 },
         { year: 2018, papers: 4, citations: 42 },
@@ -182,49 +201,171 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
-        { year: 2025, papers: 16, citations: 418 }
+        { year: 2025, papers: 20, citations: 472 },
+        { year: 2026, papers: 2, citations: 51 }
     ];
 
-    const seriesData = (field) => data.map(item => [Date.UTC(item.year, 0, 1), item[field]]);
-    
-    Highcharts.chart('container', {
-        chart: { zoomType: 'xy' },
-        title: { text: 'Total Citations: 1,748 &  H-index: 20 (Scopus)' },
-        xAxis: { type: 'datetime', title: { text: 'Year' }, labels: { format: '{value:%Y}' } },
+    const yearlyCitations = data.map(d => [
+        Date.UTC(d.year, 0, 1), d.citations
+    ]);
+
+    let cumulative = 0;
+    const cumulativeData = data.map(d => {
+        cumulative += d.citations;
+        return [Date.UTC(d.year, 0, 1), cumulative];
+    });
+
+    const totalCitations = cumulative;
+
+    Highcharts.chart('container-left', {
+        credits: { enabled: false },
+        chart: { zoomType: 'xy', spacingTop: 30 },
+        title: {
+            text: 'Citation Impact Over Time (Scopus)',
+            align: 'center',
+            style: { fontSize: '20px', fontWeight: '600' }
+        },
+        subtitle: {
+            text: `<span style="font-size:26px;font-weight:600;color:#1e8449">
+                   ${totalCitations.toLocaleString()}</span> 
+                   <span style="font-size:16px;color:#555"> Total Citations</span>
+                   &nbsp; | &nbsp;
+                   <span style="font-size:16px;font-weight:600;color:#2c3e50">
+                   H-index = 21</span>`,
+            useHTML: true
+        },
+        xAxis: {
+            type: 'datetime',
+            labels: { format: '{value:%Y}' }
+        },
         yAxis: [
-            { title: { text: 'Papers' }, opposite: true },
-            { title: { text: 'Citations' }, opposite: false }
+            { title: { text: 'Citations per Year' }},
+            { title: { text: 'Total Citations' }, opposite: true }
         ],
-        tooltip: { shared: true, split: false, enabled: true },
+        tooltip: {
+            shared: true,
+            borderRadius: 8,
+            backgroundColor: 'rgba(255,255,255,0.95)'
+        },
         series: [
-            { name: 'Papers', type: 'column', data: seriesData('papers'), color: '#979a9a' },
-            { name: 'Citations', type: 'line', data: seriesData('citations'), yAxis: 1, marker: { enabled: true }, color: '#229954', lineWidth: 2 }
+            {
+                name: 'Citations per Year',
+                type: 'column',
+                data: yearlyCitations,
+                yAxis: 0,
+                color: 'rgba(34,153,84,0.85)',
+                borderRadius: 3
+            },
+            {
+                name: 'Total Citations',
+                type: 'area', 
+                data: cumulativeData,
+                yAxis: 1,
+                color: '#1e8449',
+                lineWidth: 3,
+                fillColor: {
+                    linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                    stops: [
+                        [0, 'rgba(30,132,73,0.45)'],
+                        [1, 'rgba(30,132,73,0.05)']
+                    ]
+                },
+                marker: { enabled: true, radius: 4 }
+            }
         ]
     });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+    Highcharts.chart('container-right', {
+        credits: { enabled: false },
+        chart: { type: 'pie', spacingTop: 30 },
+        title: {
+            text: 'Output by Journals',
+            align: 'left',
+            style: { fontSize: '20px', fontWeight: '600'}
+        },
+        tooltip: {
+            pointFormat: '<b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                innerSize: '0%',   // set to '55%' if you want donut
+                dataLabels: {
+                    enabled: false
+                },
+                showInLegend: true,
+                borderWidth: 1,
+                borderColor: '#666'
+            }
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'center',
+            verticalAlign: 'bottom',
+            itemMarginTop: 10,
+            itemMarginBottom: 10,
+            symbolRadius: 0,
+            itemStyle: {
+                fontSize: '14px',
+                fontWeight: '400'
+            },
+            labelFormatter: function () {
+                return `${this.name} (${this.percentage.toFixed(1)}%)`;
+            }
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: 'Publications',
+            colorByPoint: true,
+            data: [
+                { name: 'APS Journals (PRL, PRB, ect.)', y: 16, color: '#1e9ae0' },
+                { name: 'ACS Journals (ACS Nano, Nano Letters, ect.)', y: 18, color: '#0b3c73' },
+                { name: 'Advanced Materials', y: 2, color: '#ff4d00' },
+                { name: 'Nature Materials', y: 2, color: '#ffbb00' },
+                { name: 'Other', y: 40, color: '#e0e0e0' }
+            ]
+        }]
+    });
+
 });
 </script>
 
 <h3 id="papers-in-peer-reviewed-journal">Papers in Peer-Reviewed Journal</h3>
 <p>(*: corresponding author; †: equal contribution)</p>
 <h3 id="preprints">Preprints</h3>
-<ol reversed="reversed" start="76">
-  <li>J. Huang*, R. Liu, Y. Zhang, <strong>N. T. Hung</strong>*, H. Guo, R. Saito and T. Yang*, <a href="https://doi.org/10.48550/arXiv.2505.10041">QR2-code: An open-source program for double resonance Raman spectra</a>, <strong><em>arXiv:2505.10041</em></strong> submitted.</li>
+<ol reversed="reversed" start="80">
+  <li>Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu* and <strong>N. T. Hung</strong>*, <a href="https://arxiv.org/abs/2511.12167">Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy</a>, <strong><em>arXiv:2511.12167</em></strong> submitted.</li>
+  <li>N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu* and <strong>N. T. Hung</strong>*, <a href="https://arxiv.org/abs/2511.05437">Point defects limited carrier mobility in Janus MoSSe monolayer</a>, <strong><em>arXiv:2511.05437</em></strong> submitted.</li>
+</ol>
+<h3 id="2026">2026</h3>
+<ol reversed="reversed" start="78">
+  <li>R. Saito*, <strong>N. T. Hung</strong>, J. Huang, R. Liu and T. Yang, <a href="https://doi.org/10.35848/1882-0786/ae37c5">Theoretical advances in resonance Raman spectroscopy of solid</a>, <strong><em>Appl. Phys. Express</em></strong> accepted (2026). (Invited review)</li>
+  <li>P. Paukatong, <strong>N. T. Hung</strong>, K. M. A. Kumar, R. Saito and H. L. Liu*, <a href="https://doi.org/10.1002/jrs.70113">Helicity-dependent Raman spectroscopy of diamond and zinc-blende crystal structures</a>, <strong><em>J. Raman Spectrosc.</em></strong> accepted (2026).</li>
+  <li>M. Cheng*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, <strong>N. T. Hung</strong> and M. Li*, <a href="https://doi.org/10.1038/s41563-025-02403-7">Artificial intelligence-driven approaches for materials design and discovery</a>, <strong><em>Nat. Mater.</em></strong> accepted (2026).</li>
+  <li>B. D. Annawati, K. M. A. Kumar, <strong>N. T. Hung</strong>, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito and H. L. Liu*, <a href="https://doi.org/10.1002/jrs.70004">Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals</a>, <strong><em>J. Raman Spectrosc.</em></strong> 57, 11-22 (2026).</li>
+  <li>J. Huang*, R. Liu, Y. Zhang, <strong>N. T. Hung</strong>*, H. Guo, R. Saito and T. Yang*, <a href="https://doi.org/10.1016/j.cpc.2025.110005">QR2-code: An open-source program for double resonance Raman spectra</a>, <strong><em>Comput. Phys. Commun.</em></strong> 320, 110005-1-12 (2026).</li>
+  <li>Y. Zhang, R. Liu, J. Huang*, <strong>N. T. Hung</strong>, R. Saito, H. Guo, T. Yang* and Z. Zhang, <a href="https://doi.org/10.1016/j.jmst.2025.09.079">Polarized double-resonance Raman spectra of black phosphorus</a>, <strong><em>J. Mater. Sci. Technol.</em></strong> 262, 244-251 (2026).</li>
 </ol>
 <h3 id="2025">2025</h3>
-<ol reversed="reversed" start="75">
-  <li>K. Zhang*, M. Dandu, <strong>N. T. Hung</strong>, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang*, <a href="https://doi.org/10.1021/acsnano.5c10861">Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS2 heterostructures</a>, <strong><em>ACS Nano</em></strong> accepted (2025).
-    <blockquote>
-      <p>Press release: “<a href="https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices">Study shows light can reshape atom-thin semiconductors for next-generation optical devices</a>” on Nov. 4, 2025, by Rice University.</p>
-    </blockquote>
-  </li>
-  <li>Y. Zhang, R. Liu, J. Huang*, <strong>N. T. Hung</strong>, R. Saito, H. Guo, T. Yang* and Z. Zhang, <a href="https://doi.org/10.1016/j.jmst.2025.09.079">Polarized double-resonance Raman spectra of black phosphorus</a>, <strong><em>J. Mater. Sci. Technol.</em></strong> accepted (2025).</li>
-  <li>M. Cheng*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, <strong>N. T. Hung</strong> and M. Li*, <a href="https://doi.org/10.48550/arXiv.2502.02905">AI‑driven approaches for materials design and discovery</a>, <strong><em>Nat. Mater.</em></strong> accepted (2025).</li>
+<ol reversed="reversed" start="72">
   <li>R. Okabe*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, <strong>N. T. Hung</strong>, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng* and M. Li*, <a href="https://doi.org/10.1038/s41563-025-02355-y">Structural constraint integration in generative model for discovery of quantum material candidates</a>, <strong><em>Nat. Mater.</em></strong> accepted (2025).
     <blockquote>
       <p>Press release: “<a href="https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922">New tool makes generative AI models more likely to create breakthrough materials</a>” on Sep. 22, 2025, by MIT.</p>
     </blockquote>
   </li>
-  <li>B. D. Annawati, K. M. A. Kumar, <strong>N. T. Hung</strong>, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito and H. L. Liu*, <a href="https://doi.org/10.1002/jrs.70004">Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals</a>, <strong><em>J. Raman Spectrosc.</em></strong> accepted (2025).</li>
+  <li>K. Zhang*, M. Dandu, <strong>N. T. Hung</strong>, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang*, <a href="https://doi.org/10.1021/acsnano.5c10861">Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS2 heterostructures</a>, <strong><em>ACS Nano</em></strong> 19, 38371−38380 (2025).
+    <blockquote>
+      <p>Press release: “<a href="https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices">Study shows light can reshape atom-thin semiconductors for next-generation optical devices</a>” on Nov. 4, 2025, by Rice University.</p>
+    </blockquote>
+  </li>
   <li>R. Natsu, <strong>N. T. Hung</strong>, D. P. Gulo, K. R. Pasoquen, M. S. Ukhtary, H. L. Liu, R. Saito* and Y. Miyata*, <a href="https://doi.org/10.1063/5.0290512">Optical anisotropy in laterally aligned W6Te6 nanowire bundles</a>, <strong><em>Appl. Phys. Lett.</em></strong> 127, 151907-1-5 (2025).</li>
   <li><strong>N. T. Hung</strong>*, V. V. Thanh*, M. Li and T. Shimada, <a href="https://doi.org/10.1063/5.0276128">Strain effect on optical properties and quantum weight of monolayer MnBi2X4 (X = Te, Se, S)</a>, <strong><em>Appl. Phys. Lett.</em></strong> 127, 113102-1-6 (2025).</li>
   <li>R. Liu, L. H. Li, Y. Zhang, J. Huang*, M. L. Lin, <strong>N. T. Hung</strong>, H. Guo, Z. Wang, Z. Zhang, R. Saito, P. H. Tan* and T. Yang*, <a href="https://doi.org/10.1103/vvkp-9sth">Characterizing second-order Raman modes in monolayer MoSe2</a>, <strong><em>Phys. Rev. B</em></strong> 112, 075416-1-10 (2025).</li>
@@ -365,20 +506,22 @@ document.addEventListener('DOMContentLoaded', function () {
   <li><strong>N. T. Hung</strong> and D. V. Truong*, <a href="https://dx.doi.org/10.1016/j.susc.2015.05.004">Ab initio study of the structural transformations and pseudoelasticity in Cu nanowires</a>, <strong><em>Surf. Sci.</em></strong> 641, 1-5 (2015).</li>
   <li>D. V. Truong*, <strong>N. T. Hung</strong>, T. Shimada and T. Kitamura, <a href="https://dx.doi.org/10.1016/j.susc.2012.04.024">Ab initio study of shear strain effects on ferroelectricity at PbTiO3 thin films</a>, <strong><em>Surf. Sci.</em></strong> 606, 1331-1339 (2012).</li>
 </ol>
-<h3 id="conference-papers">Conference papers</h3>
-<ol reversed="reversed" start="5">
-  <li>V. V. Thanh*, D. V. Truong and <strong>N. T. Hung</strong>, <a href="https://doi.org/10.1007/978-3-031-39090-6_47">Ab initio calculations of ideal strength and electronic property of hydrogenated biphenylene monolayer</a>, <em>in Proceedings of the 3rd Annual International Conference on Material, Machines and Methods for Sustainable Development (MMMS2022)</em>, <strong><em>Lecture Notes in Mechanical Engineering</em></strong>, Springer, Singapore 415-421 (2024).</li>
-  <li>V. V. Thanh*, N. T. Dung, D. V. Truong and <strong>N. T. Hung</strong>, <a href="https://doi.org/10.1007/978-981-16-3239-6_77">Turning electronic and optical properties of monolayer Janus Sn-dichalcogenides by biaxial strain</a>, <em>in Modern Mechanics and Applications</em>, <strong><em>Lecture Notes in Mechanical Engineering</em></strong>, Springer, Singapore 981-989 (2022).</li>
-  <li>L. X. Bach, V. V. Thanh*, H. V. Bao, D. V. Truong and <strong>N. T. Hung</strong>, <a href="https://doi.org/10.1007/978-981-16-3239-6_87">Electromechanical properties of monolayer Sn-dichalcogenides</a>, <em>in Modern Mechanics and Applications</em>, <strong><em>Lecture Notes in Mechanical Engineering</em></strong>, Springer, Singapore 1113-1119 (2022).</li>
-  <li>N. V. Duy, V. V. Thanh*, <strong>N. T. Hung</strong> and D. V. Truong, <a href="https://doi.org/10.1007/978-981-19-1968-8_58">Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures</a>, <em>in The AUN/SEED-Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021</em>, <strong><em>Lecture Notes in Mechanical Engineering</em></strong>, Springer, Singapore 710-718 (2022).</li>
-  <li>V. V. Thanh*, <strong>N. T. Hung</strong>, T. T. Quang and D. V. Truong, <a href="http://doi.org/10.7736/KSPE.2019.36.8.699">Determining ideal strength and electronic properties of Ge/Si core-shell nanowires</a>, <strong><em>J. Korean Soc. Precis. Eng.</em></strong> 36, 1-6 (2019).</li>
-</ol>
-<h3 id="popular-articles-in-vietnamese">Popular articles (in Vietnamese)</h3>
-<ol reversed="reversed" start="3">
-  <li><strong>N. T. Hung</strong>* and V. V. Thanh, <a href="https://vjol.info.vn/index.php/khcn/article/view/68899/58291">Thermal power and future applications in the automotive industry</a>, <strong><em>Vietnam J. Sci. Tech. Eng.</em></strong> 7A, 62-64 (2022).</li>
-  <li><strong>N. T. Hung</strong>* and V. V. Thanh, <a href="https://vjol.info.vn/index.php/khcn/article/view/51816/42670">Artificial muscle: When materials overcome nature’s evolution</a>, <strong><em>Vietnam J. Sci. Tech. Eng.</em></strong> 9A, 62-64 (2020).</li>
-  <li><strong>N. T. Hung</strong>*, <a href="https://vjol.info.vn/index.php/khcn/article/view/36278/29657">Low-dimensional materials - Solution for thermoelectric development</a>, <strong><em>Vietnam J. Sci. Tech. Eng.</em></strong> 7A, 54-57 (2018).</li>
-</ol>
+<!---
+### Conference papers
+5. V. V. Thanh\*, D. V. Truong and **N. T. Hung**, [Ab initio calculations of ideal strength and electronic property of hydrogenated biphenylene monolayer](https://doi.org/10.1007/978-3-031-39090-6_47), *in Proceedings of the 3rd Annual International Conference on Material, Machines and Methods for Sustainable Development (MMMS2022)*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 415-421 (2024).
+4. V. V. Thanh\*, N. T. Dung, D. V. Truong and **N. T. Hung**, [Turning electronic and optical properties of monolayer Janus Sn-dichalcogenides by biaxial strain](https://doi.org/10.1007/978-981-16-3239-6_77), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 981-989 (2022).
+3. L. X. Bach, V. V. Thanh\*, H. V. Bao, D. V. Truong and **N. T. Hung**, [Electromechanical properties of monolayer Sn-dichalcogenides](https://doi.org/10.1007/978-981-16-3239-6_87), *in Modern Mechanics and Applications*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 1113-1119 (2022).
+2. N. V. Duy, V. V. Thanh\*, **N. T. Hung** and D. V. Truong, [Electromechanical actuators based on monolayer borophene with 𝛽12 and Χ3 structures](https://doi.org/10.1007/978-981-19-1968-8_58), *in The AUN/SEED-Net Joint Regional Conference in Transportation, Energy, and Mechanical Manufacturing Engineering. RCTEMME 2021*, ***Lecture Notes in Mechanical Engineering***, Springer, Singapore 710-718 (2022).
+1. V. V. Thanh\*, **N. T. Hung**, T. T. Quang and D. V. Truong, [Determining ideal strength and electronic properties of Ge/Si core-shell nanowires](http://doi.org/10.7736/KSPE.2019.36.8.699), ***J. Korean Soc. Precis. Eng.*** 36, 1-6 (2019).
+{: reversed="reversed"}
+{:start="5"}
+### Popular articles (in Vietnamese)
+3. **N. T. Hung**\* and V. V. Thanh, [Thermal power and future applications in the automotive industry](https://vjol.info.vn/index.php/khcn/article/view/68899/58291), ***Vietnam J. Sci. Tech. Eng.*** 7A, 62-64 (2022).
+2. **N. T. Hung**\* and V. V. Thanh, [Artificial muscle: When materials overcome nature's evolution](https://vjol.info.vn/index.php/khcn/article/view/51816/42670), ***Vietnam J. Sci. Tech. Eng.*** 9A, 62-64 (2020).
+1. **N. T. Hung**\*, [Low-dimensional materials - Solution for thermoelectric development](https://vjol.info.vn/index.php/khcn/article/view/36278/29657), ***Vietnam J. Sci. Tech. Eng.*** 7A, 54-57 (2018).
+{: reversed="reversed"}
+{:start="3"}
+-->
 
     </div>
 
@@ -457,7 +600,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © 2025 Interdisciplinary Materials Group at National Taiwan University 
+                Copyright © 2026 Interdisciplinary Materials Group at National Taiwan University 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
