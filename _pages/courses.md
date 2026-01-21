@@ -37,6 +37,31 @@ This course is designed for undergraduate students at [Global Undergraduate Prog
 ---
 ### Workshops
 
+#### Lecture Series 2025 at VNU-HCM: Computing and AI in Next-Generation Semiconductor Materials.
+22-30/12/2025, University of Science, Vietnam National University‑Ho Chi Minh City, Vietnam. 
+>For details, please visit the website: [https://hcmus.edu.vn/chuoi-chuyen-de-hoc-thuat-mo-huong-tiep-can-tinh-toan-va-ai-trong-nghien-cuu-vat-lieu-ban-dan-the-he-moi/](https://hcmus.edu.vn/chuoi-chuyen-de-hoc-thuat-mo-huong-tiep-can-tinh-toan-va-ai-trong-nghien-cuu-vat-lieu-ban-dan-the-he-moi/) and [https://hcmus.edu.vn/chuong-trinh-seminar-khoa-hoc-cung-nha-khoa-hoc-tre-tai-nang-ts-nguyen-tuan-hung/](https://hcmus.edu.vn/chuong-trinh-seminar-khoa-hoc-cung-nha-khoa-hoc-tre-tai-nang-ts-nguyen-tuan-hung/)
+
+<table width="800">
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/workshops/hcmus2025-1.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/workshops/hcmus2025-2.jpg" alt="" />
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/workshops/hcmus2025-3.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/workshops/hcmus2025-4.jpg" alt="" />
+        </td>
+    </tr>
+</table>
+
+<br>
+
 #### Summer Workshop 2023: An Introduction First-Principles Calculations and Deep Learning for Engineers
 28/7/2022, Hanoi University of Science and Technology, Hanoi, Vietnam. 
 >For details, please visit the workshop website: [https://nguyen-group.github.io/workshops/cms2023/](https://nguyen-group.github.io/workshops/cms2023/)
