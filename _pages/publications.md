@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 296 },
         { year: 2025, papers: 20, citations: 472 },
-        { year: 2026, papers: 2, citations: 51 }
+        { year: 2026, papers: 4, citations: 52 }
     ];
 
     const yearlyCitations = data.map(d => [
@@ -139,9 +139,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 allowPointSelect: true,
                 cursor: 'pointer',
                 innerSize: '0%',   // set to '55%' if you want donut
-                dataLabels: {
-                    enabled: false
-                },
+                dataLabels: { enabled: false },
                 showInLegend: true,
                 borderWidth: 1,
                 borderColor: '#666'
@@ -154,16 +152,10 @@ document.addEventListener('DOMContentLoaded', function () {
             itemMarginTop: 10,
             itemMarginBottom: 10,
             symbolRadius: 0,
-            itemStyle: {
-                fontSize: '14px',
-                fontWeight: '400'
-            },
+            itemStyle: { fontSize: '14px', fontWeight: '400' },
             labelFormatter: function () {
                 return `${this.name} (${this.percentage.toFixed(1)}%)`;
             }
-        },
-        credits: {
-            enabled: false
         },
         series: [{
             name: 'Publications',
@@ -177,7 +169,6 @@ document.addEventListener('DOMContentLoaded', function () {
             ]
         }]
     });
-
 });
 </script>
 
