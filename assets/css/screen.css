@@ -7,8 +7,43 @@ License: https://www.wowthemes.net/freebies-license/
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
+
 .mainheading {
     padding: 1rem 0rem;
+}
+
+.flex-header {
+  display: flex;
+  align-items: stretch;      /* logo height = text block height */
+  gap: 24px;
+}
+
+.site-favicon {
+  height: auto;              /* automatic scaling */
+  width: auto;               /* maintain aspect ratio */
+  max-height: 100px;          /* fills text block height */
+  flex-shrink: 0;
+}
+
+/* Ensure text flows correctly */
+.header-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Mobile: stack logo above text */
+@media (max-width: 768px) {
+  .flex-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .site-favicon {
+    max-height: 50px; /* adjust for smaller screens */
+    margin-bottom: 0.5rem;
+  }
 }
 
 a {

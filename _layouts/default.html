@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
+<link rel="icon" href="{{ site.baseurl }}/assets/images/i-QM-logo.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -122,11 +122,13 @@ ga('send', 'pageview');
 
 <!-- Site Title
 ================================================== -->
-<div class="mainheading">
-    <h2 class="sitetitle">{{ site.name }}</h2>
-    <p class="lead">
-        {{ site.description }}
-    </p>
+<div class="mainheading flex-header">
+    <img src="{{ site.favicon | relative_url }}" alt="i-QM logo" class="site-favicon">
+
+    <div class="header-text">
+        <h2 class="sitetitle">{{ site.name }}</h2>
+        <p class="lead">{{ site.description }}</p>
+    </div>
 </div>
 
 <!-- Content

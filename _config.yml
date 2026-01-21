@@ -1,10 +1,10 @@
-name: Interdisciplinary Materials Group at National Taiwan University
-title: Interdisciplinary Materials Group at National Taiwan University
+name: Interdisciplinary Quantum Materials at National Taiwan University
+title: Interdisciplinary Quantum Materials at National Taiwan University
 description: >-
-  We are a theory-driven research group focused on solid-state theory,
-  simulation, and machine learning in materials science.
+  We are a theory-driven experimentation group using first-principles methods, machine learning, 
+  and advanced characterization to design and understand quantum materials.
 logo: assets/images/ntu_logo.png
-favicon: assets/images/ntu_logo.png
+favicon: assets/images/i-QM-logo.png
 lsi: false
 safe: true
 incremental: false
