@@ -4,6 +4,14 @@ layout: page
 permalink: "/courses"
 ---
 
+#### Quantum ESPRESSO Course for Solid‐State Physics
+>This course is a solid-state physics and hands-on tutorial for using Quantum ESPRESSO, an open software for quantum calculations for the electronic structure of materials. When we design a new material, the electronic structure calculation is essential to discuss the origin of the material's physical properties, particularly for semiconductors. Nowadays, many researchers and students can run Quantum ESPRESSO on personal computers without paying for the software. Thus, this course is essential for students who want to understand the physics of materials for their experiments or applications. 
+
+This course is designed for graduate students, and it was built on our successful workshops and lectures held in several countries since 2016.<br>
+- **Link**: [https://nguyen-group.github.io/courses/qe/](https://nguyen-group.github.io/courses/qe/)<br>
+- **Materials**: [https://github.com/nguyen-group/QE-SSP](https://github.com/nguyen-group/QE-SSP)<br>
+- **Book**: N. T. Hung, A. R. T. Nugraha and R. Saito, [Quantum ESPRESSO Course for Solid‑State Physics](https://doi.org/10.1201/9781003290964), Jenny Stanford Publishing, New York, 372 Pages, (2022).
+
 #### Computer Programming in Python
 > This course, Computer Programming in Python, introduces students to the fundamentals of Python programming. We begin with core language concepts, then explore how to visualize data through plotting. The course further demonstrates how Python can be applied to artificial neural networks and concludes with practical examples in physics and materials science, equipping students with programming skills relevant to modern scientific research.
 This course is designed for undergraduate students at [Global Undergraduate Program in Semiconductors (GUPS)](https://gups.ntu.edu.tw/), National Taiwan University.<br>
@@ -13,13 +21,15 @@ This course is designed for undergraduate students at [Global Undergraduate Prog
 - **Link**: [https://nguyen-group.github.io/courses/cpl/](https://nguyen-group.github.io/courses/cpl/)
 -->
 
-#### Quantum ESPRESSO Course for Solid‐State Physics
->This course is a solid-state physics and hands-on tutorial for using Quantum ESPRESSO, an open software for quantum calculations for the electronic structure of materials. When we design a new material, the electronic structure calculation is essential to discuss the origin of the material's physical properties, particularly for semiconductors. Nowadays, many researchers and students can run Quantum ESPRESSO on personal computers without paying for the software. Thus, this course is essential for students who want to understand the physics of materials for their experiments or applications. 
+#### AI and Computational Methods for Materials
+> This course will introduce modern computational methods for materials science, including artificial intelligence (AI), machine learning (ML) and density functional theory (DFT). Both AI/ML and DFT are becoming standard tools in chemistry, physics, and materials science. Deep learning specifically involves linking input data (features) with output data (labels) through a neural network. Neural networks are capable of approximating any function. A typical example is the relationship between a material's structure and its properties. Conversely, DFT is a computational method used to analyze the electronic structure of atoms, molecules, and materials. It is based on quantum mechanics and provides valuable insights into the properties and behavior of various materials. Both DFT and AI/ML have their own strengths and applications, and they can be combined. Depending on the engineering field and the specific problem, these methods can be relevant. Therefore, AI/ML and DFT are valuable tools for students who will become engineers and scientists.
+This course is designed for undergraduate and graduate students at [Department of Materials Science and Engineering](https://mse.ntu.edu.tw/home.jsp?lang=tw) and [Global Undergraduate Program in Semiconductors (GUPS)](https://gups.ntu.edu.tw/), National Taiwan University.<br>
+- **Link**: [https://course.ntu.edu.tw/en/courses/114-2/35017](https://course.ntu.edu.tw/en/courses/114-2/35017)
 
-This course is designed for graduate students, and it was built on our successful workshops and lectures held in several countries since 2016.<br>
-- **Link**: [https://nguyen-group.github.io/courses/qe/](https://nguyen-group.github.io/courses/qe/)<br>
-- **Materials**: [https://github.com/nguyen-group/QE-SSP](https://github.com/nguyen-group/QE-SSP)<br>
-- **Book**: N. T. Hung, A. R. T. Nugraha and R. Saito, [Quantum ESPRESSO Course for Solid‑State Physics](https://doi.org/10.1201/9781003290964), Jenny Stanford Publishing, New York, 372 Pages, (2022).
+#### Introduction to Materials Science
+> This course introduces the essential principles of materials science with a special focus on semiconductors — the key materials behind modern electronics and energy technologies. Students will explore how atomic structure, crystal symmetry, bonding, and defects determine the electrical, optical, and thermal properties of materials. Topics include crystal structures, bonding characteristics, phase diagrams, energy bands, vibration, and defects in crystalline solids. Building on these fundamentals, the course examines how semiconductors function in devices such as diodes, transistors, energy conversion, and solar cells. The relationships between material properties and device performance will be emphasized throughout. Through lectures, demonstrations, and problem-based exercises, students will develop both conceptual understanding and analytical skills needed to study and design semiconductor materials and devices.
+This course is designed for undergraduate students at [Global Undergraduate Program in Semiconductors (GUPS)](https://gups.ntu.edu.tw/), National Taiwan University.<br>
+- **Link**: [https://course.ntu.edu.tw/en/courses/114-2/24663](https://course.ntu.edu.tw/en/courses/114-2/24663)
 
 ---
 ### Workshops
