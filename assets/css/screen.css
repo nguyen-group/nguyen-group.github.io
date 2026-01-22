@@ -21,7 +21,7 @@ License: https://www.wowthemes.net/freebies-license/
 .site-favicon {
   height: auto;              /* automatic scaling */
   width: auto;               /* maintain aspect ratio */
-  max-height: 100px;          /* fills text block height */
+  max-height: 120px;          /* fills text block height */
   flex-shrink: 0;
 }
 
