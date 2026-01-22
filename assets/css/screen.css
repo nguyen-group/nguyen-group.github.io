@@ -41,7 +41,7 @@ License: https://www.wowthemes.net/freebies-license/
   }
 
   .site-favicon {
-    max-height: 50px; /* adjust for smaller screens */
+    max-height: 100px; /* adjust for smaller screens */
     margin-bottom: 0.5rem;
   }
 }
