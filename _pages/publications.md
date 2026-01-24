@@ -211,7 +211,7 @@ document.addEventListener('DOMContentLoaded', function () {
 {: reversed="reversed"}
 {:start="72"}
 ### 2024
-57. R. Liu, L. Li, Y. Zhang, J. Huang\*, M. Lin, **N. T. Hung**, Z. Wang, Z. Zhang, R. Saito, P. Tan\* and T. Yang\*, [Helicity selection rule of double resonance Raman spectra for monolayer MoSe2](https://doi.org/10.1103/PhysRevB.110.245422), ***Phys. Rev. B*** 110, 245422-1-9 (2024).
+57. R. Liu, L. Li, Y. Zhang, J. Huang\*, M. Lin, **N. T. Hung**, Z. Wang, Z. Zhang, R. Saito, P. H. Tan\* and T. Yang\*, [Helicity selection rule of double resonance Raman spectra for monolayer MoSe2](https://doi.org/10.1103/PhysRevB.110.245422), ***Phys. Rev. B*** 110, 245422-1-9 (2024).
 56. C. H. Yao, H. Gao, L. Ping, D. P. Gulo, H. L. Liu, **N. T. Hung**, R. Saito\* and X. Ling\*, [Nontrivial Raman characteristics in 2D non-van der Waals Mo5N6](https://doi.org/10.1021/acsnano.4c06250), ***ACS Nano*** 18, 32458-32467 (2024).
 55. **N. T. Hung**\*, R. Okabe,  A. Chotrattanapituk and M. Li\*, [Universal ensemble-embedding graph neural network for direct prediction of optical spectra from crystal structure](https://doi.org/10.1002/adma.202409175), ***Adv. Mat.*** 36, 2409175-1-11 (2024).
 >Press release: “[AI speeds up the discovery of energy and quantum materials](https://www.tohoku.ac.jp/en/press/ai_speeds_up_discovery_of_energy_and_quantum_materials.html)” on Oct. 7, 2023 by Tohoku University. An illustration of this paper was also selected as a [frontispiece](https://doi.org/10.1002/adma.202470369).
