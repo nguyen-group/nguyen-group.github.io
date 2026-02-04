@@ -181,8 +181,8 @@ document.addEventListener('DOMContentLoaded', function () {
 {: reversed="reversed"}
 {:start="80"}
 ### 2026
-78. R. Saito\*, **N. T. Hung**, J. Huang, R. Liu and T. Yang, [Theoretical advances in resonance Raman spectroscopy of solid](https://doi.org/10.35848/1882-0786/ae37c5), ***Appl. Phys. Express*** accepted (2026). (Invited review)
-77. P. Paukatong, **N. T. Hung**, K. M. A. Kumar, R. Saito and H. L. Liu\*, [Helicity-dependent Raman spectroscopy of diamond and zinc-blende crystal structures](https://doi.org/10.1002/jrs.70113), ***J. Raman Spectrosc.*** accepted (2026).
+78. P. Paukatong, **N. T. Hung**, K. M. A. Kumar, R. Saito and H. L. Liu\*, [Helicity-dependent Raman spectroscopy of diamond and zinc-blende crystal structures](https://doi.org/10.1002/jrs.70113), ***J. Raman Spectrosc.*** accepted (2026).
+77. R. Saito\*, **N. T. Hung**, J. Huang, R. Liu and T. Yang, [Theoretical advances in resonance Raman spectroscopy of solid](https://doi.org/10.35848/1882-0786/ae37c5), ***Appl. Phys. Express*** 19, 010104-1-12 (2026). (Invited review)
 76. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [Artificial intelligence-driven approaches for materials design and discovery](https://doi.org/10.1038/s41563-025-02403-7), ***Nat. Mater.*** 25, 174-190 (2026).
 75. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.1038/s41563-025-02355-y), ***Nat. Mater.*** 25, 223-230 (2025).
 > Press release: “[New tool makes generative AI models more likely to create breakthrough materials](https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922)” on Sep. 22, 2025, by MIT.
