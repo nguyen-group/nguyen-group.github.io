@@ -190,6 +190,7 @@ document.addEventListener('DOMContentLoaded', function () {
 > Press release: “[New tool makes generative AI models more likely to create breakthrough materials](https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922)” on Sep. 22, 2025, by MIT. This paper was also highlighted in the editorial: "[The dynamic frontier of artificial intelligence](https://doi.org/10.1038/s41563-026-02504-x)" by Nature Materials 25, 161 (2026).
 74. B. D. Annawati, K. M. A. Kumar, **N. T. Hung**, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito and H. L. Liu\*, [Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals](https://doi.org/10.1002/jrs.70004), ***J. Raman Spectrosc.*** 57, 11-22 (2026).
 73. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.1016/j.cpc.2025.110005), ***Comput. Phys. Commun.*** 320, 110005-1-12 (2026).
+>Source code: [http://qr2-code.com](http://qr2-code.com).
 72. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** 262, 244-251 (2026).
 {: reversed="reversed"}
 {:start="78"}
