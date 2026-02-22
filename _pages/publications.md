@@ -187,10 +187,11 @@ document.addEventListener('DOMContentLoaded', function () {
 76. M. Cheng\*†, C. L. Fu†, R. Okabe†, A. Chotrattanapituk, A. Boonkird, **N. T. Hung** and M. Li\*, [Artificial intelligence-driven approaches for materials design and discovery](https://doi.org/10.1038/s41563-025-02403-7), ***Nat. Mater.*** 25, 174-190 (2026).
 > This paper was highlighted in the editorial: "[The dynamic frontier of artificial intelligence](https://doi.org/10.1038/s41563-026-02504-x)" by Nature Materials 25, 161 (2026).
 75. R. Okabe\*, M. Cheng, A. Chotrattanapituk, M. Mandal, D. C. Carrizales, **N. T. Hung**, X. Fu, B. Han, Y. Wang, W. Xie, R. J. Cava, T. S. Jaakkola, Y. Cheng\* and M. Li\*, [Structural constraint integration in generative model for discovery of quantum material candidates](https://doi.org/10.1038/s41563-025-02355-y), ***Nat. Mater.*** 25, 223-230 (2026).
-> Press release: “[New tool makes generative AI models more likely to create breakthrough materials](https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922)” on Sep. 22, 2025, by MIT. This paper was also highlighted in the editorial: "[The dynamic frontier of artificial intelligence](https://doi.org/10.1038/s41563-026-02504-x)" by Nature Materials 25, 161 (2026).
+> Press release: “[New tool makes generative AI models more likely to create breakthrough materials](https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922)” on Sep. 22, 2025, by MIT. This paper was also highlighted in the editorial: "[The dynamic frontier of artificial intelligence](https://doi.org/10.1038/s41563-026-02504-x)" by Nature Materials 25, 161 (2026). 
+> Source files: [https://github.com/RyotaroOKabe/SCIGEN](https://github.com/RyotaroOKabe/SCIGEN).
 74. B. D. Annawati, K. M. A. Kumar, **N. T. Hung**, T. H. Lu, Y. P. Lan, X. L. Huang, G. J. Shu, R. Saito and H. L. Liu\*, [Polarized Raman spectroscopy of 2H-NbSe2 and 1T-VSe2 single crystals](https://doi.org/10.1002/jrs.70004), ***J. Raman Spectrosc.*** 57, 11-22 (2026).
 73. J. Huang\*, R. Liu, Y. Zhang, **N. T. Hung**\*, H. Guo, R. Saito and T. Yang\*, [QR2-code: An open-source program for double resonance Raman spectra](https://doi.org/10.1016/j.cpc.2025.110005), ***Comput. Phys. Commun.*** 320, 110005-1-12 (2026).
->Source code: [http://qr2-code.com](http://qr2-code.com).
+>Source files: [http://qr2-code.com](http://qr2-code.com).
 72. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** 262, 244-251 (2026).
 {: reversed="reversed"}
 {:start="78"}
@@ -225,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function () {
 51. S. N. Kajale, T. Nguyen, **N. T. Hung**, M. Li and D. Sarkar\*, [Field-free deterministic switching of all-van der Waals spin-orbit torque system above room temperature](https://doi.org/10.1126/sciadv.adk8669), ***Sci. Adv.*** 10, eadk8669-1-7 (2024).
 > Press release: “[Propelling atomically layered magnets toward green computers](https://news.mit.edu/2024/propelling-atomically-layered-magnets-toward-green-computers-0404)” on Apr. 04, 2024, by MIT. This paper was also highlighted in the newsletter: "[Van der Waals magnet integration for energy-efficient spintronics](https://doi.org/10.1038/s44287-024-00048-3)" by Nature Reviews Electrical Engineering 1, 217 (2024).
 50. **N. T. Hung**\*, J. Huang, Y. Tatsumi, T. Yang and R. Saito\*, [QERaman: An open-source program for calculating resonance Raman spectra based on Quantum ESPRESSO](https://doi.org/10.1016/j.cpc.2023.108967), ***Comput. Phys. Commun.*** 295, 108967-1-9 (2024).
->GitHub source: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
+>Source files: [https://github.com/nguyen-group/QERaman](https://github.com/nguyen-group/QERaman).
 49. V. V. Thanh\*, D. V. Truong and **N. T. Hung**\*, [Janus 2D B2P6: A promising anisotropic thermoelectric material with high power factor](https://doi.org/10.1016/j.surfin.2023.103829), ***Surf. Interfaces*** 44, 103829-1-8 (2024).
 {: reversed="reversed"}
 {:start="57"}
