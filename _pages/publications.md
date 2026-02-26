@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2019, papers: 10, citations: 101 },
         { year: 2020, papers: 7, citations: 131 },
         { year: 2021, papers: 4, citations: 171 },
-        { year: 2022, papers: 9, citations: 281 },
+        { year: 2022, papers: 9, citations: 280 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 295 },
         { year: 2025, papers: 18, citations: 468 },
