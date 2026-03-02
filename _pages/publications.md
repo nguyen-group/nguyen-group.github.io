@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorByPoint: true,
             data: [
                 { name: 'APS Journals (PRL, PRB, ect.)', y: 16, color: '#1e9ae0' },
-                { name: 'ACS Journals (ACS Nano, Nano Letters, ect.)', y: 18, color: '#0b3c73' },
+                { name: 'ACS Journals (ACS Nano, Nano Letters, ect.)', y: 19, color: '#0b3c73' },
                 { name: 'Advanced Materials', y: 2, color: '#ff4d00' },
                 { name: 'Nature Materials', y: 2, color: '#ffbb00' },
                 { name: 'Other', y: 40, color: '#e0e0e0' }
