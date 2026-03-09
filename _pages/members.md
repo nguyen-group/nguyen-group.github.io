@@ -37,7 +37,7 @@ permalink: "/members"
     <div>
       <h4>La Thuan Phuoc</h4>
       <p>
-      La Thuan Phuoc is Ph.D. student at Vietnam National University-Ho Chi Minh City, Vietnam. He is studying the DFT calculation for the materials science.
+      La Thuan Phuoc is Ph.D. student at Vietnam National University-Ho Chi Minh City, Vietnam. He is studying the DFT calculations for the materials science.
       </p>
     </div>
   </div>
@@ -64,7 +64,7 @@ permalink: "/members"
     <img src="{{site.baseurl}}/assets/images/bao.jpeg" alt="Member"/>
     <div>
       <h4>Nguyen Tran Gia Bao</h4>
-      <p>Nguyen Tran Gia Bao is undergraduate student at Vietnam National University-Ho Chi Minh City, Vietnam. He is studying and developing the DFT method/code and energy transport.</p>
+      <p>Nguyen Tran Gia Bao is undergraduate student at Vietnam National University-Ho Chi Minh City, Vietnam. He is studying and developing the solid-state physics and DFT method/code for the energy transport.</p>
     </div>
   </div>
 
