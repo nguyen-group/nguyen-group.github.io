@@ -31,7 +31,7 @@ permalink: "/members"
 <div class="members-grid">
 
   <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/binh.jpeg" alt="Pratama"/>
+    <img src="{{site.baseurl}}/assets/images/binh.jpeg" alt="Member"/>
     <div>
       <h4>Quach Thi Thai Binh</h4>
       <p>
@@ -54,10 +54,14 @@ permalink: "/members"
 
 ### Alumni
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="{{site.baseurl}}/assets/images/pratama.png" alt="Pratama" style="height: 290px; margin-right: 20px;"/>
-  <div>
-    <h4>Dr. Pratama Fenda Rizky</h4>
-    <p>Pratama Fenda Rizky received a Ph.D. from Tohoku University in September 2021. He joined the group as a post-doc from 2021 to 2022 and study the thermoelectric properties of the 3D materials. He now is working as a post-doc at Mathematics for Advanced Materials-OIL, AIST.</p>
+<div class="members-grid">
+
+  <div class="member-card">
+    <img src="{{site.baseurl}}/assets/images/pratama.png" alt="Member"/>
+    <div>
+      <h4>Dr. Pratama Fenda Rizky</h4>
+      <p>Pratama Fenda Rizky received a Ph.D. from Tohoku University in September 2021. He joined the group as a post-doc from 2021 to 2022 and study the thermoelectric properties of the 3D materials. He now is working as a researcher at The International Institute for Sustainability with Knotted Chiral Meta Matter, Hiroshima University, Japan.</p>
+    </div>
   </div>
+
 </div>
