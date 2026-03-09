@@ -934,3 +934,26 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.member-card {
+  display: flex;
+  align-items: flex-start;
+}
+
+.member-card img {
+  height: 150px;
+  margin-right: 15px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .members-grid {
+    grid-template-columns: 1fr;
+  }
+}
