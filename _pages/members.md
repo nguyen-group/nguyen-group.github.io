@@ -35,9 +35,9 @@ permalink: "/members"
   <div class="member-card">
     <img src="{{site.baseurl}}/assets/images/phuoc.jpeg" alt="Member"/>
     <div>
-      <h4>Thuan Phuoc</h4>
+      <h4>La Thuan Phuoc</h4>
       <p>
-      Thuan Phuoc is Ph.D. student at Vietnam National University-Ho Chi Minh City, Vietnam. He is studying the DFT calculation for the materials science.
+      La Thuan Phuoc is Ph.D. student at Vietnam National University-Ho Chi Minh City, Vietnam. He is studying the DFT calculation for the materials science.
       </p>
     </div>
   </div>
