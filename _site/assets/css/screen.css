@@ -21,7 +21,7 @@ License: https://www.wowthemes.net/freebies-license/
 .site-favicon {
   height: auto;              /* automatic scaling */
   width: auto;               /* maintain aspect ratio */
-  max-height: 100px;          /* fills text block height */
+  max-height: 120px;          /* fills text block height */
   flex-shrink: 0;
 }
 
@@ -41,7 +41,7 @@ License: https://www.wowthemes.net/freebies-license/
   }
 
   .site-favicon {
-    max-height: 50px; /* adjust for smaller screens */
+    max-height: 100px; /* adjust for smaller screens */
     margin-bottom: 0.5rem;
   }
 }
@@ -933,4 +933,27 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.member-card {
+  display: flex;
+  align-items: flex-start;
+}
+
+.member-card img {
+  height: 150px;
+  margin-right: 15px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .members-grid {
+    grid-template-columns: 1fr;
+  }
 }
