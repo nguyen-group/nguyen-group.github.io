@@ -28,6 +28,8 @@ permalink: "/members"
 
 ---
 
+### Current Members
+
 <div class="members-grid">
 
   <div class="member-card">
