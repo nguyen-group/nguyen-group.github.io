@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 295 },
         { year: 2025, papers: 18, citations: 465 },
-        { year: 2026, papers: 6, citations: 134 }
+        { year: 2026, papers: 6, citations: 140 }
     ];
 
     const yearlyCitations = data.map(d => [
@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function () {
 {: reversed="reversed"}
 {:start="80"}
 ### 2026
-79. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://arxiv.org/abs/2511.12167), ***J. Chem. Inf. Model.*** accepted (2026).
+79. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://doi.org/10.1021/acs.jcim.6c00396), ***J. Chem. Inf. Model.*** accepted (2026).
 78. P. Paukatong, **N. T. Hung**, K. M. A. Kumar, R. Saito and H. L. Liu\*, [Helicity-dependent Raman spectroscopy of diamond and zinc-blende crystal structures](https://doi.org/10.1002/jrs.70113), ***J. Raman Spectrosc.*** accepted (2026).
 77. R. Saito\*, **N. T. Hung**, J. Huang, R. Liu and T. Yang, [Theoretical advances in resonance Raman spectroscopy of solid](https://doi.org/10.35848/1882-0786/ae37c5), ***Appl. Phys. Express*** 19, 010104-1-12 (2026). (Invited review)
 > This paper was selected for the collection of review articles on applied physics entitled "[APEX-NEXT (Noteworthy Excellent Topics)](https://iopscience.iop.org/collections/apex-250923-01)".
