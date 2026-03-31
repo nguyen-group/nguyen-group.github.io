@@ -176,9 +176,10 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
+82. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
 81. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
 {: reversed="reversed"}
-{:start="81"}
+{:start="82"}
 ### 2026
 80. K. M. A. Kumar, P. Paukatong, T. H. Lu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Unusual helicity-resolved Raman characteristics in silicon surfaces](xxx), ***J. Phys. D: Appl. Phys.*** accepted (2026).
 79. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://doi.org/10.1021/acs.jcim.6c00396), ***J. Chem. Inf. Model.*** accepted (2026).
