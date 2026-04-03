@@ -176,11 +176,12 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
-82. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
-81. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
+83. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
+82. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
 {: reversed="reversed"}
-{:start="82"}
+{:start="83"}
 ### 2026
+81. P. Paukatong, K. M. A. Kumar, N. V. Thanh, X. L. Huang, G. J. Shu, R. Saito,  **N. T. Hung**\* and H. L. Liu\*, [Coupled electrical transport crossover and phonon anomalies in 1T-SnSe2](xxx), ***J. Phys. Chem. Lett.*** accepted (2026).
 80. K. M. A. Kumar, P. Paukatong, T. H. Lu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Unusual helicity-resolved Raman characteristics in silicon surfaces](xxx), ***J. Phys. D: Appl. Phys.*** accepted (2026).
 79. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://doi.org/10.1021/acs.jcim.6c00396), ***J. Chem. Inf. Model.*** accepted (2026).
 78. P. Paukatong, **N. T. Hung**, K. M. A. Kumar, R. Saito and H. L. Liu\*, [Helicity-dependent Raman spectroscopy of diamond and zinc-blende crystal structures](https://doi.org/10.1002/jrs.70113), ***J. Raman Spectrosc.*** accepted (2026).
@@ -196,7 +197,7 @@ document.addEventListener('DOMContentLoaded', function () {
 >Source files: [http://qr2-code.com](http://qr2-code.com).
 72. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** 262, 244-251 (2026).
 {: reversed="reversed"}
-{:start="80"}
+{:start="81"}
 ### 2025
 71. K. Zhang\*, M. Dandu, **N. T. Hung**, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang\*, [Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS2 heterostructures](https://doi.org/10.1021/acsnano.5c10861), ***ACS Nano*** 19, 38371−38380 (2025).
 > Press release: “[Study shows light can reshape atom-thin semiconductors for next-generation optical devices](https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices)” on Nov. 4, 2025, by Rice University.
