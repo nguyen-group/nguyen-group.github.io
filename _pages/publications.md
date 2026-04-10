@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function () {
                    <span style="font-size:16px;color:#555"> Total Citations</span>
                    &nbsp; | &nbsp;
                    <span style="font-size:16px;font-weight:600;color:#2c3e50">
-                   H-index = 21</span>`,
+                   H-index = 22</span>`,
             useHTML: true
         },
         xAxis: {
