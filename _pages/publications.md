@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 295 },
         { year: 2025, papers: 18, citations: 467 },
-        { year: 2026, papers: 7, citations: 174 }
+        { year: 2026, papers: 7, citations: 185 }
     ];
 
     const yearlyCitations = data.map(d => [
@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', function () {
 {: reversed="reversed"}
 {:start="83"}
 ### 2026
-81. P. Paukatong, K. M. A. Kumar, N. V. Thanh, X. L. Huang, G. J. Shu, R. Saito,  **N. T. Hung**\* and H. L. Liu\*, [Coupled electrical transport crossover and phonon anomalies in 1T-SnSe2](xxx), ***J. Phys. Chem. Lett.*** accepted (2026).
+81. P. Paukatong, K. M. A. Kumar, N. V. Thanh, X. L. Huang, G. J. Shu, R. Saito,  **N. T. Hung**\* and H. L. Liu\*, [Coupled electrical transport crossover and phonon anomalies in 1T-SnSe2](https://doi.org/10.1021/acs.jpclett.6c00330), ***J. Phys. Chem. Lett.*** accepted (2026).
 80. K. M. A. Kumar, P. Paukatong, T. H. Lu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Unusual helicity-resolved Raman characteristics in silicon surfaces](https://doi.org/10.1088/1361-6463/ae5caf), ***J. Phys. D: Appl. Phys.*** accepted (2026).
 79. Q. T. T. Binh, L. T. Phuoc, P. X. Hai, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid machine learning-driven detection of pesticides and dyes using Raman spectroscopy](https://doi.org/10.1021/acs.jcim.6c00396), ***J. Chem. Inf. Model.*** accepted (2026).
 78. P. Paukatong, **N. T. Hung**, K. M. A. Kumar, R. Saito and H. L. Liu\*, [Helicity-dependent Raman spectroscopy of diamond and zinc-blende crystal structures](https://doi.org/10.1002/jrs.70113), ***J. Raman Spectrosc.*** accepted (2026).
