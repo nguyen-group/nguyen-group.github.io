@@ -13,10 +13,9 @@ permalink: "/members"
     <div>
       <h4>Nguyen Tuan Hung</h4>
       <ul>
-        <li>9/2026 - Present: <b>Distinguished Associate Professor</b> (PI), FRIS, Tohoku University, Japan</li>
+        <li>8/2025 - Present: <b>Assistant Professor</b> (PI), MSE & GUPS, National Taiwan University, Taiwan</li>
+        <li>8/2025 - Present: <b>Newly Hired Exceptional Talent</b>, National Taiwan University, Taiwan</li>
         <li>6/2025 - Present: <b>Adjunct Professor</b> (PI), HCMUS, Vietnam National University-Ho Chi Minh City, Vietnam</li>
-        <li>8/2025 - 8/2026: <b>Assistant Professor</b> (PI), MSE & GUPS, National Taiwan University, Taiwan</li>
-        <li>8/2025 - 8/2026: <b>Newly Hired Exceptional Talent</b>, National Taiwan University, Taiwan</li>
         <li>4/2019 - 7/2025: <b>Assistant Professor</b> (PI), FRIS, Tohoku University, Japan</li>
         <li>6/2021 - 7/2025: <b>Prominent Research Fellow</b>, Tohoku University, Japan</li>
         <li>8/2023 - 5/2024: <b>Visiting Scholar</b>, NSE, Massachusetts Institute of Technology, USA</li>
