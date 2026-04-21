@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', function () {
 {: reversed="reversed"}
 {:start="84"}
 ### 2026
-82. T. T. Mai, M. Altvater, V. Labuntsov, S. Krylyuk, A. Davydov, M. A. Susner, **N. T. Hung**, J. Lynch, D. Jariwala, M. Snure, R. Saito, V. Perebeinos, N. R. Glavin and Rahul Rao\*, [Thickness-dependent surface phonon polaritons in InSe](https://doi.org/...),  ***Matter \& Light*** accepted (2026).
+82. T. T. Mai, M. Altvater, V. Labuntsov, S. Krylyuk, A. Davydov, M. A. Susner, **N. T. Hung**, J. Lynch, D. Jariwala, M. Snure, R. Saito, V. Perebeinos, N. R. Glavin and Rahul Rao\*, [Thickness-dependent surface phonon polaritons in InSe](https://doi.org/...),  ***Matter & Light*** accepted (2026).
 81. P. Paukatong, K. M. A. Kumar, N. V. Thanh, X. L. Huang, G. J. Shu, R. Saito,  **N. T. Hung**\* and H. L. Liu\*, [Coupled electrical transport crossover and phonon anomalies in 1T-SnSe2](https://doi.org/10.1021/acs.jpclett.6c00330), ***J. Phys. Chem. Lett.*** accepted (2026).
 80. K. M. A. Kumar, P. Paukatong, T. H. Lu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Unusual helicity-resolved Raman characteristics in silicon surfaces](https://doi.org/10.1088/1361-6463/ae5caf), ***J. Phys. D: Appl. Phys.*** accepted (2026).
 79. P. Paukatong, **N. T. Hung**, K. M. A. Kumar, R. Saito and H. L. Liu\*, [Helicity-dependent Raman spectroscopy of diamond and zinc-blende crystal structures](https://doi.org/10.1002/jrs.70113), ***J. Raman Spectrosc.*** accepted (2026).
