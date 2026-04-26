@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 295 },
         { year: 2025, papers: 18, citations: 467 },
-        { year: 2026, papers: 7, citations: 203 }
+        { year: 2026, papers: 7, citations: 218 }
     ];
 
     const yearlyCitations = data.map(d => [
