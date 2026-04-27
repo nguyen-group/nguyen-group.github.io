@@ -1,8 +1,7 @@
 name: Interdisciplinary Quantum Materials at National Taiwan University
 title: Interdisciplinary Quantum Materials at National Taiwan University
-description: >-
-  We are a theory-driven experimentation group using first-principles methods, machine learning, 
-  and advanced characterization to design and understand quantum materials.
+description: |
+  We develop innovative computational methods and software to understand, design, and discover next-generation quantum materials by integrating solid-state physics, first-principles calculations, high-throughput screening, and machine learning.
 logo: assets/images/ntu_logo.png
 favicon: assets/images/i-QM-logo.png
 lsi: false
