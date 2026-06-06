@@ -176,10 +176,11 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
+85. V. V. Thanh\*, N. M. Quan and **N. T. Hung**\*, [Tunable Rashba splitting in Janus InXPbP (X = S, Se, Te) monolayers for enhanced photocatalytic water splitting](https://arxiv.org/abs/2606.04720), ***arXiv:2606.04720*** submitted.
 84. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
 83. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
 {: reversed="reversed"}
-{:start="84"}
+{:start="85"}
 ### 2026
 82. T. T. Mai, M. Altvater, V. Labuntsov, S. Krylyuk, A. Davydov, M. A. Susner, **N. T. Hung**, J. Lynch, D. Jariwala, M. Snure, R. Saito, V. Perebeinos, N. R. Glavin and Rahul Rao\*, [Thickness-dependent surface phonon polaritons in InSe](https://doi.org/10.1016/j.matlit.2026.100014), ***Matter & Light*** 1, 100014-1-9 (2026).
 81. K. M. A. Kumar, P. Paukatong, T. H. Lu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Unusual helicity-resolved Raman characteristics in silicon surfaces](https://doi.org/10.1088/1361-6463/ae5caf), ***J. Phys. D: Appl. Phys.*** 59, 185102-1-11 (2026).
