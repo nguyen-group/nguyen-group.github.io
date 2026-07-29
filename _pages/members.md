@@ -78,18 +78,8 @@ permalink: "/members"
 
 ### Alumni
 
-<div class="members-grid">
-
-  <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/members/pratama.png" alt="Member"/>
-    <div>
-      <h4>Dr. Pratama Fenda Rizky</h4>
-      <p>Pratama Fenda Rizky received a Ph.D. from Tohoku University in September 2021. He joined the group as a post-doc from 2021 to 2022 and study the thermoelectric properties of the 3D materials. He now is working as a researcher at The International Institute for Sustainability with Knotted Chiral Meta Matter, Hiroshima University, Japan.</p>
-    </div>
-  </div>
-
-</div>
-
-### Exchange Students
-
+- Dr. Pratama Fenda Rizky (Postdoc from 2021 to 2022. He now is working as a researcher at The International Institute for Sustainability with Knotted Chiral Meta Matter, Hiroshima University, Japan.)
+- Ms. Amanda Ai Lien Nguyen (Exchange Student from The University of California, Davis in NTU Summer+ Research & Culture 2026)
+- Mr. Julian Alexandrov (Exchange Student from University of California Education Abroad Program in NTU Summer+ Research & Culture 2026)
+- Mr. Evan Menges (Exchange Student from Ohio State University in NTU Summer+ Research & Culture 2026)
 
