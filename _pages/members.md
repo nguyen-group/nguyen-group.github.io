@@ -9,7 +9,7 @@ permalink: "/members"
 <div class="members-grid" style="grid-template-columns: 1fr;">
 
   <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/nguyen.jpg" alt="Nguyen" style="height:300px; margin-right:20px;">
+    <img src="{{site.baseurl}}/assets/images/members/nguyen.jpg" alt="Nguyen" style="height:300px; margin-right:20px;">
     <div>
       <h4>Nguyen Tuan Hung</h4>
       <ul>
@@ -37,7 +37,7 @@ permalink: "/members"
 <div class="members-grid">
 
   <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/phuoc.jpeg" alt="Member"/>
+    <img src="{{site.baseurl}}/assets/images/members/phuoc.jpeg" alt="Member"/>
     <div>
       <h4>La Thuan Phuoc</h4>
       <p>
@@ -47,7 +47,7 @@ permalink: "/members"
   </div>
 
   <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/singh.jpeg" alt="Member"/>
+    <img src="{{site.baseurl}}/assets/images/members/singh.jpeg" alt="Member"/>
     <div>
       <h4>Lakhvir Singh</h4>
       <p>Lakhvir Singh is master student at National Taiwan University, Taiwan. He is studying and developing the AI and machine learning for the energy materials.</p>
@@ -55,7 +55,7 @@ permalink: "/members"
   </div>
 
   <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/binh.jpeg" alt="Member"/>
+    <img src="{{site.baseurl}}/assets/images/members/binh.jpeg" alt="Member"/>
     <div>
       <h4>Quach Thi Thai Binh</h4>
       <p>
@@ -65,7 +65,7 @@ permalink: "/members"
   </div>
 
   <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/bao.jpeg" alt="Member"/>
+    <img src="{{site.baseurl}}/assets/images/members/bao.jpeg" alt="Member"/>
     <div>
       <h4>Nguyen Tran Gia Bao</h4>
       <p>Nguyen Tran Gia Bao is undergraduate student at Vietnam National University-Ho Chi Minh City, Vietnam. He is studying and developing the solid-state physics and DFT method/code for the energy transport.</p>
@@ -81,7 +81,7 @@ permalink: "/members"
 <div class="members-grid">
 
   <div class="member-card">
-    <img src="{{site.baseurl}}/assets/images/pratama.png" alt="Member"/>
+    <img src="{{site.baseurl}}/assets/images/members/pratama.png" alt="Member"/>
     <div>
       <h4>Dr. Pratama Fenda Rizky</h4>
       <p>Pratama Fenda Rizky received a Ph.D. from Tohoku University in September 2021. He joined the group as a post-doc from 2021 to 2022 and study the thermoelectric properties of the 3D materials. He now is working as a researcher at The International Institute for Sustainability with Knotted Chiral Meta Matter, Hiroshima University, Japan.</p>
@@ -89,3 +89,7 @@ permalink: "/members"
   </div>
 
 </div>
+
+### Exchange Students
+
+
