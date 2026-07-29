@@ -79,8 +79,7 @@ permalink: "/members"
 
 ### Alumni
 
-- Dr. Pratama Fenda Rizky (Postdoc from 2021 to 2022. He now is working as a researcher at The International Institute for Sustainability with Knotted Chiral Meta Matter, Hiroshima University, Japan.)
-- Ms. Amanda Ai Lien Nguyen (Exchange Student from The University of California, Davis in NTU Summer+ Research & Culture 2026)
-- Mr. Julian Alexandrov (Exchange Student from University of California Education Abroad Program in NTU Summer+ Research & Culture 2026)
-- Mr. Evan Menges (Exchange Student from Ohio State University in NTU Summer+ Research & Culture 2026)
-
+- **Ms. Amanda Ai Lien Nguyen** (Exchange Student from The University of California, Davis in NTU Summer+ Research & Culture 2026)
+- **Mr. Julian Alexandrov** (Exchange Student from University of California Education Abroad Program in NTU Summer+ Research & Culture 2026)
+- **Mr. Evan Menges** (Exchange Student from Ohio State University in NTU Summer+ Research & Culture 2026)
+- **Dr. Pratama Fenda Rizky** (Postdoc from 2021 to 2022. He now is working as a researcher at The International Institute for Sustainability with Knotted Chiral Meta Matter, Hiroshima University, Japan.)
