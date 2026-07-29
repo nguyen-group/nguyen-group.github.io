@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interdisciplinary Quantum Materials at National Taiwan University</title>
-    <description>We leverage first-principles methods and machine learning to design and discover quantum materials, developing the computational tools necessary to push the boundaries of materials science.
+    <title>Interdisciplinary Quantum Materials at Tohoku University</title>
+    <description>We combine first-principles methods and machine learning to discover quantum materials and build the computational tools driving the future of materials science.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Apr 2026 19:20:50 +0800</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 19:20:50 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 01:35:37 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 01:35:37 +0800</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
