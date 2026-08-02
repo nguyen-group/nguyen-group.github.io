@@ -24,7 +24,7 @@ permalink: "/members"
         <li>12/2017 - 2/2018: <b>Advanced Scholar</b>, IMR, Chinese Academy of Sciences, China</li>
         <li>3/2018 - 3/2019: <b>JSPS Research Fellowships for Young Scientists</b>, Japan Society for the Promotion of Science, Japan</li>
       </ul>
-      <p><b>Contact:</b> <a href="mailto:nguyenth@ntu.edu.tw">nguyenth@ntu.edu.tw</a></p>
+      <p><b>Contact:</b> <a href="mailto:nguyen@tohoku.ac.jp">nguyen@tohoku.ac.jp</a></p>
     </div>
   </div>
 
