@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 295 },
         { year: 2025, papers: 18, citations: 467 },
-        { year: 2026, papers: 10, citations: 353 }
+        { year: 2026, papers: 10, citations: 357 }
     ];
 
     const yearlyCitations = data.map(d => [
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function () {
                    <span style="font-size:16px;color:#555"> Total Citations</span>
                    &nbsp; | &nbsp;
                    <span style="font-size:16px;font-weight:600;color:#2c3e50">
-                   H-index = 22</span>`,
+                   H-index = 23</span>`,
             useHTML: true
         },
         xAxis: {
