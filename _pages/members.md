@@ -25,9 +25,9 @@ permalink: "/members"
         <li>3/2018 - 3/2019: <b>JSPS Research Fellowships for Young Scientists</b>, Japan Society for the Promotion of Science, Japan</li>
       </ul>
       <p>
-      <b>Office:</b> FRIS Building, Aramaki aza Aoba 6-3, Aoba-ku, Sendai 980-8578, Japan
-      <b>Email:</b> <a href="mailto:nguyen@tohoku.ac.jp">nguyen@tohoku.ac.jp</a>
-      <b>Phone:</b> +84-22-795-4734 
+        <b>Office:</b> FRIS Building, Aramaki aza Aoba 6-3, Aoba-ku, Sendai 980-8578, Japan<br>
+        <b>Email:</b> <a href="mailto:nguyen@tohoku.ac.jp">nguyen@tohoku.ac.jp</a><br>
+        <b>Phone:</b> +84-22-795-4734
       </p>
 
     </div>
