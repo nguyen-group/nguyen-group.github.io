@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function () {
 >Source files: [http://qr2-code.com](http://qr2-code.com).
 72. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** 262, 244-251 (2026).
 {: reversed="reversed"}
-{:start="83"}
+{:start="84"}
 ### 2025
 71. K. Zhang\*, M. Dandu, **N. T. Hung**, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang\*, [Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS2 heterostructures](https://doi.org/10.1021/acsnano.5c10861), ***ACS Nano*** 19, 38371−38380 (2025).
 > Press release: “[Study shows light can reshape atom-thin semiconductors for next-generation optical devices](https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices)” on Nov. 4, 2025, by Rice University.
