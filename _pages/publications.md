@@ -176,11 +176,12 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
-87. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
-86. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
+88. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
+87. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defects limited carrier mobility in Janus MoSSe monolayer](https://arxiv.org/abs/2511.05437), ***arXiv:2511.05437*** submitted.
 {: reversed="reversed"}
-{:start="87"}
+{:start="88"}
 ### 2026
+86. X. Wang, **N. T. Hung** and S. Huang\*, [Raman enhancement of molecules sandwiched between van der Waals materials](https://doi.org/xxx), ***Nano Lett.*** accepted (2026).
 85. K. R. Pasoquen, H. P. Anh, K. M. A. Kumar, N. V. Thanh, X. L. Huang, G. J. Shu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Breit-Wigner-Fano Raman characteristics in semi-metallic 1T-Ti<sub>1.03</sub>S<sub>2</sub>](https://doi.org/xxx), ***Phys. Rev. B*** accepted (2026).
 84. H. P. Anh, N. V. Thanh, K. M. A. Kumar, P. Paukatong, X. L. Huang, G. J. Shu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Probing the charge density wave transition in semi-metallic 1T-TiSe<sub>2−δ</sub> by temperature-dependent Raman spectroscopy](https://doi.org/xxx), ***Phys. Rev. Mater.*** accepted (2026).
 83. V. V. Thanh\*, N. M. Quan and **N. T. Hung**\*, [First-principles investigation of tunable Rashba splitting in Janus InXPbP (X = S, Se, Te) monolayers for enhanced photocatalytic water splitting](https://doi.org/10.1021/acsanm.6c02712), ***ACS Appl. Nano Mater.*** accepted (2026).
@@ -201,7 +202,7 @@ document.addEventListener('DOMContentLoaded', function () {
 >Source files: [http://qr2-code.com](http://qr2-code.com).
 72. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** 262, 244-251 (2026).
 {: reversed="reversed"}
-{:start="85"}
+{:start="86"}
 ### 2025
 71. K. Zhang\*, M. Dandu, **N. T. Hung**, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang\*, [Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS<sub>2</sub> heterostructures](https://doi.org/10.1021/acsnano.5c10861), ***ACS Nano*** 19, 38371−38380 (2025).
 > Press release: “[Study shows light can reshape atom-thin semiconductors for next-generation optical devices](https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices)” on Nov. 4, 2025, by Rice University.
