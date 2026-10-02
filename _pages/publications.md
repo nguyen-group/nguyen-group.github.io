@@ -43,9 +43,9 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2022, papers: 9, citations: 281 },
         { year: 2023, papers: 9, citations: 265 },
         { year: 2024, papers: 11, citations: 295 },
-        { year: 2025, papers: 18, citations: 466 },
-        { year: 2026, papers: 10, citations: 441 },
-        { year: 2027, papers: 0, citations: 10 }
+        { year: 2025, papers: 18, citations: 465 },
+        { year: 2026, papers: 10, citations: 480 },
+        { year: 2027, papers: 0, citations: 11 }
     ];
 
     const yearlyCitations = data.map(d => [
@@ -186,9 +186,9 @@ document.addEventListener('DOMContentLoaded', function () {
 ### 2026
 88. T. A. Nguyen†, X. T. D. Nguyen†, L. V. Phong, H. T. S. Lam, N. T. Hoang, T. N. L. Giang, N. T. G. Bao, V. T. H. Thu, **N. T. Hung**, L. N. H. Tien, D. Lee and K. Q. Vo\*, [A distinct heterostructure of silver anchored porous rice-shaped TiO<sub>2</sub> for broad-light spectrum photocatalytic degradation of rhodamine B dye and ciprofloxacin](https://doi.org/10.1016/j.solidstatesciences.2026.108504), ***Solid State Sci.*** accepted (2026).
 87. R. Rao\*, P. Bhattacharya, T. T. Mai, M. A. Altvater, T. Matos, C. E. Stevens, S. A. Ekahana, M. N. A. Taj, A. Tiwari, **N. T. Hung**, A. N. Giordano, T. Gustafson, M. Zebarjadi, J. Katoch, J. R. Hendrickson, N. R. Glavin and M. A. Susner, [Structural control of defect-bound exciton emission in α-In<sub>2</sub>Se<sub>3</sub>](https://doi.org/xxx), ***Adv. Opt. Mater.*** accepted (2026).
-86. H. P. Anh, N. V. Thanh, K. M. A. Kumar, P. Paukatong, X. L. Huang, G. J. Shu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Probing the charge density wave transition in semi-metallic 1T-TiSe<sub>2−δ</sub> by temperature-dependent Raman spectroscopy](https://doi.org/xxx), ***Phys. Rev. Mater.*** accepted (2026).
-85. X. Wang, **N. T. Hung** and S. Huang\*, [Raman enhancement of molecules sandwiched between van der Waals materials](https://doi.org/10.1021/acs.nanolett.6c02758), ***Nano Lett.*** accepted (2026).
-84. K. R. Pasoquen, H. P. Anh, K. M. A. Kumar, N. V. Thanh, X. L. Huang, G. J. Shu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Breit-Wigner-Fano Raman characteristics in semi-metallic 1T-Ti<sub>1.03</sub>S<sub>2</sub>](https://doi.org/xxx), ***Phys. Rev. B*** 114, 165426-1-13 (2026).
+86. H. P. Anh, N. V. Thanh, K. M. A. Kumar, P. Paukatong, X. L. Huang, G. J. Shu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Probing the charge density wave transition in semi-metallic 1T-TiSe<sub>2−δ</sub> by temperature-dependent Raman spectroscopy](https://doi.org/xxx), ***Phys. Rev. Mater.*** 10, 104001-1-11 (2026).
+85. X. Wang, **N. T. Hung** and S. Huang\*, [Raman enhancement of molecules sandwiched between van der Waals materials](https://doi.org/10.1021/acs.nanolett.6c02758), ***Nano Lett.*** 26, 12787-12794 (2026).
+84. K. R. Pasoquen, H. P. Anh, K. M. A. Kumar, N. V. Thanh, X. L. Huang, G. J. Shu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Breit-Wigner-Fano Raman characteristics in semi-metallic 1T-Ti<sub>1.03</sub>S<sub>2</sub>](https://doi.org/10.1103/tdg3-1yg2), ***Phys. Rev. B*** 114, 165426-1-13 (2026).
 83. V. V. Thanh\*, N. M. Quan and **N. T. Hung**\*, [First-principles investigation of tunable Rashba splitting in Janus InXPbP (X = S, Se, Te) monolayers for enhanced photocatalytic water splitting](https://doi.org/10.1021/acsanm.6c02712), ***ACS Appl. Nano Mater.*** 9, 17008-17019 (2026).
 82. T. T. Mai, M. Altvater, V. Labuntsov, S. Krylyuk, A. Davydov, M. A. Susner, **N. T. Hung**, J. Lynch, D. Jariwala, M. Snure, R. Saito, V. Perebeinos, N. R. Glavin and Rahul Rao\*, [Thickness-dependent surface phonon polaritons in InSe](https://doi.org/10.1016/j.matlit.2026.100014), ***Matter & Light*** 1, 100014-1-9 (2026).
 81. K. M. A. Kumar, P. Paukatong, T. H. Lu, R. Saito, **N. T. Hung**\* and H. L. Liu\*, [Unusual helicity-resolved Raman characteristics in silicon surfaces](https://doi.org/10.1088/1361-6463/ae5caf), ***J. Phys. D: Appl. Phys.*** 59, 185102-1-11 (2026).
