@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
             name: 'Publications',
             colorByPoint: true,
             data: [
-                { name: 'APS Journals (PRL, PRB, ect.)', y: 16, color: '#1e9ae0' },
+                { name: 'APS Journals (PRL, PRB, ect.)', y: 18, color: '#1e9ae0' },
                 { name: 'ACS Journals (ACS Nano, Nano Letters, ect.)', y: 20, color: '#0b3c73' },
                 { name: 'Advanced Materials', y: 2, color: '#ff4d00' },
                 { name: 'Nature Materials', y: 2, color: '#ffbb00' },
@@ -177,12 +177,13 @@ document.addEventListener('DOMContentLoaded', function () {
 ### Papers in Peer-Reviewed Journal
 (*: corresponding author; †: equal contribution)
 ### Preprints
-92. Q. T. T. Binh, T. N. Q. Trang, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid and reliable identification of residual drugs using hybrid machine learning-assisted Raman spectroscopy](http://dx.doi.org/10.2139/ssrn.7499353), ***ssrn:7499353*** submitted.
-91. N. T. G. Bao, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Anharmonic phonon renormalization and defect tolerance of the thermoelectric power factor in monolayer SnSe](https://arxiv.org/abs/2609.20019), ***arXiv:2609.20019*** submitted.
-90. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
+93. Q. T. T. Binh, T. N. Q. Trang, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Rapid and reliable identification of residual drugs using hybrid machine learning-assisted Raman spectroscopy](http://dx.doi.org/10.2139/ssrn.7499353), ***ssrn:7499353*** submitted.
+92. N. T. G. Bao, T. B. Phan, V. T. H. Thu\* and **N. T. Hung**\*, [Anharmonic phonon renormalization and defect tolerance of the thermoelectric power factor in monolayer SnSe](https://arxiv.org/abs/2609.20019), ***arXiv:2609.20019*** submitted.
+91. H. Gao, D. Zhou, **N. T. Hung**, C. Wang, Z. Wang, R. Lu, Y. C. Lin, J. Cao, M. Geiwitz, G. Natale, K. S Burch, X. Qian, R. Saito, M. Terrone and X. Ling\*, [Suppression of metallic transport in nitrogen-rich two-dimensional transition metal nitrides](https://arxiv.org/abs/2603.24873), ***arXiv:2603.24873*** submitted.
 {: reversed="reversed"}
-{:start="92"}
+{:start="93"}
 ### 2026
+90. R. Liu†, Y. Zhang†, H. Guo\*, J. Huang\*, **N. T. Hung**, J. He, Z. Wang, Z. Zhang, R. Saito and T. Yang\*, \href{https://doi.org/...}{First-principles calculation of defect-induced Raman spectra in 2D materials: Monolayer graphene and MoSe<sub>2</sub>}, ***Phys. Rev. B*** accepted (2026).
 89. N. T. G. Bao, T. N. Q. Trang, T. B. Phan, N. Thoai, V. T. H. Thu\* and **N. T. Hung**\*, [Point defect tolerance of carrier mobility in Janus MoSSe monolayer](https://doi.org/10.1103/tn2t-dws6), ***Phys. Rev. Appl.*** accepted (2026).
 88. R. Rao\*, P. Bhattacharya, T. T. Mai, M. A. Altvater, T. Matos, C. E. Stevens, S. A. Ekahana, M. N. A. Taj, A. Tiwari, **N. T. Hung**, A. N. Giordano, T. Gustafson, M. Zebarjadi, J. Katoch, J. R. Hendrickson, N. R. Glavin and M. A. Susner, [Structural control of defect-bound exciton emission in α-In<sub>2</sub>Se<sub>3</sub>](https://doi.org/10.1002/adom.71820), ***Adv. Opt. Mater.*** accepted (2026).
 87. T. A. Nguyen†, X. T. D. Nguyen†, L. V. Phong, H. T. S. Lam, N. T. Hoang, T. N. L. Giang, N. T. G. Bao, V. T. H. Thu, **N. T. Hung**, L. N. H. Tien, D. Lee and K. Q. Vo\*, [A distinct heterostructure of silver anchored porous rice-shaped TiO<sub>2</sub> for broad-light spectrum photocatalytic degradation of rhodamine B dye and ciprofloxacin](https://doi.org/10.1016/j.solidstatesciences.2026.108504), ***Solid State Sci.*** 182, 108504-1-16 (2026).
@@ -207,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function () {
 >Source files: [http://qr2-code.com](http://qr2-code.com).
 72. Y. Zhang, R. Liu, J. Huang\*, **N. T. Hung**, R. Saito, H. Guo, T. Yang\* and Z. Zhang, [Polarized double-resonance Raman spectra of black phosphorus](https://doi.org/10.1016/j.jmst.2025.09.079), ***J. Mater. Sci. Technol.*** 262, 244-251 (2026).
 {: reversed="reversed"}
-{:start="89"}
+{:start="90"}
 ### 2025
 71. K. Zhang\*, M. Dandu, **N. T. Hung**, T. Zhang, E. Barre, R. Saito, J. Kong, A. Raja, S. Huang\*, [Optomechanical tuning of second harmonic generation anisotropy in Janus MoSSe/MoS<sub>2</sub> heterostructures](https://doi.org/10.1021/acsnano.5c10861), ***ACS Nano*** 19, 38371−38380 (2025).
 > Press release: “[Study shows light can reshape atom-thin semiconductors for next-generation optical devices](https://news.rice.edu/news/2025/study-shows-light-can-reshape-atom-thin-semiconductors-next-generation-optical-devices)” on Nov. 4, 2025, by Rice University.
