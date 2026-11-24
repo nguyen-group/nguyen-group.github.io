@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { year: 2016, papers: 2, citations: 7 },
         { year: 2017, papers: 5, citations: 24 },
         { year: 2018, papers: 4, citations: 42 },
-        { year: 2019, papers: 10, citations: 101 },
+        { year: 2019, papers: 10, citations: 102 },
         { year: 2020, papers: 7, citations: 132 },
         { year: 2021, papers: 4, citations: 171 },
         { year: 2022, papers: 9, citations: 281 },
